@@ -46,10 +46,12 @@ public class Card implements Comparable<Card> {
 
     public int compareTo(Card card) {
         // YOU WRITE THIS
+        return 0;
     }
 
     public boolean equals(Card card) {
         // YOU WRITE THIS
+        return false;
     }
 
     public String toString() {
