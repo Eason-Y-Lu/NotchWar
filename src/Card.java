@@ -44,14 +44,24 @@ public class Card implements Comparable<Card> {
         return mySymbol;
     }
 
+
     public int compareTo(Card card) {
-        // YOU WRITE THIS
-        return 0;
+        //the comparedTo method will return +-1 in special cases, and diff in other cases
+        if (Math.abs(this.getRank() - card.getRank()) == 1) {
+            //special case
+            if (this.getRank() < card.getRank()) {
+                return 1;
+            } else {
+                return -1;
+            }
+        } else {
+            return this.getRank() - card.getRank();
+        }
     }
 
     public boolean equals(Card card) {
-        // YOU WRITE THIS
-        return false;
+        //Check if Rank is equal
+        return this.getRank() == card.getRank();
     }
 
     public String toString() {
