@@ -13,4 +13,24 @@ public class Main {
             playerB.put(deck.getCard());
         }
     }
+
+    public static void playRound(Player playerA, Player playerB) {
+        Card pACard = playerA.get();
+        Card pBcard = playerB.get();
+        if (pACard.equals(pBcard)) {
+            //WAR
+        } else if (pACard.compareTo(pBcard) < 0) {
+            //PlayerB Wins
+            playerB.put(pACard);
+            playerB.put(pBcard);
+        } else {
+            //PlayerA Wins
+            playerA.put(pBcard);
+            playerA.put(pACard);
+        }
+    }
+
+    public static void war(Player playerA, Player playerB) {
+
+    }
 }
