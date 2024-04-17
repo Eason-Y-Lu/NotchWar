@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         Player[] players = new Player[2];
@@ -19,6 +21,10 @@ public class Main {
         Card pBcard = playerB.get();
         if (pACard.equals(pBcard)) {
             //WAR
+            ArrayList<Card> onTable = new ArrayList<Card>();
+            onTable.add(pACard);
+            onTable.add(pBcard);
+            war(playerA, playerB, onTable);
         } else if (pACard.compareTo(pBcard) < 0) {
             //PlayerB Wins
             playerB.put(pACard);
@@ -30,7 +36,7 @@ public class Main {
         }
     }
 
-    public static void war(Player playerA, Player playerB) {
+    public static void war(Player playerA, Player playerB, ArrayList<Card> onTable) {
 
     }
 }
