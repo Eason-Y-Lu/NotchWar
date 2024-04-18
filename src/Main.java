@@ -1,12 +1,29 @@
 import java.util.ArrayList;
 
 public class Main {
+    public static boolean win;
+
     public static void main(String[] args) {
         Player[] players = new Player[2];
         players[0] = new Player();
         players[1] = new Player();
         Deck deck = new Deck();
-        deal(players[0], players[1], deck);
+    }
+
+    public static void checkWin(Player player1, Player player2) {
+        if (!player1.hasCards()) {
+            win = true;
+        }
+        if (!player2.hasCards()) {
+            win = true;
+        }
+    }
+
+    public static void playNotchWar() {
+        while (!win) {
+            //TODO:Write this
+        }
+
     }
 
     public static void deal(Player playerA, Player playerB, Deck deck) {
@@ -25,6 +42,7 @@ public class Main {
             onTable.add(pACard);
             onTable.add(pBcard);
             war(playerA, playerB, onTable);
+
         } else if (pACard.compareTo(pBcard) < 0) {
             //PlayerB Wins
             playerB.put(pACard);
@@ -36,7 +54,5 @@ public class Main {
         }
     }
 
-    public static void war(Player playerA, Player playerB, ArrayList<Card> onTable) {
 
-    }
 }
