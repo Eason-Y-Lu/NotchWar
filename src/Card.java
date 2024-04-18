@@ -46,13 +46,7 @@ public class Card implements Comparable<Card> {
 
 
     public int compareTo(Card card) {
-        int rankDiff = this.getRank() - card.getRank();
-        //handle special case where if diff is 1 lesser card win
-        if (Math.abs(rankDiff) == 1) {
-            return (this.getRank() < card.getRank()) ? 1 : -1;
-        } else {
-            return rankDiff;
-        }
+        return this.getRank() - card.getRank();
     }
 
     public boolean equals(Card card) {
