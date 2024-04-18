@@ -1,6 +1,8 @@
 //Main.java
 
+import java.security.SecureRandom;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Main {
     public static boolean win;
@@ -60,26 +62,22 @@ public class Main {
             //noinspection ComparatorResultComparison
             if (cardA.compareTo(cardB) == -1) {
                 //player0 wins
-                player0.put(cardB);
-                player0.put(cardA);
+                getCards(player0, cardA, cardB);
                 System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
             } else {
                 //player1 wins
-                player1.put(cardB);
-                player1.put(cardA);
+                getCards(player1, cardA, cardB);
                 System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
             }
         } else if (cardA.compareTo(cardB) > 0) {
             //player0 wins
             System.out.println(cardA + " versus " + cardB);
-            player0.put(cardB);
-            player0.put(cardA);
+            getCards(player0, cardA, cardB);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         } else if (cardA.compareTo(cardB) < 0) {
             //player1 wins
             System.out.println(cardA + " versus " + cardB);
-            player1.put(cardB);
-            player1.put(cardA);
+            getCards(player1, cardA, cardB);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         }
     }
@@ -103,17 +101,32 @@ public class Main {
         if (cardA.compareTo(cardB) > 0) {
             //player0 wins
             System.out.println(cardA + " versus " + cardB);
-            for (Card c : downCard) {
-                player0.put(c);
-            }
+            getCards(player0, downCard);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         } else if (cardA.compareTo(cardB) < 0) {
             //player1 wins
             System.out.println(cardA + " versus " + cardB);
-            for (Card c : downCard) {
-                player1.put(c);
-            }
+            getCards(player1, downCard);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
+        }
+    }
+
+    public static void getCards(Player player, Card cardA, Card cardB) {
+        SecureRandom random = new SecureRandom();
+        if (random.nextBoolean()) {
+            player.put(cardA);
+            player.put(cardB);
+        } else {
+            player.put(cardB);
+            player.put(cardA);
+        }
+    }
+
+    public static void getCards(Player player, ArrayList<Card> cards) {
+        SecureRandom random = new SecureRandom();
+        Collections.shuffle(cards, random);
+        for (Card c : cards) {
+            player.put(c);
         }
     }
 }
