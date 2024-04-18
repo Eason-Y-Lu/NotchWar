@@ -10,13 +10,16 @@ public class Main {
         Deck deck = new Deck();
     }
 
-    public static void checkWin(Player player1, Player player2) {
+    public static boolean checkWin(Player player1, Player player2) {
         if (!player1.hasCards()) {
             win = true;
+            return true;
         }
         if (!player2.hasCards()) {
             win = true;
+            return true;
         }
+        return false;
     }
 
     public static void playNotchWar() {
