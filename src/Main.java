@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Main {
     public static boolean win;
 
@@ -9,16 +11,14 @@ public class Main {
         playNotchWar(players[0], players[1], deck);
     }
 
-    public static boolean checkWin(Player player0, Player player1) {
+    public static void checkWin(Player player0, Player player1) {
         if (!player0.hasCards()) {
             win = true;
-            return true;
+            return;
         }
         if (!player1.hasCards()) {
             win = true;
-            return true;
         }
-        return false;
     }
 
     public static void playNotchWar(Player player0, Player player1, Deck deck) {
@@ -49,10 +49,9 @@ public class Main {
         Card cardA = player0.get();
         Card cardB = player1.get();
         if (cardA.equals(cardB)) {
-            //war
-            //TODO:Write this section
-            System.err.println("WAR");
-            throw new RuntimeException("WAR");
+            System.out.println(cardA + " versus " + cardB);
+            ArrayList<Card> downCard = new ArrayList<>();
+            war(player0, player1, cardA, cardB, downCard);
         } else if (Math.abs(cardA.compareTo(cardB)) == 1) {
             //Notched
             System.out.println(cardA + " versus " + cardB + " (Notched!)");
@@ -79,6 +78,39 @@ public class Main {
             System.out.println(cardA + " versus " + cardB);
             player1.put(cardB);
             player1.put(cardA);
+            System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
+        }
+    }
+
+    public static void war(Player player0, Player player1, Card cardA, Card cardB, ArrayList<Card> downCard) {
+        System.out.println("WAR!");
+        for (int i = 0; i < 3; i++) {
+            if (player0.hasCards()) {
+                downCard.add(cardA);
+                cardA = player0.get();
+            }
+            if (player1.hasCards()) {
+                downCard.add(cardB);
+                cardB = player1.get();
+            }
+        }
+        if (cardA.equals(cardB)) {
+            System.out.println(cardA + " versus " + cardB);
+            war(player0, player1, cardA, cardB, downCard);
+        }
+        if (cardA.compareTo(cardB) > 0) {
+            //player0 wins
+            System.out.println(cardA + " versus " + cardB);
+            for (Card c : downCard) {
+                player0.put(c);
+            }
+            System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
+        } else if (cardA.compareTo(cardB) < 0) {
+            //player1 wins
+            System.out.println(cardA + " versus " + cardB);
+            for (Card c : downCard) {
+                player1.put(c);
+            }
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         }
     }
