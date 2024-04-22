@@ -16,6 +16,7 @@ public class Main {
     }
 
     public static void checkWin(Player player0, Player player1) {
+        //Check if a player has no cards, if so, the other player wins.
         if (!player0.hasCards()) {
             WIN = true;
             return;
@@ -26,7 +27,6 @@ public class Main {
     }
 
     public static void playNotchWar(Player player0, Player player1, Deck deck) {
-        //Dealing the 26 cards
         deal(player0, player1, deck);
         while (!WIN) {
             try {
@@ -48,6 +48,7 @@ public class Main {
     }
 
     public static void deal(Player player0, Player player1, Deck deck) {
+        //Deal 26 cards to each player, 52 cards in total.
         for (int i = 0; i < 26; i++) {
             player0.put(deck.getCard());
             player1.put(deck.getCard());
@@ -125,6 +126,7 @@ public class Main {
     }
 
     public static void getCards(Player player, Card cardA, Card cardB) {
+        //Shuffle the cards before giving them back into the player.
         SecureRandom random = new SecureRandom();
         if (random.nextBoolean()) {
             player.put(cardA);
@@ -136,6 +138,7 @@ public class Main {
     }
 
     public static void getCards(Player player, ArrayList<Card> cards) {
+        //Shuffle the cards before giving them back into the player.
         SecureRandom random = new SecureRandom();
         Collections.shuffle(cards, random);
         for (Card c : cards) {

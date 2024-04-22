@@ -1,4 +1,5 @@
 //Card.java
+
 public class Card implements Comparable<Card> {
     private final String mySymbol;
     private final int myRank;
