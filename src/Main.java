@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Main {
-    public static boolean win;
+    public static boolean WIN;
 
     public static void main(String[] args) {
         Player[] players = new Player[2];
@@ -17,19 +17,24 @@ public class Main {
 
     public static void checkWin(Player player0, Player player1) {
         if (!player0.hasCards()) {
-            win = true;
+            WIN = true;
             return;
         }
         if (!player1.hasCards()) {
-            win = true;
+            WIN = true;
         }
     }
 
     public static void playNotchWar(Player player0, Player player1, Deck deck) {
         //Dealing the 26 cards
         deal(player0, player1, deck);
-        while (!win) {
-            playRound(player0, player1);
+        while (!WIN) {
+            try {
+                playRound(player0, player1);
+            } catch (RuntimeException runtimeException) {
+                System.out.println("There is a draw.");
+                return;
+            }
             checkWin(player0, player1);
         }
         String winner;
@@ -96,16 +101,24 @@ public class Main {
         }
         if (cardA.equals(cardB)) {
             System.out.println(cardA + " versus " + cardB);
+            //Check for Draw, if draw, an error will be thrown.
+            if (!player0.hasCards() && !player1.hasCards()) {
+                throw new RuntimeException("DRAW");
+            }
             war(player0, player1, cardA, cardB, downCard);
         }
         if (cardA.compareTo(cardB) > 0) {
             //player0 wins
             System.out.println(cardA + " versus " + cardB);
+            downCard.add(cardA);
+            downCard.add(cardB);
             getCards(player0, downCard);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         } else if (cardA.compareTo(cardB) < 0) {
             //player1 wins
             System.out.println(cardA + " versus " + cardB);
+            downCard.add(cardA);
+            downCard.add(cardB);
             getCards(player1, downCard);
             System.out.println("Player 0 has: " + player0.size() + " Player 1 has: " + player1.size());
         }

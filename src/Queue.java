@@ -1,5 +1,3 @@
-//Queue.java
-
 import java.util.LinkedList;
 
 public class Queue<E> extends LinkedList<E> {
@@ -7,11 +5,11 @@ public class Queue<E> extends LinkedList<E> {
     }
 
     public void put(E o) {
-        addFirst(o);
+        addLast(o);
     }
 
     public E get() {
-        if (!this.isEmpty()) {
+        if (!(this.isEmpty())) {
             return removeFirst();
         } else {
             System.err.println("You can't do that!");
@@ -23,5 +21,3 @@ public class Queue<E> extends LinkedList<E> {
         return getFirst();
     }
 }
-
-

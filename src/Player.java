@@ -2,7 +2,7 @@
 
 import java.util.NoSuchElementException;
 
-public class Player extends Stack<Card> {
+public class Player extends Queue<Card> {
     public boolean hasCards() {
         //Because calling peek() could resolve in NoSuchElement Exception, it is handled here rather than in Main
         try {
