@@ -1,0 +1,31 @@
+This code is completed with the assistance of Github Copilot v1.181.0, and JetBrain's AI assistant.
+Github copilot https://github.com/features/copilot
+JetBrain's AI assistant https://www.jetbrains.com/ai/
+
+Example of how copilot is used:
+
+    public static void checkWin(Player player0, Player player1) {
+    //
+        if (!player0.hasCards()) {
+            WIN = true;
+            return;
+        }
+        if (!player1.hasCards()) {
+            WIN = true;
+        }
+    }
+
+The copilot suggestion is "Check if a player has no cards". If I press tab, it will implement the solution to be as:
+
+    public static void checkWin(Player player0, Player player1) {
+        //Check if a player has no cards
+        if (!player0.hasCards()) {
+            WIN = true;
+            return;
+        }
+        if (!player1.hasCards()) {
+            WIN = true;
+        }
+    }
+
+The comments in this project are completed in this manner.
