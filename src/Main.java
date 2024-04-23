@@ -90,7 +90,7 @@ public class Main {
 
     public static void war(Player player0, Player player1, Card cardA, Card cardB, ArrayList<Card> downCard) {
         System.out.println("WAR!");
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             if (player0.hasCards()) {
                 downCard.add(cardA);
                 cardA = player0.get();
