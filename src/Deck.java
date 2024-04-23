@@ -1,4 +1,5 @@
 // Deck.java
+// By Josh Paley for AP-CSA
 
 import java.util.HashSet;
 import java.util.Iterator;

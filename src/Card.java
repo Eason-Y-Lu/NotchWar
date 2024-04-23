@@ -1,4 +1,5 @@
 //Card.java
+//By Yicheng (Eason) Lu for AP-CSA
 
 public class Card implements Comparable<Card> {
     private final String mySymbol;
