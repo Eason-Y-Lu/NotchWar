@@ -1,4041 +1,3581 @@
-JH versus 2H
-Player 0 has: 27 Player 1 has: 25
-4C versus KD
-Player 0 has: 26 Player 1 has: 26
-3C versus JD
+3D versus JD
 Player 0 has: 25 Player 1 has: 27
-9H versus 6S
-Player 0 has: 26 Player 1 has: 26
-2D versus JS
-Player 0 has: 25 Player 1 has: 27
-TS versus TD
-WAR!
-QC versus JC
-Player 0 has: 29 Player 1 has: 23
-3S versus KH
-Player 0 has: 28 Player 1 has: 24
-TC versus AC
-Player 0 has: 27 Player 1 has: 25
-AD versus QS
-Player 0 has: 28 Player 1 has: 24
-QD versus 9D
-Player 0 has: 29 Player 1 has: 23
-7S versus 6H (Notched!)
-Player 0 has: 28 Player 1 has: 24
-4D versus 5C (Notched!)
-Player 0 has: 29 Player 1 has: 23
-2C versus 9C
-Player 0 has: 28 Player 1 has: 24
-9S versus 5S
-Player 0 has: 29 Player 1 has: 23
-KC versus TH
-Player 0 has: 30 Player 1 has: 22
-5H versus QH
-Player 0 has: 29 Player 1 has: 23
-7C versus KS
-Player 0 has: 28 Player 1 has: 24
-3H versus 3D
-WAR!
-8H versus 8D
-WAR!
-JH versus KD
-Player 0 has: 21 Player 1 has: 31
-2H versus 4C
-Player 0 has: 20 Player 1 has: 32
-9H versus 3C
-Player 0 has: 21 Player 1 has: 31
-6S versus JD
-Player 0 has: 20 Player 1 has: 32
-JC versus JS
-WAR!
-6D versus KH
-Player 0 has: 16 Player 1 has: 36
-AH versus AC
-WAR!
-2S versus 7S
-Player 0 has: 12 Player 1 has: 40
-QS versus 9C
-Player 0 has: 13 Player 1 has: 39
-AD versus 2C
-Player 0 has: 14 Player 1 has: 38
-9D versus QH
-Player 0 has: 13 Player 1 has: 39
-QD versus 5H
-Player 0 has: 14 Player 1 has: 38
-4D versus 7C
-Player 0 has: 13 Player 1 has: 39
-5C versus KS
-Player 0 has: 12 Player 1 has: 40
-5S versus 8H
-Player 0 has: 11 Player 1 has: 41
-9S versus 4H
-Player 0 has: 12 Player 1 has: 40
-TH versus 8S
-Player 0 has: 13 Player 1 has: 39
-KC versus JH
-Player 0 has: 14 Player 1 has: 38
-9H versus 8C (Notched!)
-Player 0 has: 13 Player 1 has: 39
-3C versus 5D
-Player 0 has: 12 Player 1 has: 40
-9C versus 7D
-Player 0 has: 13 Player 1 has: 39
-QS versus AS
-Player 0 has: 12 Player 1 has: 40
-AD versus 8D
-Player 0 has: 13 Player 1 has: 39
-2C versus 3D (Notched!)
-Player 0 has: 14 Player 1 has: 38
-QD versus 3H
-Player 0 has: 15 Player 1 has: 37
-5H versus 6C (Notched!)
-Player 0 has: 16 Player 1 has: 36
-9S versus 7H
-Player 0 has: 17 Player 1 has: 35
-4H versus KD
-Player 0 has: 16 Player 1 has: 36
-TH versus 4C
-Player 0 has: 17 Player 1 has: 35
-8S versus 2H
-Player 0 has: 18 Player 1 has: 34
-JH versus 6S
-Player 0 has: 19 Player 1 has: 33
-KC versus JD
-Player 0 has: 20 Player 1 has: 32
-7D versus 6D (Notched!)
-Player 0 has: 19 Player 1 has: 33
-9C versus 4S
-Player 0 has: 20 Player 1 has: 32
-AD versus JC
-Player 0 has: 21 Player 1 has: 31
-8D versus KH
-Player 0 has: 20 Player 1 has: 32
-2C versus 2D
-WAR!
-QD versus 3S
-Player 0 has: 24 Player 1 has: 28
-5H versus 2S
-Player 0 has: 25 Player 1 has: 27
-6C versus AH
-Player 0 has: 24 Player 1 has: 28
-7H versus 7S
-WAR!
-TH versus TD
-WAR!
-JH versus 9D
-Player 0 has: 31 Player 1 has: 21
-6S versus QH
-Player 0 has: 30 Player 1 has: 22
-KC versus 7C
-Player 0 has: 31 Player 1 has: 21
-JD versus 4D
-Player 0 has: 32 Player 1 has: 20
-9C versus 5C
-Player 0 has: 33 Player 1 has: 19
-4S versus KS
-Player 0 has: 32 Player 1 has: 20
-AD versus 8H
-Player 0 has: 33 Player 1 has: 19
-JC versus 5S
-Player 0 has: 34 Player 1 has: 18
-3H versus 9H
-Player 0 has: 33 Player 1 has: 19
-2D versus 8C
-Player 0 has: 32 Player 1 has: 20
-2C versus 3C (Notched!)
-Player 0 has: 33 Player 1 has: 19
-3D versus 5D
-Player 0 has: 32 Player 1 has: 20
-QD versus QS
-WAR!
-3S versus 4H
-Player 0 has: 28 Player 1 has: 24
-2S versus 7D
-Player 0 has: 27 Player 1 has: 25
-5H versus 6D (Notched!)
-Player 0 has: 28 Player 1 has: 24
-JH versus 8D
-Player 0 has: 29 Player 1 has: 23
-TH versus KH
-Player 0 has: 28 Player 1 has: 24
-TD versus AH
-Player 0 has: 27 Player 1 has: 25
-2H versus 6C
-Player 0 has: 26 Player 1 has: 26
-7H versus 6S (Notched!)
-Player 0 has: 25 Player 1 has: 27
-8S versus QH
-Player 0 has: 24 Player 1 has: 28
-6H versus 4S
-Player 0 has: 25 Player 1 has: 27
-TC versus KS
-Player 0 has: 24 Player 1 has: 28
-7S versus 3H
-Player 0 has: 25 Player 1 has: 27
-TS versus 9H (Notched!)
-Player 0 has: 24 Player 1 has: 28
-4C versus 8C
-Player 0 has: 23 Player 1 has: 29
-9D versus 2D
-Player 0 has: 24 Player 1 has: 28
-AC versus 3D
-Player 0 has: 25 Player 1 has: 27
-9S versus 5D
-Player 0 has: 26 Player 1 has: 26
-KC versus KD
-WAR!
-JD versus QC
-Player 0 has: 22 Player 1 has: 30
-5C versus 4H (Notched!)
-Player 0 has: 21 Player 1 has: 31
-9C versus AS
-Player 0 has: 20 Player 1 has: 32
-8H versus JS
-Player 0 has: 19 Player 1 has: 33
-AD versus 3S
-Player 0 has: 20 Player 1 has: 32
-5S versus 2S
-Player 0 has: 21 Player 1 has: 31
-JC versus 7D
-Player 0 has: 22 Player 1 has: 30
-2C versus TH
-Player 0 has: 21 Player 1 has: 31
-3C versus KH
-Player 0 has: 20 Player 1 has: 32
-6D versus AH
-Player 0 has: 19 Player 1 has: 33
-5H versus TD
-Player 0 has: 18 Player 1 has: 34
-8D versus 6C
-Player 0 has: 19 Player 1 has: 33
-JH versus 2H
-Player 0 has: 20 Player 1 has: 32
-6H versus 7H (Notched!)
-Player 0 has: 21 Player 1 has: 31
-4S versus 6S
-Player 0 has: 20 Player 1 has: 32
-3H versus 8S
-Player 0 has: 19 Player 1 has: 33
-7S versus QH
-Player 0 has: 18 Player 1 has: 34
-9D versus TC (Notched!)
-Player 0 has: 19 Player 1 has: 33
-2D versus KS
-Player 0 has: 18 Player 1 has: 34
-AC versus 9H
-Player 0 has: 19 Player 1 has: 33
-3D versus TS
-Player 0 has: 18 Player 1 has: 34
-9S versus 4C
-Player 0 has: 19 Player 1 has: 33
-5D versus 8C
-Player 0 has: 18 Player 1 has: 34
-AD versus QC
-Player 0 has: 19 Player 1 has: 33
-3S versus KD
-Player 0 has: 18 Player 1 has: 34
-2S versus QD
-Player 0 has: 17 Player 1 has: 35
-5S versus 4D (Notched!)
-Player 0 has: 16 Player 1 has: 36
-7D versus KC
-Player 0 has: 15 Player 1 has: 37
-JC versus QS (Notched!)
-Player 0 has: 16 Player 1 has: 36
-8D versus JD
-Player 0 has: 15 Player 1 has: 37
-6C versus 7C (Notched!)
-Player 0 has: 16 Player 1 has: 36
-2H versus 4H
-Player 0 has: 15 Player 1 has: 37
-JH versus 5C
-Player 0 has: 16 Player 1 has: 36
-7H versus 9C
-Player 0 has: 15 Player 1 has: 37
-6H versus AS
-Player 0 has: 14 Player 1 has: 38
-TC versus JS (Notched!)
-Player 0 has: 15 Player 1 has: 37
-9D versus 8H (Notched!)
-Player 0 has: 14 Player 1 has: 38
-AC versus TH
-Player 0 has: 15 Player 1 has: 37
-9H versus 2C
-Player 0 has: 16 Player 1 has: 36
-4C versus 3C (Notched!)
-Player 0 has: 15 Player 1 has: 37
-9S versus KH
-Player 0 has: 14 Player 1 has: 38
-QC versus AH
-Player 0 has: 13 Player 1 has: 39
-AD versus 6D
-Player 0 has: 14 Player 1 has: 38
-JC versus 5H
-Player 0 has: 15 Player 1 has: 37
-QS versus TD
-Player 0 has: 16 Player 1 has: 36
-6C versus 6S
-WAR!
-JH versus 3H
-Player 0 has: 20 Player 1 has: 32
-JS versus QH (Notched!)
-Player 0 has: 21 Player 1 has: 31
 TC versus 7S
-Player 0 has: 22 Player 1 has: 30
-AC versus 2D
-Player 0 has: 23 Player 1 has: 29
-TH versus KS
-Player 0 has: 22 Player 1 has: 30
-9H versus 3D
-Player 0 has: 23 Player 1 has: 29
-2C versus TS
-Player 0 has: 22 Player 1 has: 30
-6D versus 8C
-Player 0 has: 21 Player 1 has: 31
-AD versus 5D
-Player 0 has: 22 Player 1 has: 30
-5H versus 3S
-Player 0 has: 23 Player 1 has: 29
-JC versus KD
-Player 0 has: 22 Player 1 has: 30
-QS versus QD
-WAR!
-7C versus 5S
 Player 0 has: 26 Player 1 has: 26
-8S versus 7D (Notched!)
-Player 0 has: 25 Player 1 has: 27
-JH versus KC
-Player 0 has: 24 Player 1 has: 28
-6S versus 8D
-Player 0 has: 23 Player 1 has: 29
-5C versus JD
-Player 0 has: 22 Player 1 has: 30
-4S versus 4H
-WAR!
-QH versus 7H
-Player 0 has: 26 Player 1 has: 26
-TC versus AS
-Player 0 has: 25 Player 1 has: 27
-7S versus 6H (Notched!)
-Player 0 has: 24 Player 1 has: 28
-2D versus 9D
-Player 0 has: 23 Player 1 has: 29
-AC versus 8H
-Player 0 has: 24 Player 1 has: 28
-3D versus 4C (Notched!)
-Player 0 has: 25 Player 1 has: 27
-9H versus 3C
-Player 0 has: 26 Player 1 has: 26
-5D versus KH
-Player 0 has: 25 Player 1 has: 27
-AD versus 9S
-Player 0 has: 26 Player 1 has: 26
-5H versus QC
-Player 0 has: 25 Player 1 has: 27
-3S versus AH
-Player 0 has: 24 Player 1 has: 28
-7C versus TH
-Player 0 has: 23 Player 1 has: 29
-QS versus KS (Notched!)
-Player 0 has: 24 Player 1 has: 28
-4D versus TS
-Player 0 has: 23 Player 1 has: 29
-5S versus 2C
-Player 0 has: 24 Player 1 has: 28
-TD versus 6D
-Player 0 has: 25 Player 1 has: 27
-2S versus 8C
-Player 0 has: 24 Player 1 has: 28
-6C versus KD
-Player 0 has: 23 Player 1 has: 29
-QD versus JC (Notched!)
-Player 0 has: 22 Player 1 has: 30
-9C versus 7D
-Player 0 has: 23 Player 1 has: 29
-JS versus 8S
-Player 0 has: 24 Player 1 has: 28
-2H versus JH
-Player 0 has: 23 Player 1 has: 29
-7H versus KC
-Player 0 has: 22 Player 1 has: 30
-3H versus 8D
-Player 0 has: 21 Player 1 has: 31
-4S versus 6S
-Player 0 has: 20 Player 1 has: 32
-4H versus JD
-Player 0 has: 19 Player 1 has: 33
-QH versus 5C
-Player 0 has: 20 Player 1 has: 32
-8H versus AS
-Player 0 has: 19 Player 1 has: 33
-AC versus TC
-Player 0 has: 20 Player 1 has: 32
-3D versus 7S
-Player 0 has: 19 Player 1 has: 33
-4C versus 6H
-Player 0 has: 18 Player 1 has: 34
-3C versus 2D (Notched!)
-Player 0 has: 17 Player 1 has: 35
-9H versus 9D
-WAR!
-QS versus 5H
-Player 0 has: 21 Player 1 has: 31
-KS versus QC (Notched!)
-Player 0 has: 20 Player 1 has: 32
-5S versus 3S
-Player 0 has: 21 Player 1 has: 31
-2C versus AH
-Player 0 has: 20 Player 1 has: 32
-6D versus 7C (Notched!)
-Player 0 has: 21 Player 1 has: 31
-TD versus TH
-WAR!
-JS versus 8C
-Player 0 has: 25 Player 1 has: 27
-8S versus 2S
-Player 0 has: 26 Player 1 has: 26
-QH versus 6C
-Player 0 has: 27 Player 1 has: 25
-5C versus KD
-Player 0 has: 26 Player 1 has: 26
-AC versus JC
-Player 0 has: 27 Player 1 has: 25
-TC versus QD
-Player 0 has: 26 Player 1 has: 26
-5D versus JH
-Player 0 has: 25 Player 1 has: 27
-KH versus 2H
-Player 0 has: 26 Player 1 has: 26
-9S versus 7H
-Player 0 has: 27 Player 1 has: 25
-QS versus KC (Notched!)
-Player 0 has: 28 Player 1 has: 24
-9D versus 3H
-Player 0 has: 29 Player 1 has: 23
-9H versus 8D (Notched!)
-Player 0 has: 28 Player 1 has: 24
-AD versus 4S
-Player 0 has: 29 Player 1 has: 23
-5H versus 6S (Notched!)
-Player 0 has: 30 Player 1 has: 22
-3S versus JD
-Player 0 has: 29 Player 1 has: 23
-5S versus 4H (Notched!)
-Player 0 has: 28 Player 1 has: 24
-6D versus 8H
-Player 0 has: 27 Player 1 has: 25
-7C versus AS
-Player 0 has: 26 Player 1 has: 26
-9C versus 3D
-Player 0 has: 27 Player 1 has: 25
-TD versus 7S
-Player 0 has: 28 Player 1 has: 24
-4D versus 4C
-WAR!
-JS versus 2D
-Player 0 has: 32 Player 1 has: 20
-8C versus QC
-Player 0 has: 31 Player 1 has: 21
-TS versus KS
-Player 0 has: 30 Player 1 has: 22
-2S versus AH
-Player 0 has: 29 Player 1 has: 23
-8S versus 2C
-Player 0 has: 30 Player 1 has: 22
-QH versus KD (Notched!)
-Player 0 has: 31 Player 1 has: 21
-6C versus 5C (Notched!)
-Player 0 has: 30 Player 1 has: 22
-AC versus QD
-Player 0 has: 31 Player 1 has: 21
-JC versus TC (Notched!)
-Player 0 has: 30 Player 1 has: 22
-2H versus JH
-Player 0 has: 29 Player 1 has: 23
-KH versus 5D
-Player 0 has: 30 Player 1 has: 22
-7H versus 9H
-Player 0 has: 29 Player 1 has: 23
-9S versus 8D (Notched!)
-Player 0 has: 28 Player 1 has: 24
-QS versus JD (Notched!)
-Player 0 has: 27 Player 1 has: 25
-KC versus 3S
-Player 0 has: 28 Player 1 has: 24
-9D versus 5S
-Player 0 has: 29 Player 1 has: 23
-3H versus 4H (Notched!)
-Player 0 has: 30 Player 1 has: 22
-AD versus 8H
-Player 0 has: 31 Player 1 has: 21
-4S versus 6D
-Player 0 has: 30 Player 1 has: 22
-5H versus AS
-Player 0 has: 29 Player 1 has: 23
-6S versus 7C (Notched!)
-Player 0 has: 30 Player 1 has: 22
-9C versus QC
-Player 0 has: 29 Player 1 has: 23
-3D versus 8C
-Player 0 has: 28 Player 1 has: 24
-TD versus TS
-WAR!
-4C versus AH
-Player 0 has: 24 Player 1 has: 28
-TH versus 5C
-Player 0 has: 25 Player 1 has: 27
-4D versus 6C
-Player 0 has: 24 Player 1 has: 28
-JS versus TC (Notched!)
-Player 0 has: 23 Player 1 has: 29
-7D versus JC
-Player 0 has: 22 Player 1 has: 30
-3C versus 2H (Notched!)
-Player 0 has: 21 Player 1 has: 31
-2D versus JH
-Player 0 has: 20 Player 1 has: 32
-2C versus 7H
-Player 0 has: 19 Player 1 has: 33
-8S versus 9H (Notched!)
-Player 0 has: 20 Player 1 has: 32
-QH versus 9S
-Player 0 has: 21 Player 1 has: 31
-KD versus 8D
-Player 0 has: 22 Player 1 has: 30
-QD versus JD (Notched!)
-Player 0 has: 21 Player 1 has: 31
-AC versus QS
-Player 0 has: 22 Player 1 has: 30
-KH versus 4S
-Player 0 has: 23 Player 1 has: 29
-5D versus 6D (Notched!)
-Player 0 has: 24 Player 1 has: 28
-3S versus 5H
-Player 0 has: 23 Player 1 has: 29
-KC versus AS (Notched!)
-Player 0 has: 24 Player 1 has: 28
-9D versus QC
-Player 0 has: 23 Player 1 has: 29
-5S versus 9C
-Player 0 has: 22 Player 1 has: 30
-3H versus 8C
-Player 0 has: 21 Player 1 has: 31
-4H versus 3D (Notched!)
-Player 0 has: 20 Player 1 has: 32
-8H versus TD
-Player 0 has: 19 Player 1 has: 33
-AD versus TS
-Player 0 has: 20 Player 1 has: 32
-6S versus 4C
-Player 0 has: 21 Player 1 has: 31
-7C versus KS
-Player 0 has: 20 Player 1 has: 32
-5C versus 7S
-Player 0 has: 19 Player 1 has: 33
-TH versus 2S
-Player 0 has: 20 Player 1 has: 32
-8S versus AH
-Player 0 has: 19 Player 1 has: 33
-9H versus 6H
-Player 0 has: 20 Player 1 has: 32
-QH versus 4D
-Player 0 has: 21 Player 1 has: 31
-9S versus 6C
-Player 0 has: 22 Player 1 has: 30
-8D versus JS
-Player 0 has: 21 Player 1 has: 31
-KD versus TC
-Player 0 has: 22 Player 1 has: 30
-AC versus 7D
-Player 0 has: 23 Player 1 has: 29
-QS versus JC (Notched!)
-Player 0 has: 22 Player 1 has: 30
-4S versus 3C (Notched!)
-Player 0 has: 21 Player 1 has: 31
-KH versus 2H
-Player 0 has: 22 Player 1 has: 30
-5D versus JH
-Player 0 has: 21 Player 1 has: 31
-6D versus 2D
-Player 0 has: 22 Player 1 has: 30
-AS versus 7H
-Player 0 has: 23 Player 1 has: 29
-KC versus 2C
-Player 0 has: 24 Player 1 has: 28
-TS versus QD
-Player 0 has: 23 Player 1 has: 29
-AD versus JD
-Player 0 has: 24 Player 1 has: 28
-6S versus 3S
-Player 0 has: 25 Player 1 has: 27
-4C versus 5H (Notched!)
-Player 0 has: 26 Player 1 has: 26
-2S versus 9D
-Player 0 has: 25 Player 1 has: 27
-TH versus QC
-Player 0 has: 24 Player 1 has: 28
-6H versus 5S (Notched!)
-Player 0 has: 23 Player 1 has: 29
-9H versus 9C
-WAR!
-9S versus 3D
-Player 0 has: 27 Player 1 has: 25
-6C versus 4H
-Player 0 has: 28 Player 1 has: 24
-TC versus TD
-WAR!
-7D versus KS
-Player 0 has: 24 Player 1 has: 28
-2H versus 7S
-Player 0 has: 23 Player 1 has: 29
-KH versus 5C
-Player 0 has: 24 Player 1 has: 28
-6D versus 8S
-Player 0 has: 23 Player 1 has: 29
-2D versus AH
-Player 0 has: 22 Player 1 has: 30
-7H versus JS
-Player 0 has: 21 Player 1 has: 31
-AS versus 8D
-Player 0 has: 22 Player 1 has: 30
-KC versus JC
-Player 0 has: 23 Player 1 has: 29
-2C versus QS
-Player 0 has: 22 Player 1 has: 30
-AD versus 4S
-Player 0 has: 23 Player 1 has: 29
-JD versus 3C
-Player 0 has: 24 Player 1 has: 28
-3S versus JH
-Player 0 has: 23 Player 1 has: 29
-6S versus 5D (Notched!)
-Player 0 has: 22 Player 1 has: 30
-4C versus QD
-Player 0 has: 21 Player 1 has: 31
-5H versus TS
-Player 0 has: 20 Player 1 has: 32
-9C versus 2S
-Player 0 has: 21 Player 1 has: 31
-3H versus 9D
-Player 0 has: 20 Player 1 has: 32
-9S versus QC
-Player 0 has: 19 Player 1 has: 33
-9H versus TH (Notched!)
-Player 0 has: 20 Player 1 has: 32
-3D versus 6H
-Player 0 has: 19 Player 1 has: 33
-8C versus 5S
-Player 0 has: 20 Player 1 has: 32
-4D versus TD
-Player 0 has: 19 Player 1 has: 33
-QH versus TC
-Player 0 has: 20 Player 1 has: 32
-4H versus KD
-Player 0 has: 19 Player 1 has: 33
-6C versus 8H
-Player 0 has: 18 Player 1 has: 34
-5C versus 7C
-Player 0 has: 17 Player 1 has: 35
-KH versus AC (Notched!)
-Player 0 has: 18 Player 1 has: 34
-8D versus KS
-Player 0 has: 17 Player 1 has: 35
-AS versus 7D
-Player 0 has: 18 Player 1 has: 34
-KC versus 2H
-Player 0 has: 19 Player 1 has: 33
-JC versus 7S
-Player 0 has: 20 Player 1 has: 32
-AD versus 8S
-Player 0 has: 21 Player 1 has: 31
-4S versus 6D
-Player 0 has: 20 Player 1 has: 32
-3C versus AH
-Player 0 has: 19 Player 1 has: 33
-JD versus 2D
-Player 0 has: 20 Player 1 has: 32
-2S versus JS
-Player 0 has: 19 Player 1 has: 33
-9C versus 7H
-Player 0 has: 20 Player 1 has: 32
-9H versus QS
-Player 0 has: 19 Player 1 has: 33
-TH versus 2C
-Player 0 has: 20 Player 1 has: 32
-5S versus 3S
-Player 0 has: 21 Player 1 has: 31
-8C versus JH
-Player 0 has: 20 Player 1 has: 32
-TC versus 6S
-Player 0 has: 21 Player 1 has: 31
-QH versus 5D
-Player 0 has: 22 Player 1 has: 30
-AC versus QD
-Player 0 has: 23 Player 1 has: 29
-KH versus 4C
-Player 0 has: 24 Player 1 has: 28
-AS versus 5H
-Player 0 has: 25 Player 1 has: 27
-7D versus TS
-Player 0 has: 24 Player 1 has: 28
-KC versus 9D
-Player 0 has: 25 Player 1 has: 27
-2H versus 3H (Notched!)
-Player 0 has: 26 Player 1 has: 26
-JC versus 9S
-Player 0 has: 27 Player 1 has: 25
-7S versus QC
-Player 0 has: 26 Player 1 has: 26
-8S versus 3D
-Player 0 has: 27 Player 1 has: 25
-AD versus 6H
-Player 0 has: 28 Player 1 has: 24
-2D versus TD
-Player 0 has: 27 Player 1 has: 25
-JD versus 4D
-Player 0 has: 28 Player 1 has: 24
-7H versus KD
-Player 0 has: 27 Player 1 has: 25
-9C versus 4H
-Player 0 has: 28 Player 1 has: 24
-TH versus 8H
-Player 0 has: 29 Player 1 has: 23
-2C versus 6C
-Player 0 has: 28 Player 1 has: 24
-3S versus 5C
-Player 0 has: 27 Player 1 has: 25
-5S versus 7C
-Player 0 has: 26 Player 1 has: 26
-TC versus 8D
-Player 0 has: 27 Player 1 has: 25
-6S versus KS
-Player 0 has: 26 Player 1 has: 26
-5D versus 6D (Notched!)
-Player 0 has: 27 Player 1 has: 25
-QH versus 4S
-Player 0 has: 28 Player 1 has: 24
-QD versus AH
-Player 0 has: 27 Player 1 has: 25
-AC versus 3C
-Player 0 has: 28 Player 1 has: 24
-KH versus JS
-Player 0 has: 29 Player 1 has: 23
-4C versus 2S
-Player 0 has: 30 Player 1 has: 22
-5H versus 9H
-Player 0 has: 29 Player 1 has: 23
-AS versus QS
-Player 0 has: 30 Player 1 has: 22
-KC versus JH
-Player 0 has: 31 Player 1 has: 21
-9D versus 8C (Notched!)
-Player 0 has: 30 Player 1 has: 22
-3H versus 7D
-Player 0 has: 29 Player 1 has: 23
-2H versus TS
-Player 0 has: 28 Player 1 has: 24
-JC versus 7S
-Player 0 has: 29 Player 1 has: 23
-9S versus QC
-Player 0 has: 28 Player 1 has: 24
-3D versus TD
-Player 0 has: 27 Player 1 has: 25
-8S versus 2D
-Player 0 has: 28 Player 1 has: 24
-AD versus KD (Notched!)
-Player 0 has: 27 Player 1 has: 25
-6H versus 7H (Notched!)
-Player 0 has: 28 Player 1 has: 24
-4D versus 6C
-Player 0 has: 27 Player 1 has: 25
-JD versus 2C
-Player 0 has: 28 Player 1 has: 24
-9C versus 3S
-Player 0 has: 29 Player 1 has: 23
-4H versus 5C (Notched!)
-Player 0 has: 30 Player 1 has: 22
-8H versus 5S
-Player 0 has: 31 Player 1 has: 21
-TH versus 7C
-Player 0 has: 32 Player 1 has: 20
-TC versus KS
-Player 0 has: 31 Player 1 has: 21
-8D versus 6S
-Player 0 has: 32 Player 1 has: 20
-6D versus AH
-Player 0 has: 31 Player 1 has: 21
-5D versus QD
-Player 0 has: 30 Player 1 has: 22
-4S versus 9H
-Player 0 has: 29 Player 1 has: 23
-QH versus 5H
-Player 0 has: 30 Player 1 has: 22
-3C versus 9D
-Player 0 has: 29 Player 1 has: 23
-AC versus 8C
-Player 0 has: 30 Player 1 has: 22
-KH versus 7D
-Player 0 has: 31 Player 1 has: 21
-JS versus 3H
-Player 0 has: 32 Player 1 has: 20
-4C versus TS
-Player 0 has: 31 Player 1 has: 21
-2S versus 2H
-WAR!
-JH versus TD
-Player 0 has: 35 Player 1 has: 17
-KC versus 3D
-Player 0 has: 36 Player 1 has: 16
-7S versus AD
-Player 0 has: 35 Player 1 has: 17
-JC versus KD
-Player 0 has: 34 Player 1 has: 18
-8S versus 4D
-Player 0 has: 35 Player 1 has: 17
-2D versus 6C
-Player 0 has: 34 Player 1 has: 18
-7H versus TC
-Player 0 has: 33 Player 1 has: 19
-6H versus KS
-Player 0 has: 32 Player 1 has: 20
-2C versus AH
-Player 0 has: 31 Player 1 has: 21
-JD versus 6D
-Player 0 has: 32 Player 1 has: 20
-3S versus 5D
-Player 0 has: 31 Player 1 has: 21
-9C versus QD
-Player 0 has: 30 Player 1 has: 22
-5C versus 4S (Notched!)
-Player 0 has: 29 Player 1 has: 23
-4H versus 9H
-Player 0 has: 28 Player 1 has: 24
-5S versus 9D
-Player 0 has: 27 Player 1 has: 25
-8H versus 3C
-Player 0 has: 28 Player 1 has: 24
-7C versus TS
-Player 0 has: 27 Player 1 has: 25
-TH versus 4C
-Player 0 has: 28 Player 1 has: 24
-8D versus AD
-Player 0 has: 27 Player 1 has: 25
-6S versus 7S (Notched!)
-Player 0 has: 28 Player 1 has: 24
-5H versus KD
-Player 0 has: 27 Player 1 has: 25
-QH versus JC (Notched!)
-Player 0 has: 26 Player 1 has: 26
-8C versus 6C
-Player 0 has: 27 Player 1 has: 25
-AC versus 2D
-Player 0 has: 28 Player 1 has: 24
-KH versus 7H
-Player 0 has: 29 Player 1 has: 23
-7D versus TC
-Player 0 has: 28 Player 1 has: 24
-3H versus KS
-Player 0 has: 27 Player 1 has: 25
-JS versus 6H
-Player 0 has: 28 Player 1 has: 24
-TD versus AH
-Player 0 has: 27 Player 1 has: 25
-AS versus 2C
-Player 0 has: 28 Player 1 has: 24
-QC versus 3S
-Player 0 has: 29 Player 1 has: 23
-QS versus 5D
-Player 0 has: 30 Player 1 has: 22
-9S versus QD
-Player 0 has: 29 Player 1 has: 23
-JH versus 9C
-Player 0 has: 30 Player 1 has: 22
-2S versus 5C
-Player 0 has: 29 Player 1 has: 23
-2H versus 4S
-Player 0 has: 28 Player 1 has: 24
-KC versus 9H
-Player 0 has: 29 Player 1 has: 23
-3D versus 4H (Notched!)
-Player 0 has: 30 Player 1 has: 22
-8S versus 9D (Notched!)
-Player 0 has: 31 Player 1 has: 21
-4D versus 5S (Notched!)
-Player 0 has: 32 Player 1 has: 20
-JD versus 7C
-Player 0 has: 33 Player 1 has: 19
-6D versus TS
-Player 0 has: 32 Player 1 has: 20
-8H versus AD
-Player 0 has: 31 Player 1 has: 21
-3C versus 8D
-Player 0 has: 30 Player 1 has: 22
-4C versus KD
-Player 0 has: 29 Player 1 has: 23
-TH versus 5H
-Player 0 has: 30 Player 1 has: 22
-7S versus QH
-Player 0 has: 29 Player 1 has: 23
-6S versus JC
-Player 0 has: 28 Player 1 has: 24
-6C versus 7D (Notched!)
-Player 0 has: 29 Player 1 has: 23
-8C versus TC
-Player 0 has: 28 Player 1 has: 24
-2D versus 3H (Notched!)
-Player 0 has: 29 Player 1 has: 23
-AC versus KS (Notched!)
-Player 0 has: 28 Player 1 has: 24
-7H versus AH
-Player 0 has: 27 Player 1 has: 25
-KH versus TD
-Player 0 has: 28 Player 1 has: 24
-6H versus 9S
-Player 0 has: 27 Player 1 has: 25
-JS versus QD (Notched!)
-Player 0 has: 28 Player 1 has: 24
-AS versus 5C
-Player 0 has: 29 Player 1 has: 23
-2C versus 2S
-WAR!
-5D versus 6D
-Player 0 has: 25 Player 1 has: 27
-QS versus TS
-Player 0 has: 26 Player 1 has: 26
-9C versus 8H (Notched!)
+2H versus 6H
 Player 0 has: 25 Player 1 has: 27
 JH versus AD
 Player 0 has: 24 Player 1 has: 28
-9H versus 3C
+7C versus 2C
 Player 0 has: 25 Player 1 has: 27
-KC versus 8D
-Player 0 has: 26 Player 1 has: 26
-4H versus 4C
-WAR!
-9D versus QH
-Player 0 has: 22 Player 1 has: 30
-4D versus JC
-Player 0 has: 21 Player 1 has: 31
-5S versus 6S (Notched!)
-Player 0 has: 22 Player 1 has: 30
-7C versus TC
-Player 0 has: 21 Player 1 has: 31
-JD versus 8C
-Player 0 has: 22 Player 1 has: 30
-TH versus KS
-Player 0 has: 21 Player 1 has: 31
-5H versus AC
-Player 0 has: 20 Player 1 has: 32
-7D versus 7H
-WAR!
-2D versus 9S
-Player 0 has: 16 Player 1 has: 36
-KH versus 5D
-Player 0 has: 17 Player 1 has: 35
-TD versus 6D
-Player 0 has: 18 Player 1 has: 34
-JS versus 3S
-Player 0 has: 19 Player 1 has: 33
-QD versus 2C
-Player 0 has: 20 Player 1 has: 32
-5C versus 2S
-Player 0 has: 21 Player 1 has: 31
-AS versus QC
-Player 0 has: 22 Player 1 has: 30
-TS versus 2H
-Player 0 has: 23 Player 1 has: 29
-QS versus 4S
-Player 0 has: 24 Player 1 has: 28
-3C versus 8H
-Player 0 has: 23 Player 1 has: 29
-9H versus 9C
-WAR!
-6S versus 4H
-Player 0 has: 27 Player 1 has: 25
-5S versus 7S
-Player 0 has: 26 Player 1 has: 26
-8C versus 8S
-WAR!
-5D versus KD
-Player 0 has: 22 Player 1 has: 30
-6D versus 3D
-Player 0 has: 23 Player 1 has: 29
-TD versus 9D (Notched!)
-Player 0 has: 22 Player 1 has: 30
-JS versus 4D
-Player 0 has: 23 Player 1 has: 29
-3S versus JC
-Player 0 has: 22 Player 1 has: 30
-QD versus TC
-Player 0 has: 23 Player 1 has: 29
-2C versus 7C
-Player 0 has: 22 Player 1 has: 30
-2S versus TH
-Player 0 has: 21 Player 1 has: 31
-5C versus KS
-Player 0 has: 20 Player 1 has: 32
-QC versus 5H
-Player 0 has: 21 Player 1 has: 31
-AS versus AC
-WAR!
-QS versus AH
-Player 0 has: 17 Player 1 has: 35
-4S versus 6C
-Player 0 has: 16 Player 1 has: 36
-KC versus 6H
-Player 0 has: 17 Player 1 has: 35
-9H versus 2D
-Player 0 has: 18 Player 1 has: 34
-9C versus 7H
-Player 0 has: 19 Player 1 has: 33
-8D versus 3H
-Player 0 has: 20 Player 1 has: 32
-JH versus 3C
-Player 0 has: 21 Player 1 has: 31
-6S versus 8H
-Player 0 has: 20 Player 1 has: 32
-AD versus 5S
-Player 0 has: 21 Player 1 has: 31
-4H versus 7S
-Player 0 has: 20 Player 1 has: 32
-6D versus KH
-Player 0 has: 19 Player 1 has: 33
-3D versus 5D
-Player 0 has: 18 Player 1 has: 34
-JS versus 4C
-Player 0 has: 19 Player 1 has: 33
-4D versus 8C
-Player 0 has: 18 Player 1 has: 34
-TC versus QH
-Player 0 has: 17 Player 1 has: 35
-QD versus 8S
-Player 0 has: 18 Player 1 has: 34
-QC versus JD (Notched!)
-Player 0 has: 17 Player 1 has: 35
-5H versus KD
-Player 0 has: 16 Player 1 has: 36
-6H versus TD
-Player 0 has: 15 Player 1 has: 37
-KC versus 9D
-Player 0 has: 16 Player 1 has: 36
-2D versus 3S (Notched!)
-Player 0 has: 17 Player 1 has: 35
-9H versus JC
-Player 0 has: 16 Player 1 has: 36
-7H versus 2C
-Player 0 has: 17 Player 1 has: 35
-9C versus 7C
-Player 0 has: 18 Player 1 has: 34
-8D versus TH
-Player 0 has: 17 Player 1 has: 35
-3H versus 2S (Notched!)
-Player 0 has: 16 Player 1 has: 36
-JH versus 5C
-Player 0 has: 17 Player 1 has: 35
-3C versus KS
-Player 0 has: 16 Player 1 has: 36
-5S versus 9S
-Player 0 has: 15 Player 1 has: 37
-AD versus TS
-Player 0 has: 16 Player 1 has: 36
-JS versus AC
-Player 0 has: 15 Player 1 has: 37
-4C versus QS
-Player 0 has: 14 Player 1 has: 38
-8S versus AH
-Player 0 has: 13 Player 1 has: 39
-QD versus 7D
-Player 0 has: 14 Player 1 has: 38
-KC versus AS (Notched!)
-Player 0 has: 15 Player 1 has: 37
-9D versus 2H
-Player 0 has: 16 Player 1 has: 36
-2D versus 6C
-Player 0 has: 15 Player 1 has: 37
-3S versus 4S (Notched!)
-Player 0 has: 16 Player 1 has: 36
-7H versus 8H (Notched!)
-Player 0 has: 17 Player 1 has: 35
-2C versus 6S
-Player 0 has: 16 Player 1 has: 36
-9C versus 4H
-Player 0 has: 17 Player 1 has: 35
-7C versus 7S
-WAR!
-TS versus 3D
-Player 0 has: 21 Player 1 has: 31
-AD versus 5D
-Player 0 has: 22 Player 1 has: 30
-QD versus 8C
-Player 0 has: 23 Player 1 has: 29
-7D versus 4D
-Player 0 has: 24 Player 1 has: 28
-KC versus TC
-Player 0 has: 25 Player 1 has: 27
-AS versus QH
-Player 0 has: 26 Player 1 has: 26
-9D versus QC
-Player 0 has: 25 Player 1 has: 27
-2H versus JD
-Player 0 has: 24 Player 1 has: 28
-3S versus KD
-Player 0 has: 23 Player 1 has: 29
-4S versus 5H (Notched!)
-Player 0 has: 24 Player 1 has: 28
-7H versus TD
-Player 0 has: 23 Player 1 has: 29
-8H versus 6H
-Player 0 has: 24 Player 1 has: 28
-4H versus 9H
-Player 0 has: 23 Player 1 has: 29
-9C versus JC
-Player 0 has: 22 Player 1 has: 30
-7S versus 8D (Notched!)
-Player 0 has: 23 Player 1 has: 29
-7C versus TH
-Player 0 has: 22 Player 1 has: 30
-TS versus 2S
-Player 0 has: 23 Player 1 has: 29
-5C versus 3H
-Player 0 has: 24 Player 1 has: 28
-3D versus 3C
-WAR!
-6D versus 5S
-Player 0 has: 28 Player 1 has: 24
-5D versus AC
-Player 0 has: 27 Player 1 has: 25
-AD versus JS
-Player 0 has: 28 Player 1 has: 24
-8C versus QS
-Player 0 has: 27 Player 1 has: 25
-QD versus 4C
-Player 0 has: 28 Player 1 has: 24
-7D versus AH
-Player 0 has: 27 Player 1 has: 25
-4D versus 8S
-Player 0 has: 26 Player 1 has: 26
-TC versus 2D
-Player 0 has: 27 Player 1 has: 25
-KC versus 6C
-Player 0 has: 28 Player 1 has: 24
-AS versus 6S
-Player 0 has: 29 Player 1 has: 23
-QH versus 2C
-Player 0 has: 30 Player 1 has: 22
-5H versus QC
-Player 0 has: 29 Player 1 has: 23
-4S versus 9D
-Player 0 has: 28 Player 1 has: 24
-8H versus 2H
-Player 0 has: 29 Player 1 has: 23
-6H versus JD
-Player 0 has: 28 Player 1 has: 24
-7S versus KD
-Player 0 has: 27 Player 1 has: 25
-8D versus 3S
-Player 0 has: 28 Player 1 has: 24
-2S versus TD
-Player 0 has: 27 Player 1 has: 25
-TS versus 7H
-Player 0 has: 28 Player 1 has: 24
-5C versus 9H
-Player 0 has: 27 Player 1 has: 25
-3H versus 4H (Notched!)
-Player 0 has: 28 Player 1 has: 24
-5S versus 9C
-Player 0 has: 27 Player 1 has: 25
-KH versus JC
-Player 0 has: 28 Player 1 has: 24
-3C versus 7C
-Player 0 has: 27 Player 1 has: 25
-KS versus TH
-Player 0 has: 28 Player 1 has: 24
-JH versus 5D
-Player 0 has: 29 Player 1 has: 23
-6D versus AC
-Player 0 has: 28 Player 1 has: 24
-3D versus 8C
-Player 0 has: 27 Player 1 has: 25
-9S versus QS
-Player 0 has: 26 Player 1 has: 26
-JS versus 7D
-Player 0 has: 27 Player 1 has: 25
-AD versus AH
-WAR!
-2D versus 5H
-Player 0 has: 23 Player 1 has: 29
-TC versus QC
-Player 0 has: 22 Player 1 has: 30
-6C versus 4S
-Player 0 has: 23 Player 1 has: 29
-KC versus 9D
-Player 0 has: 24 Player 1 has: 28
-AS versus 6H
-Player 0 has: 25 Player 1 has: 27
-6S versus JD
-Player 0 has: 24 Player 1 has: 28
-QH versus KD (Notched!)
-Player 0 has: 25 Player 1 has: 27
-2C versus 7S
-Player 0 has: 24 Player 1 has: 28
-8H versus TD
-Player 0 has: 23 Player 1 has: 29
-2H versus 2S
-WAR!
-7H versus 5S
-Player 0 has: 27 Player 1 has: 25
-TS versus 9C (Notched!)
-Player 0 has: 26 Player 1 has: 26
-4H versus 3C (Notched!)
-Player 0 has: 25 Player 1 has: 27
-3H versus 7C
-Player 0 has: 24 Player 1 has: 28
-KH versus 6D
-Player 0 has: 25 Player 1 has: 27
-JC versus AC
-Player 0 has: 24 Player 1 has: 28
-TH versus 3D
-Player 0 has: 25 Player 1 has: 27
-KS versus 8C
-Player 0 has: 26 Player 1 has: 26
-5D versus QS
-Player 0 has: 25 Player 1 has: 27
-JH versus 9S
-Player 0 has: 26 Player 1 has: 26
-7D versus AD
-Player 0 has: 25 Player 1 has: 27
-JS versus 5H
-Player 0 has: 26 Player 1 has: 26
-4S versus 4D
-WAR!
-9D versus 4C
-Player 0 has: 30 Player 1 has: 22
-AS versus QD
-Player 0 has: 31 Player 1 has: 21
-6H versus AH
-Player 0 has: 30 Player 1 has: 22
-KD versus QC (Notched!)
-Player 0 has: 29 Player 1 has: 23
-QH versus TC
-Player 0 has: 30 Player 1 has: 22
-8D versus 6S
-Player 0 has: 31 Player 1 has: 21
-2H versus JD
-Player 0 has: 30 Player 1 has: 22
-2S versus 2C
-WAR!
-5S versus 8H
-Player 0 has: 26 Player 1 has: 26
-5C versus 9C
-Player 0 has: 25 Player 1 has: 27
-7H versus TS
-Player 0 has: 24 Player 1 has: 28
-6D versus 3C
-Player 0 has: 25 Player 1 has: 27
-KH versus 4H
-Player 0 has: 26 Player 1 has: 26
-TH versus 3H
-Player 0 has: 27 Player 1 has: 25
-3D versus 7C
-Player 0 has: 26 Player 1 has: 26
-KS versus AC (Notched!)
-Player 0 has: 27 Player 1 has: 25
-8C versus JC
-Player 0 has: 26 Player 1 has: 26
-JH versus 5D
-Player 0 has: 27 Player 1 has: 25
-9S versus QS
-Player 0 has: 26 Player 1 has: 26
-5H versus AD
-Player 0 has: 25 Player 1 has: 27
-JS versus 7D
-Player 0 has: 26 Player 1 has: 26
-6C versus AH
-Player 0 has: 25 Player 1 has: 27
-KC versus 6H
-Player 0 has: 26 Player 1 has: 26
-4D versus QC
-Player 0 has: 25 Player 1 has: 27
-4C versus KD
-Player 0 has: 24 Player 1 has: 28
-9D versus 2H
-Player 0 has: 25 Player 1 has: 27
-8S versus JD
-Player 0 has: 24 Player 1 has: 28
-4S versus 7S
-Player 0 has: 23 Player 1 has: 29
-2D versus 5S
-Player 0 has: 22 Player 1 has: 30
-QD versus 2C
-Player 0 has: 23 Player 1 has: 29
-AS versus 9H
-Player 0 has: 24 Player 1 has: 28
-QH versus 2S
-Player 0 has: 25 Player 1 has: 27
-TC versus 3S
-Player 0 has: 26 Player 1 has: 26
-8D versus TD
-Player 0 has: 25 Player 1 has: 27
-6S versus 8H
-Player 0 has: 24 Player 1 has: 28
-6D versus 5C (Notched!)
-Player 0 has: 23 Player 1 has: 29
-3C versus 9C
-Player 0 has: 22 Player 1 has: 30
-4H versus TS
-Player 0 has: 21 Player 1 has: 31
-KH versus 7H
-Player 0 has: 22 Player 1 has: 30
-3H versus 3D
-WAR!
-AC versus 8C
-Player 0 has: 26 Player 1 has: 26
-JH versus QS (Notched!)
-Player 0 has: 27 Player 1 has: 25
-5D versus 9S
-Player 0 has: 26 Player 1 has: 26
-JS versus 5H
-Player 0 has: 27 Player 1 has: 25
-7D versus AD
-Player 0 has: 26 Player 1 has: 26
-KC versus 6C
-Player 0 has: 27 Player 1 has: 25
-6H versus AH
-Player 0 has: 26 Player 1 has: 26
-9D versus QC
-Player 0 has: 25 Player 1 has: 27
-2H versus 4D
-Player 0 has: 24 Player 1 has: 28
-QD versus 4C
-Player 0 has: 25 Player 1 has: 27
-2C versus KD
-Player 0 has: 24 Player 1 has: 28
-AS versus JD
-Player 0 has: 25 Player 1 has: 27
-9H versus 8S (Notched!)
-Player 0 has: 24 Player 1 has: 28
-2S versus 4S
-Player 0 has: 23 Player 1 has: 29
-QH versus 7S
-Player 0 has: 24 Player 1 has: 28
-3S versus 5S
-Player 0 has: 23 Player 1 has: 29
-TC versus 2D
-Player 0 has: 24 Player 1 has: 28
-KH versus TD
-Player 0 has: 25 Player 1 has: 27
-7H versus 8D (Notched!)
-Player 0 has: 26 Player 1 has: 26
-JC versus 6S
-Player 0 has: 27 Player 1 has: 25
-3H versus 8H
-Player 0 has: 26 Player 1 has: 26
-KS versus 6D
-Player 0 has: 27 Player 1 has: 25
-7C versus 5C
-Player 0 has: 28 Player 1 has: 24
-TH versus 9C (Notched!)
-Player 0 has: 27 Player 1 has: 25
-AC versus 3C
-Player 0 has: 28 Player 1 has: 24
-8C versus 4H
-Player 0 has: 29 Player 1 has: 23
-3D versus TS
-Player 0 has: 28 Player 1 has: 24
-JH versus 9S
-Player 0 has: 29 Player 1 has: 23
-QS versus 5D
-Player 0 has: 30 Player 1 has: 22
-5H versus AD
-Player 0 has: 29 Player 1 has: 23
-JS versus 7D
-Player 0 has: 30 Player 1 has: 22
-KC versus 6H
-Player 0 has: 31 Player 1 has: 21
-6C versus AH
-Player 0 has: 30 Player 1 has: 22
-QD versus 9D
-Player 0 has: 31 Player 1 has: 21
-4C versus QC
-Player 0 has: 30 Player 1 has: 22
-JD versus 4D
-Player 0 has: 31 Player 1 has: 21
-AS versus 2H
-Player 0 has: 32 Player 1 has: 20
-QH versus 2C
-Player 0 has: 33 Player 1 has: 19
-7S versus KD
-Player 0 has: 32 Player 1 has: 20
-TC versus 9H (Notched!)
-Player 0 has: 31 Player 1 has: 21
-2D versus 8S
-Player 0 has: 30 Player 1 has: 22
-TD versus 4S
-Player 0 has: 31 Player 1 has: 21
-KH versus 2S
-Player 0 has: 32 Player 1 has: 20
-8D versus 3S
-Player 0 has: 33 Player 1 has: 19
-7H versus 5S
-Player 0 has: 34 Player 1 has: 18
-JC versus 3H
-Player 0 has: 35 Player 1 has: 17
-6S versus 8H
-Player 0 has: 34 Player 1 has: 18
-6D versus TH
-Player 0 has: 33 Player 1 has: 19
-KS versus 9C
-Player 0 has: 34 Player 1 has: 18
-5C versus TS
-Player 0 has: 33 Player 1 has: 19
-7C versus 3D
-Player 0 has: 34 Player 1 has: 18
-3C versus AD
-Player 0 has: 33 Player 1 has: 19
-AC versus 5H
-Player 0 has: 34 Player 1 has: 18
-4H versus 6C
-Player 0 has: 33 Player 1 has: 19
-8C versus AH
-Player 0 has: 32 Player 1 has: 20
-9S versus QC
-Player 0 has: 31 Player 1 has: 21
-JH versus 4C
-Player 0 has: 32 Player 1 has: 20
-QS versus 7S
-Player 0 has: 33 Player 1 has: 19
-5D versus KD
-Player 0 has: 32 Player 1 has: 20
-JS versus 9H
-Player 0 has: 33 Player 1 has: 19
-7D versus TC
-Player 0 has: 32 Player 1 has: 20
-KC versus 2D
-Player 0 has: 33 Player 1 has: 19
-6H versus 8S
-Player 0 has: 32 Player 1 has: 20
-9D versus 8H (Notched!)
-Player 0 has: 31 Player 1 has: 21
-QD versus 6S
-Player 0 has: 32 Player 1 has: 20
-JD versus TH (Notched!)
-Player 0 has: 31 Player 1 has: 21
-4D versus 6D
-Player 0 has: 30 Player 1 has: 22
-2H versus TS
-Player 0 has: 29 Player 1 has: 23
-AS versus 5C
-Player 0 has: 30 Player 1 has: 22
-QH versus AD
-Player 0 has: 29 Player 1 has: 23
-2C versus 3C (Notched!)
-Player 0 has: 30 Player 1 has: 22
-TD versus 4H
-Player 0 has: 31 Player 1 has: 21
-4S versus 6C
-Player 0 has: 30 Player 1 has: 22
-KH versus 8C
-Player 0 has: 31 Player 1 has: 21
-2S versus AH
-Player 0 has: 30 Player 1 has: 22
-3S versus 9S
-Player 0 has: 29 Player 1 has: 23
-8D versus QC
-Player 0 has: 28 Player 1 has: 24
-5S versus KD
-Player 0 has: 27 Player 1 has: 25
-7H versus 5D
-Player 0 has: 28 Player 1 has: 24
-3H versus 7D
-Player 0 has: 27 Player 1 has: 25
-JC versus TC (Notched!)
-Player 0 has: 26 Player 1 has: 26
-KS versus 8S
-Player 0 has: 27 Player 1 has: 25
-9C versus 6H
-Player 0 has: 28 Player 1 has: 24
-7C versus 8H (Notched!)
-Player 0 has: 29 Player 1 has: 23
-3D versus 9D
-Player 0 has: 28 Player 1 has: 24
-5H versus TH
-Player 0 has: 27 Player 1 has: 25
-AC versus JD
-Player 0 has: 28 Player 1 has: 24
-4C versus 4D
-WAR!
-7S versus 2H
-Player 0 has: 32 Player 1 has: 20
-9H versus QH
-Player 0 has: 31 Player 1 has: 21
-JS versus AD
-Player 0 has: 30 Player 1 has: 22
-KC versus 4S
-Player 0 has: 31 Player 1 has: 21
-2D versus 6C
-Player 0 has: 30 Player 1 has: 22
-6S versus AH
-Player 0 has: 29 Player 1 has: 23
-QD versus 2S
-Player 0 has: 30 Player 1 has: 22
-AS versus 3S
-Player 0 has: 31 Player 1 has: 21
-5C versus 9S
-Player 0 has: 30 Player 1 has: 22
-3C versus 8D
-Player 0 has: 29 Player 1 has: 23
-2C versus QC
-Player 0 has: 28 Player 1 has: 24
-TD versus 5S
-Player 0 has: 29 Player 1 has: 23
-4H versus KD
-Player 0 has: 28 Player 1 has: 24
-KH versus 7D
-Player 0 has: 29 Player 1 has: 23
-8C versus 3H
-Player 0 has: 30 Player 1 has: 22
-5D versus TC
-Player 0 has: 29 Player 1 has: 23
-7H versus JC
-Player 0 has: 28 Player 1 has: 24
-8S versus 3D
-Player 0 has: 29 Player 1 has: 23
-KS versus 9D
-Player 0 has: 30 Player 1 has: 22
-6H versus TH
-Player 0 has: 29 Player 1 has: 23
-9C versus 5H
-Player 0 has: 30 Player 1 has: 22
-7C versus 9H
-Player 0 has: 29 Player 1 has: 23
-8H versus QH
-Player 0 has: 28 Player 1 has: 24
-AC versus AD
-WAR!
-TS versus 6C
-Player 0 has: 32 Player 1 has: 20
-4D versus AH
-Player 0 has: 31 Player 1 has: 21
-6D versus 6S
-WAR!
-2H versus 8D
-Player 0 has: 27 Player 1 has: 25
-JH versus 3C
-Player 0 has: 28 Player 1 has: 24
-4S versus 2C
-Player 0 has: 29 Player 1 has: 23
-KC versus QC (Notched!)
-Player 0 has: 28 Player 1 has: 24
-2S versus 4H
-Player 0 has: 27 Player 1 has: 25
-QD versus KD (Notched!)
-Player 0 has: 28 Player 1 has: 24
-AS versus 5D
-Player 0 has: 29 Player 1 has: 23
-3S versus TC
-Player 0 has: 28 Player 1 has: 24
-TD versus JC (Notched!)
-Player 0 has: 29 Player 1 has: 23
-5S versus 7H
-Player 0 has: 28 Player 1 has: 24
-7D versus TH
-Player 0 has: 27 Player 1 has: 25
-KH versus 6H
-Player 0 has: 28 Player 1 has: 24
-3H versus 9H
-Player 0 has: 27 Player 1 has: 25
-8C versus 7C (Notched!)
-Player 0 has: 26 Player 1 has: 26
-3D versus QH
-Player 0 has: 25 Player 1 has: 27
-8S versus 8H
-WAR!
-5H versus 7S
-Player 0 has: 21 Player 1 has: 31
-9C versus 5C
-Player 0 has: 22 Player 1 has: 30
-JS versus 6D
-Player 0 has: 23 Player 1 has: 29
-TS versus 6S
-Player 0 has: 24 Player 1 has: 28
-QS versus 9S
-Player 0 has: 25 Player 1 has: 27
-2D versus 4C
-Player 0 has: 24 Player 1 has: 28
-6C versus 2H
-Player 0 has: 25 Player 1 has: 27
-JD versus 8D
-Player 0 has: 26 Player 1 has: 26
-AD versus QC
-Player 0 has: 27 Player 1 has: 25
-AC versus KC (Notched!)
-Player 0 has: 26 Player 1 has: 26
-JH versus 4H
-Player 0 has: 27 Player 1 has: 25
-3C versus 2S (Notched!)
-Player 0 has: 26 Player 1 has: 26
-4S versus TC
-Player 0 has: 25 Player 1 has: 27
-2C versus 3S (Notched!)
-Player 0 has: 26 Player 1 has: 26
-QD versus 5S
-Player 0 has: 27 Player 1 has: 25
-KD versus 7H
-Player 0 has: 28 Player 1 has: 24
-5D versus TH
-Player 0 has: 27 Player 1 has: 25
-AS versus 7D
-Player 0 has: 28 Player 1 has: 24
-TD versus 3H
-Player 0 has: 29 Player 1 has: 23
-JC versus 9H
-Player 0 has: 30 Player 1 has: 22
-6H versus 7C (Notched!)
-Player 0 has: 31 Player 1 has: 21
-KH versus 8C
-Player 0 has: 32 Player 1 has: 20
-9C versus QH
-Player 0 has: 31 Player 1 has: 21
-5C versus 3D
-Player 0 has: 32 Player 1 has: 20
-6D versus 8H
-Player 0 has: 31 Player 1 has: 21
-JS versus 9D
-Player 0 has: 32 Player 1 has: 20
-TS versus 8S
-Player 0 has: 33 Player 1 has: 19
-6S versus AH
-Player 0 has: 32 Player 1 has: 20
-9S versus 4D
-Player 0 has: 33 Player 1 has: 19
-QS versus 7S
-Player 0 has: 34 Player 1 has: 18
-2H versus KS
-Player 0 has: 33 Player 1 has: 19
-6C versus 5H (Notched!)
-Player 0 has: 32 Player 1 has: 20
-8D versus 2D
-Player 0 has: 33 Player 1 has: 19
-JD versus 4C
-Player 0 has: 34 Player 1 has: 18
-QC versus AC
-Player 0 has: 33 Player 1 has: 19
-AD versus KC (Notched!)
-Player 0 has: 32 Player 1 has: 20
-JH versus 3C
-Player 0 has: 33 Player 1 has: 19
-4H versus 2S
-Player 0 has: 34 Player 1 has: 18
-2C versus TC
-Player 0 has: 33 Player 1 has: 19
-3S versus 4S (Notched!)
-Player 0 has: 34 Player 1 has: 18
-QD versus TH
-Player 0 has: 35 Player 1 has: 17
-5S versus 5D
-WAR!
-AS versus 8H
-Player 0 has: 39 Player 1 has: 13
-7D versus 6D (Notched!)
-Player 0 has: 38 Player 1 has: 14
-3H versus AH
-Player 0 has: 37 Player 1 has: 15
-TD versus 6S
-Player 0 has: 38 Player 1 has: 14
-9H versus KS
-Player 0 has: 37 Player 1 has: 15
-JC versus 2H
-Player 0 has: 38 Player 1 has: 14
-7C versus 6C (Notched!)
-Player 0 has: 37 Player 1 has: 15
-6H versus 5H (Notched!)
-Player 0 has: 36 Player 1 has: 16
-KH versus QC (Notched!)
-Player 0 has: 35 Player 1 has: 17
-8C versus AC
-Player 0 has: 34 Player 1 has: 18
-5C versus AD
-Player 0 has: 33 Player 1 has: 19
-3D versus KC
-Player 0 has: 32 Player 1 has: 20
-9D versus TC (Notched!)
-Player 0 has: 33 Player 1 has: 19
-JS versus 2C
-Player 0 has: 34 Player 1 has: 18
-8S versus 7D (Notched!)
-Player 0 has: 33 Player 1 has: 19
-TS versus 6D
-Player 0 has: 34 Player 1 has: 18
-4D versus 3H (Notched!)
-Player 0 has: 33 Player 1 has: 19
-9S versus AH
-Player 0 has: 32 Player 1 has: 20
-7S versus KS
-Player 0 has: 31 Player 1 has: 21
-QS versus 9H
-Player 0 has: 32 Player 1 has: 20
-8D versus 6C
-Player 0 has: 33 Player 1 has: 19
-2D versus 7C
-Player 0 has: 32 Player 1 has: 20
-4C versus 5H (Notched!)
-Player 0 has: 33 Player 1 has: 19
-JD versus 6H
-Player 0 has: 34 Player 1 has: 18
-3C versus QC
-Player 0 has: 33 Player 1 has: 19
-JH versus KH
-Player 0 has: 32 Player 1 has: 20
-4H versus AC
-Player 0 has: 31 Player 1 has: 21
-2S versus 8C
-Player 0 has: 30 Player 1 has: 22
-3S versus 5C
-Player 0 has: 29 Player 1 has: 23
-4S versus AD
-Player 0 has: 28 Player 1 has: 24
-QD versus 3D
-Player 0 has: 29 Player 1 has: 23
-TH versus KC
-Player 0 has: 28 Player 1 has: 24
-8H versus 7D (Notched!)
-Player 0 has: 27 Player 1 has: 25
-QH versus 8S
-Player 0 has: 28 Player 1 has: 24
-AS versus 4D
-Player 0 has: 29 Player 1 has: 23
-5S versus 3H
-Player 0 has: 30 Player 1 has: 22
-KD versus 9S
-Player 0 has: 31 Player 1 has: 21
-5D versus AH
-Player 0 has: 30 Player 1 has: 22
-7H versus 7S
-WAR!
-TD versus 7C
-Player 0 has: 34 Player 1 has: 18
-2H versus 3C (Notched!)
-Player 0 has: 35 Player 1 has: 17
-JC versus QC (Notched!)
-Player 0 has: 36 Player 1 has: 16
-9D versus KH
-Player 0 has: 35 Player 1 has: 17
-TC versus JH (Notched!)
-Player 0 has: 36 Player 1 has: 16
-JS versus 4H
-Player 0 has: 37 Player 1 has: 15
-2C versus AC
-Player 0 has: 36 Player 1 has: 16
-TS versus 8C
-Player 0 has: 37 Player 1 has: 15
-6D versus 2S
-Player 0 has: 38 Player 1 has: 14
-QS versus 3S
-Player 0 has: 39 Player 1 has: 13
-9H versus 5C
-Player 0 has: 40 Player 1 has: 12
-8D versus AD
-Player 0 has: 39 Player 1 has: 13
-6C versus 4S
-Player 0 has: 40 Player 1 has: 12
-4C versus TH
-Player 0 has: 39 Player 1 has: 13
-5H versus KC
-Player 0 has: 38 Player 1 has: 14
-6H versus 7D (Notched!)
-Player 0 has: 39 Player 1 has: 13
-JD versus 8H
-Player 0 has: 40 Player 1 has: 12
-QD versus 5D
-Player 0 has: 41 Player 1 has: 11
-3D versus AH
-Player 0 has: 40 Player 1 has: 12
-8S versus KH
-Player 0 has: 39 Player 1 has: 13
-QH versus 9D
-Player 0 has: 40 Player 1 has: 12
-AS versus 2C
-Player 0 has: 41 Player 1 has: 11
-4D versus AC
-Player 0 has: 40 Player 1 has: 12
-3H versus AD
-Player 0 has: 39 Player 1 has: 13
-5S versus 8D
-Player 0 has: 38 Player 1 has: 14
-KD versus 4C
-Player 0 has: 39 Player 1 has: 13
-9S versus TH (Notched!)
-Player 0 has: 40 Player 1 has: 12
-TD versus 5H
-Player 0 has: 41 Player 1 has: 11
-2D versus KC
-Player 0 has: 40 Player 1 has: 12
-7C versus AH
-Player 0 has: 39 Player 1 has: 13
-6S versus 3D
-Player 0 has: 40 Player 1 has: 12
-7S versus KH
-Player 0 has: 39 Player 1 has: 13
-9C versus 8S (Notched!)
-Player 0 has: 38 Player 1 has: 14
-KS versus 4D
-Player 0 has: 39 Player 1 has: 13
-7H versus AC
-Player 0 has: 38 Player 1 has: 14
-3C versus AD
-Player 0 has: 37 Player 1 has: 15
-2H versus 3H (Notched!)
-Player 0 has: 38 Player 1 has: 14
-JC versus 8D
-Player 0 has: 39 Player 1 has: 13
-QC versus 5S
-Player 0 has: 40 Player 1 has: 12
-JH versus KC
-Player 0 has: 39 Player 1 has: 13
-TC versus 2D
-Player 0 has: 40 Player 1 has: 12
-JS versus 7C
-Player 0 has: 41 Player 1 has: 11
-4H versus AH
-Player 0 has: 40 Player 1 has: 12
-TS versus KH
-Player 0 has: 39 Player 1 has: 13
-8C versus 7S (Notched!)
-Player 0 has: 38 Player 1 has: 14
-6D versus 9C
-Player 0 has: 37 Player 1 has: 15
-2S versus 8S
-Player 0 has: 36 Player 1 has: 16
-QS versus 7H
-Player 0 has: 37 Player 1 has: 15
-3S versus AC
-Player 0 has: 36 Player 1 has: 16
-5C versus AD
-Player 0 has: 35 Player 1 has: 17
-9H versus 3C
-Player 0 has: 36 Player 1 has: 16
-4S versus JH
-Player 0 has: 35 Player 1 has: 17
-6C versus KC
-Player 0 has: 34 Player 1 has: 18
-7D versus 4H
-Player 0 has: 35 Player 1 has: 17
-6H versus AH
-Player 0 has: 34 Player 1 has: 18
-JD versus TS (Notched!)
-Player 0 has: 33 Player 1 has: 19
-8H versus KH
-Player 0 has: 32 Player 1 has: 20
-5D versus 8C
-Player 0 has: 31 Player 1 has: 21
-QD versus 7S
-Player 0 has: 32 Player 1 has: 20
-QH versus 6D
-Player 0 has: 33 Player 1 has: 19
-9D versus 9C
-WAR!
-4C versus 3S
-Player 0 has: 37 Player 1 has: 15
-KD versus AC (Notched!)
-Player 0 has: 38 Player 1 has: 14
-9S versus AD
-Player 0 has: 37 Player 1 has: 15
-TH versus 5C
-Player 0 has: 38 Player 1 has: 14
-5H versus 4S (Notched!)
-Player 0 has: 37 Player 1 has: 15
-TD versus JH (Notched!)
-Player 0 has: 38 Player 1 has: 14
-6S versus 6C
-WAR!
-4D versus 6H
-Player 0 has: 34 Player 1 has: 18
-2H versus TS
-Player 0 has: 33 Player 1 has: 19
-3H versus JD
-Player 0 has: 32 Player 1 has: 20
-JC versus 8H
-Player 0 has: 33 Player 1 has: 19
-8D versus KH
-Player 0 has: 32 Player 1 has: 20
-QC versus 8C
-Player 0 has: 33 Player 1 has: 19
-5S versus 5D
-WAR!
-7C versus 5H
-Player 0 has: 37 Player 1 has: 15
-JS versus 4S
-Player 0 has: 38 Player 1 has: 14
-QS versus 6C
-Player 0 has: 39 Player 1 has: 13
-7H versus 3D
-Player 0 has: 40 Player 1 has: 12
-3C versus 6H
-Player 0 has: 39 Player 1 has: 13
-9H versus 4D
-Player 0 has: 40 Player 1 has: 12
-4H versus KS
-Player 0 has: 39 Player 1 has: 13
-7D versus AH
-Player 0 has: 38 Player 1 has: 14
-7S versus KC
-Player 0 has: 37 Player 1 has: 15
-QD versus 6S
-Player 0 has: 38 Player 1 has: 14
-QH versus 2H
-Player 0 has: 39 Player 1 has: 13
-6D versus TS
-Player 0 has: 38 Player 1 has: 14
-3S versus JD
-Player 0 has: 37 Player 1 has: 15
-4C versus 3H (Notched!)
-Player 0 has: 36 Player 1 has: 16
-8S versus KH
-Player 0 has: 35 Player 1 has: 17
-9C versus 8D (Notched!)
-Player 0 has: 34 Player 1 has: 18
-AS versus 3C
-Player 0 has: 35 Player 1 has: 17
-2C versus 6H
-Player 0 has: 34 Player 1 has: 18
-2S versus 4H
-Player 0 has: 33 Player 1 has: 19
-9D versus KS
-Player 0 has: 32 Player 1 has: 20
-AC versus 7D
-Player 0 has: 33 Player 1 has: 19
-KD versus AH (Notched!)
-Player 0 has: 34 Player 1 has: 18
-TH versus 7S
-Player 0 has: 35 Player 1 has: 17
-5C versus KC
-Player 0 has: 34 Player 1 has: 18
-TD versus 6D
-Player 0 has: 35 Player 1 has: 17
-JH versus TS (Notched!)
-Player 0 has: 34 Player 1 has: 18
-8H versus 3S
-Player 0 has: 35 Player 1 has: 17
-JC versus JD
-WAR!
-5S versus KH
-Player 0 has: 31 Player 1 has: 21
-7C versus 8S (Notched!)
-Player 0 has: 32 Player 1 has: 20
-5H versus 8D
-Player 0 has: 31 Player 1 has: 21
-5D versus 9C
-Player 0 has: 30 Player 1 has: 22
-2D versus 6H
-Player 0 has: 29 Player 1 has: 23
-9S versus 2C
-Player 0 has: 30 Player 1 has: 22
-AD versus 2S
-Player 0 has: 31 Player 1 has: 21
-TC versus 4H
-Player 0 has: 32 Player 1 has: 20
-4S versus KS
-Player 0 has: 31 Player 1 has: 21
-JS versus 9D
-Player 0 has: 32 Player 1 has: 20
-6C versus KC
-Player 0 has: 31 Player 1 has: 21
-QS versus 5C
-Player 0 has: 32 Player 1 has: 20
-7H versus JH
-Player 0 has: 31 Player 1 has: 21
-3D versus TS
-Player 0 has: 30 Player 1 has: 22
-4D versus QC
-Player 0 has: 29 Player 1 has: 23
-9H versus JD
-Player 0 has: 28 Player 1 has: 24
-QD versus KH (Notched!)
-Player 0 has: 29 Player 1 has: 23
-6S versus 4C
-Player 0 has: 30 Player 1 has: 22
-QH versus 5S
-Player 0 has: 31 Player 1 has: 21
-2H versus 3H (Notched!)
-Player 0 has: 32 Player 1 has: 20
-AS versus JC
-Player 0 has: 33 Player 1 has: 19
-3C versus 8C
-Player 0 has: 32 Player 1 has: 20
-7D versus 8D (Notched!)
-Player 0 has: 33 Player 1 has: 19
-AC versus 5H
-Player 0 has: 34 Player 1 has: 18
-KD versus 9C
-Player 0 has: 35 Player 1 has: 17
-AH versus 5D
-Player 0 has: 36 Player 1 has: 16
-TH versus 6H
-Player 0 has: 37 Player 1 has: 15
-7S versus 2D
-Player 0 has: 38 Player 1 has: 14
-6D versus KS
-Player 0 has: 37 Player 1 has: 15
-TD versus 4S
-Player 0 has: 38 Player 1 has: 14
-8H versus 6C
-Player 0 has: 39 Player 1 has: 13
-3S versus KC
-Player 0 has: 38 Player 1 has: 14
-7C versus 7H
-WAR!
-9S versus TS
-Player 0 has: 34 Player 1 has: 18
-AD versus QC
-Player 0 has: 35 Player 1 has: 17
-2S versus 4D
-Player 0 has: 34 Player 1 has: 18
-4H versus JD
-Player 0 has: 33 Player 1 has: 19
-TC versus 9H (Notched!)
-Player 0 has: 32 Player 1 has: 20
-9D versus 8C (Notched!)
-Player 0 has: 31 Player 1 has: 21
-JS versus 3C
-Player 0 has: 32 Player 1 has: 20
-5C versus KS
-Player 0 has: 31 Player 1 has: 21
-QS versus 6D
-Player 0 has: 32 Player 1 has: 20
-QD versus 3S
-Player 0 has: 33 Player 1 has: 19
-KH versus KC
-WAR!
-5S versus 9S
-Player 0 has: 29 Player 1 has: 23
-QH versus 8S
-Player 0 has: 30 Player 1 has: 22
-2H versus 7C
-Player 0 has: 29 Player 1 has: 23
-3H versus TS
-Player 0 has: 28 Player 1 has: 24
-AS versus 2C
-Player 0 has: 29 Player 1 has: 23
-JC versus JH
-WAR!
-5H versus JD
-Player 0 has: 25 Player 1 has: 27
-AC versus 4H
-Player 0 has: 26 Player 1 has: 26
-KD versus TC
-Player 0 has: 27 Player 1 has: 25
-9C versus 9H
-WAR!
-TH versus KS
-Player 0 has: 23 Player 1 has: 29
-6H versus 5C (Notched!)
-Player 0 has: 22 Player 1 has: 30
-7S versus 9S
-Player 0 has: 21 Player 1 has: 31
-2D versus 5S
-Player 0 has: 20 Player 1 has: 32
-TD versus KH
-Player 0 has: 19 Player 1 has: 33
-4S versus KC
-Player 0 has: 18 Player 1 has: 34
-8H versus 6S
-Player 0 has: 19 Player 1 has: 33
-6C versus 4C
-Player 0 has: 20 Player 1 has: 32
-QC versus 3D
-Player 0 has: 21 Player 1 has: 31
-AD versus 7H
-Player 0 has: 22 Player 1 has: 30
-3C versus 7C
-Player 0 has: 21 Player 1 has: 31
-JS versus 2H
-Player 0 has: 22 Player 1 has: 30
-QS versus TS
-Player 0 has: 23 Player 1 has: 29
-6D versus 3H
-Player 0 has: 24 Player 1 has: 28
-QD versus JC (Notched!)
-Player 0 has: 23 Player 1 has: 29
-3S versus JD
-Player 0 has: 22 Player 1 has: 30
-QH versus 5H
-Player 0 has: 23 Player 1 has: 29
-8S versus JH
-Player 0 has: 22 Player 1 has: 30
-2C versus 4D
-Player 0 has: 21 Player 1 has: 31
-AS versus 7D
-Player 0 has: 22 Player 1 has: 30
-AC versus 2S
-Player 0 has: 23 Player 1 has: 29
-4H versus 8D
-Player 0 has: 22 Player 1 has: 30
-KD versus 9C
-Player 0 has: 23 Player 1 has: 29
-TC versus 8C
-Player 0 has: 24 Player 1 has: 28
-8H versus 5D
-Player 0 has: 25 Player 1 has: 27
-6S versus 9D
-Player 0 has: 24 Player 1 has: 28
-6C versus AH
-Player 0 has: 23 Player 1 has: 29
-4C versus TH
-Player 0 has: 22 Player 1 has: 30
-QC versus 9H
-Player 0 has: 23 Player 1 has: 29
-3D versus KS
-Player 0 has: 22 Player 1 has: 30
-AD versus 5C
-Player 0 has: 23 Player 1 has: 29
-7H versus 6H (Notched!)
-Player 0 has: 22 Player 1 has: 30
-2H versus 9S
-Player 0 has: 21 Player 1 has: 31
-JS versus 7S
-Player 0 has: 22 Player 1 has: 30
-TS versus 5S
-Player 0 has: 23 Player 1 has: 29
-QS versus 2D
-Player 0 has: 24 Player 1 has: 28
-3H versus KH
-Player 0 has: 23 Player 1 has: 29
-6D versus TD
-Player 0 has: 22 Player 1 has: 30
-5H versus 4S (Notched!)
-Player 0 has: 21 Player 1 has: 31
-QH versus KC (Notched!)
-Player 0 has: 22 Player 1 has: 30
-7D versus 7C
-WAR!
-AC versus QD
-Player 0 has: 26 Player 1 has: 26
-9C versus 3S
-Player 0 has: 27 Player 1 has: 25
-KD versus JD
-Player 0 has: 28 Player 1 has: 24
-8C versus 8S
-WAR!
-8H versus 2C
-Player 0 has: 32 Player 1 has: 20
-QC versus 8D
-Player 0 has: 33 Player 1 has: 19
-9H versus 4H
-Player 0 has: 34 Player 1 has: 18
-AD versus 9D
-Player 0 has: 35 Player 1 has: 17
-5C versus 6S (Notched!)
-Player 0 has: 36 Player 1 has: 16
-JS versus 6C
-Player 0 has: 37 Player 1 has: 15
-7S versus AH
-Player 0 has: 36 Player 1 has: 16
-5S versus TH
-Player 0 has: 35 Player 1 has: 17
-TS versus 4C
-Player 0 has: 36 Player 1 has: 16
-2D versus KS
-Player 0 has: 35 Player 1 has: 17
-QS versus 3D
-Player 0 has: 36 Player 1 has: 16
-QH versus 7H
-Player 0 has: 37 Player 1 has: 15
-KC versus 6H
-Player 0 has: 38 Player 1 has: 14
-AS versus 2H
-Player 0 has: 39 Player 1 has: 13
-AC versus 9S
-Player 0 has: 40 Player 1 has: 12
-7D versus 3H
-Player 0 has: 41 Player 1 has: 11
-7C versus KH
-Player 0 has: 40 Player 1 has: 12
-3C versus 6D
-Player 0 has: 39 Player 1 has: 13
-2S versus TD
-Player 0 has: 38 Player 1 has: 14
-JC versus 5H
-Player 0 has: 39 Player 1 has: 13
-QD versus 4S
-Player 0 has: 40 Player 1 has: 12
-3S versus 7S
-Player 0 has: 39 Player 1 has: 13
-9C versus AH
-Player 0 has: 38 Player 1 has: 14
-KD versus TH
-Player 0 has: 39 Player 1 has: 13
-JD versus 5S
-Player 0 has: 40 Player 1 has: 12
-2C versus KS
-Player 0 has: 39 Player 1 has: 13
-8S versus 2D
-Player 0 has: 40 Player 1 has: 12
-JH versus KH
-Player 0 has: 39 Player 1 has: 13
-8H versus 7C (Notched!)
-Player 0 has: 38 Player 1 has: 14
-4D versus 6D
-Player 0 has: 37 Player 1 has: 15
-8C versus 3C
-Player 0 has: 38 Player 1 has: 14
-TC versus 2S
-Player 0 has: 39 Player 1 has: 13
-5D versus TD
-Player 0 has: 38 Player 1 has: 14
-8D versus 3S
-Player 0 has: 39 Player 1 has: 13
-QC versus 7S
-Player 0 has: 40 Player 1 has: 12
-4H versus AH
-Player 0 has: 39 Player 1 has: 13
-9H versus 9C
-WAR!
-5C versus JH
-Player 0 has: 35 Player 1 has: 17
-6S versus KH
-Player 0 has: 34 Player 1 has: 18
-6C versus 8H
-Player 0 has: 33 Player 1 has: 19
-JS versus 7C
-Player 0 has: 34 Player 1 has: 18
-TS versus 6D
-Player 0 has: 35 Player 1 has: 17
-4C versus 4D
-WAR!
-QH versus AH
-Player 0 has: 31 Player 1 has: 21
-7H versus 4H
-Player 0 has: 32 Player 1 has: 20
-KC versus 9D
-Player 0 has: 33 Player 1 has: 19
-6H versus 9C
-Player 0 has: 32 Player 1 has: 20
-AS versus JH
-Player 0 has: 33 Player 1 has: 19
-2H versus 9H
-Player 0 has: 32 Player 1 has: 20
-9S versus 5C
-Player 0 has: 33 Player 1 has: 19
-AC versus AD
-WAR!
-5H versus KH
-Player 0 has: 29 Player 1 has: 23
-JC versus 6S
-Player 0 has: 30 Player 1 has: 22
-4S versus 6C
-Player 0 has: 29 Player 1 has: 23
-QD versus 8H
-Player 0 has: 30 Player 1 has: 22
-TH versus 3D
-Player 0 has: 31 Player 1 has: 21
-KD versus QS (Notched!)
-Player 0 has: 30 Player 1 has: 22
-5S versus 4D (Notched!)
-Player 0 has: 29 Player 1 has: 23
-JD versus TD (Notched!)
-Player 0 has: 28 Player 1 has: 24
-8S versus 5D
-Player 0 has: 29 Player 1 has: 23
-2D versus QH
-Player 0 has: 28 Player 1 has: 24
-8C versus 4C
-Player 0 has: 29 Player 1 has: 23
-3C versus AH
-Player 0 has: 28 Player 1 has: 24
-2S versus 6H
-Player 0 has: 27 Player 1 has: 25
-TC versus 9C (Notched!)
-Player 0 has: 26 Player 1 has: 26
-3S versus 9H
-Player 0 has: 25 Player 1 has: 27
-8D versus 2H
-Player 0 has: 26 Player 1 has: 26
-QC versus KS (Notched!)
-Player 0 has: 27 Player 1 has: 25
-7S versus 3H
-Player 0 has: 28 Player 1 has: 24
-JS versus 7D
-Player 0 has: 29 Player 1 has: 23
-7C versus KH
-Player 0 has: 28 Player 1 has: 24
-TS versus 2C
-Player 0 has: 29 Player 1 has: 23
-6D versus 5H (Notched!)
-Player 0 has: 28 Player 1 has: 24
-4H versus AC
-Player 0 has: 27 Player 1 has: 25
-7H versus AD
-Player 0 has: 26 Player 1 has: 26
-9D versus 6C
-Player 0 has: 27 Player 1 has: 25
-KC versus 4S
-Player 0 has: 28 Player 1 has: 24
-JH versus QS (Notched!)
-Player 0 has: 29 Player 1 has: 23
-AS versus KD (Notched!)
-Player 0 has: 28 Player 1 has: 24
-5C versus 5S
-WAR!
-JC versus JD
-WAR!
-3D versus AH
-Player 0 has: 21 Player 1 has: 31
-TH versus 3C
-Player 0 has: 22 Player 1 has: 30
-5D versus 2S
-Player 0 has: 23 Player 1 has: 29
-8S versus 6H
-Player 0 has: 24 Player 1 has: 28
-8C versus TC
-Player 0 has: 23 Player 1 has: 29
-4C versus 9C
-Player 0 has: 22 Player 1 has: 30
-8D versus 9H (Notched!)
-Player 0 has: 23 Player 1 has: 29
-2H versus 3S (Notched!)
-Player 0 has: 24 Player 1 has: 28
-KS versus 7C
-Player 0 has: 25 Player 1 has: 27
-QC versus KH (Notched!)
-Player 0 has: 26 Player 1 has: 26
-7S versus 5H
-Player 0 has: 27 Player 1 has: 25
-3H versus 6D
-Player 0 has: 26 Player 1 has: 26
-JS versus 4H
-Player 0 has: 27 Player 1 has: 25
-7D versus AC
-Player 0 has: 26 Player 1 has: 26
-2C versus 7H
-Player 0 has: 25 Player 1 has: 27
-TS versus AD
-Player 0 has: 24 Player 1 has: 28
-6C versus KD
-Player 0 has: 23 Player 1 has: 29
-9D versus AS
-Player 0 has: 22 Player 1 has: 30
-KC versus 8H
-Player 0 has: 23 Player 1 has: 29
-4S versus 4D
-WAR!
-TH versus 3D
-Player 0 has: 27 Player 1 has: 25
-3C versus JC
-Player 0 has: 26 Player 1 has: 26
-2S versus QH
-Player 0 has: 25 Player 1 has: 27
-5D versus 9S
-Player 0 has: 24 Player 1 has: 28
-6H versus QD
-Player 0 has: 23 Player 1 has: 29
-8S versus TD
-Player 0 has: 22 Player 1 has: 30
-8D versus 6S
-Player 0 has: 23 Player 1 has: 29
-9H versus JD
-Player 0 has: 22 Player 1 has: 30
-3S versus 5C
-Player 0 has: 21 Player 1 has: 31
-2H versus 2D
-WAR!
-QC versus 9C
-Player 0 has: 25 Player 1 has: 27
-KH versus 4C
-Player 0 has: 26 Player 1 has: 26
-5H versus 6D (Notched!)
-Player 0 has: 27 Player 1 has: 25
-7S versus 3H
-Player 0 has: 28 Player 1 has: 24
-4H versus AC
-Player 0 has: 27 Player 1 has: 25
-JS versus 7D
-Player 0 has: 28 Player 1 has: 24
-KC versus 7H
-Player 0 has: 29 Player 1 has: 23
-8H versus 2C
-Player 0 has: 30 Player 1 has: 22
-4S versus TS
-Player 0 has: 29 Player 1 has: 23
-AH versus AD
-WAR!
-3D versus 9D
-Player 0 has: 25 Player 1 has: 27
-JH versus AS
-Player 0 has: 24 Player 1 has: 28
-TH versus 3C
-Player 0 has: 25 Player 1 has: 27
-5S versus JC
-Player 0 has: 24 Player 1 has: 28
-6S versus QH
-Player 0 has: 23 Player 1 has: 29
-8D versus 2S
-Player 0 has: 24 Player 1 has: 28
-QC versus 5D
-Player 0 has: 25 Player 1 has: 27
-7C versus 9S
-Player 0 has: 24 Player 1 has: 28
-KS versus 6H
-Player 0 has: 25 Player 1 has: 27
-9C versus QD
-Player 0 has: 24 Player 1 has: 28
-2D versus 8S
-Player 0 has: 23 Player 1 has: 29
-8C versus TD
-Player 0 has: 22 Player 1 has: 30
-TC versus JD (Notched!)
-Player 0 has: 23 Player 1 has: 29
-2H versus 9H
-Player 0 has: 22 Player 1 has: 30
-4C versus 3S (Notched!)
-Player 0 has: 21 Player 1 has: 31
 KH versus 5C
-Player 0 has: 22 Player 1 has: 30
-5H versus 4H (Notched!)
-Player 0 has: 21 Player 1 has: 31
-6D versus AC
-Player 0 has: 20 Player 1 has: 32
-7S versus TS
-Player 0 has: 19 Player 1 has: 33
-3H versus 4S (Notched!)
-Player 0 has: 20 Player 1 has: 32
-7D versus AH
-Player 0 has: 19 Player 1 has: 33
-JS versus 9D
-Player 0 has: 20 Player 1 has: 32
-KC versus 4D
-Player 0 has: 21 Player 1 has: 31
-7H versus 6C (Notched!)
-Player 0 has: 20 Player 1 has: 32
-8H versus KD
-Player 0 has: 19 Player 1 has: 33
-2C versus AD
-Player 0 has: 18 Player 1 has: 34
-TH versus QS
-Player 0 has: 17 Player 1 has: 35
-3C versus 3D
-WAR!
-5D versus JC
-Player 0 has: 13 Player 1 has: 39
-QC versus 5S
-Player 0 has: 14 Player 1 has: 38
-6H versus QH
-Player 0 has: 13 Player 1 has: 39
-KS versus 6S
-Player 0 has: 14 Player 1 has: 38
-JD versus 7C
-Player 0 has: 15 Player 1 has: 37
-TC versus 9S (Notched!)
-Player 0 has: 14 Player 1 has: 38
-KH versus QD (Notched!)
-Player 0 has: 13 Player 1 has: 39
-5C versus 9C
-Player 0 has: 12 Player 1 has: 40
-4S versus 8S
-Player 0 has: 11 Player 1 has: 41
-3H versus 2D (Notched!)
-Player 0 has: 10 Player 1 has: 42
-JS versus TD (Notched!)
-Player 0 has: 9 Player 1 has: 43
-9D versus 8C (Notched!)
-Player 0 has: 8 Player 1 has: 44
-4D versus 2H
-Player 0 has: 9 Player 1 has: 43
-KC versus 9H
-Player 0 has: 10 Player 1 has: 42
-QC versus 3S
-Player 0 has: 11 Player 1 has: 41
-5S versus 4C (Notched!)
-Player 0 has: 10 Player 1 has: 42
-KS versus 5H
-Player 0 has: 11 Player 1 has: 41
-6S versus 4H
-Player 0 has: 12 Player 1 has: 40
-7C versus 6D (Notched!)
-Player 0 has: 11 Player 1 has: 41
-JD versus AC
-Player 0 has: 10 Player 1 has: 42
-4D versus 7S
-Player 0 has: 9 Player 1 has: 43
-2H versus TS
-Player 0 has: 8 Player 1 has: 44
-9H versus AH
-Player 0 has: 7 Player 1 has: 45
-KC versus 7D
-Player 0 has: 8 Player 1 has: 44
-3S versus 7H
-Player 0 has: 7 Player 1 has: 45
-QC versus 6C
-Player 0 has: 8 Player 1 has: 44
-5H versus 8H
-Player 0 has: 7 Player 1 has: 45
-KS versus KD
-WAR!
-KC versus QS
-Player 0 has: 11 Player 1 has: 41
-7D versus TH
-Player 0 has: 10 Player 1 has: 42
-QC versus AS
-Player 0 has: 9 Player 1 has: 43
-6C versus 3C
-Player 0 has: 10 Player 1 has: 42
-2C versus JC
-Player 0 has: 9 Player 1 has: 43
-KC versus JH
-Player 0 has: 10 Player 1 has: 42
-QS versus 3D
-Player 0 has: 11 Player 1 has: 41
-6S versus 8D
-Player 0 has: 10 Player 1 has: 42
-AD versus 5D
-Player 0 has: 11 Player 1 has: 41
-KD versus 2S
-Player 0 has: 12 Player 1 has: 40
-4H versus QH
-Player 0 has: 11 Player 1 has: 41
-KS versus 6H
-Player 0 has: 12 Player 1 has: 40
-3C versus TC
-Player 0 has: 11 Player 1 has: 41
-6C versus 9S
-Player 0 has: 10 Player 1 has: 42
-KC versus QD (Notched!)
-Player 0 has: 9 Player 1 has: 43
-JH versus KH
-Player 0 has: 8 Player 1 has: 44
-3D versus 5C
-Player 0 has: 7 Player 1 has: 45
-QS versus 9C
-Player 0 has: 8 Player 1 has: 44
-AD versus 8S
-Player 0 has: 9 Player 1 has: 43
-5D versus 4S (Notched!)
-Player 0 has: 8 Player 1 has: 44
-KD versus 3H
-Player 0 has: 9 Player 1 has: 43
-2S versus 2D
-WAR!
-QS versus 8C
-Player 0 has: 13 Player 1 has: 39
-9C versus 9D
-WAR!
-KD versus 6D
-Player 0 has: 17 Player 1 has: 35
-3H versus 7C
-Player 0 has: 16 Player 1 has: 36
-8C versus AC
-Player 0 has: 15 Player 1 has: 37
-6H versus JD
-Player 0 has: 14 Player 1 has: 38
-KS versus 7S
-Player 0 has: 15 Player 1 has: 37
-2S versus 4D
-Player 0 has: 14 Player 1 has: 38
-QS versus TS
-Player 0 has: 15 Player 1 has: 37
-JS versus 2H
-Player 0 has: 16 Player 1 has: 36
-2D versus 9H
-Player 0 has: 15 Player 1 has: 37
-TD versus AH
-Player 0 has: 14 Player 1 has: 38
-9D versus 3S
-Player 0 has: 15 Player 1 has: 37
-8S versus 7H (Notched!)
-Player 0 has: 14 Player 1 has: 38
-9C versus 8H (Notched!)
-Player 0 has: 13 Player 1 has: 39
-AD versus 5H
-Player 0 has: 14 Player 1 has: 38
-KD versus TH
-Player 0 has: 15 Player 1 has: 37
-4C versus 7D
-Player 0 has: 14 Player 1 has: 38
-6D versus QC
-Player 0 has: 13 Player 1 has: 39
-5S versus AS
-Player 0 has: 12 Player 1 has: 40
-7S versus JC
-Player 0 has: 11 Player 1 has: 41
-KS versus 2C
-Player 0 has: 12 Player 1 has: 40
-TS versus 8D
-Player 0 has: 13 Player 1 has: 39
-QS versus 6S
-Player 0 has: 14 Player 1 has: 38
-2H versus 4H
-Player 0 has: 13 Player 1 has: 39
-JS versus QH (Notched!)
-Player 0 has: 14 Player 1 has: 38
-9D versus TC (Notched!)
-Player 0 has: 15 Player 1 has: 37
-3S versus 3C
-WAR!
-KD versus QD
-Player 0 has: 19 Player 1 has: 33
-TH versus KC
-Player 0 has: 18 Player 1 has: 34
-2C versus JH
-Player 0 has: 17 Player 1 has: 35
-KS versus KH
-WAR!
-6S versus 4S
-Player 0 has: 21 Player 1 has: 31
-QS versus 5D
-Player 0 has: 22 Player 1 has: 30
-JS versus 7C
-Player 0 has: 23 Player 1 has: 29
-QH versus 3H
-Player 0 has: 24 Player 1 has: 28
-TC versus AC
-Player 0 has: 23 Player 1 has: 29
-9D versus 8C (Notched!)
-Player 0 has: 22 Player 1 has: 30
-KD versus 6H
-Player 0 has: 23 Player 1 has: 29
-6C versus JD
-Player 0 has: 22 Player 1 has: 30
-3C versus 4D (Notched!)
-Player 0 has: 23 Player 1 has: 29
-3S versus 2S (Notched!)
-Player 0 has: 22 Player 1 has: 30
-5H versus 2D
-Player 0 has: 23 Player 1 has: 29
-QD versus 9H
-Player 0 has: 24 Player 1 has: 28
-9S versus AH
-Player 0 has: 23 Player 1 has: 29
-AD versus TD
-Player 0 has: 24 Player 1 has: 28
-KS versus 7H
-Player 0 has: 25 Player 1 has: 27
-4S versus 8S
-Player 0 has: 24 Player 1 has: 28
-6S versus 8H
-Player 0 has: 23 Player 1 has: 29
-KH versus 9C
-Player 0 has: 24 Player 1 has: 28
-TS versus 4C
-Player 0 has: 25 Player 1 has: 27
-5C versus 7D
-Player 0 has: 24 Player 1 has: 28
-8D versus 6D
-Player 0 has: 25 Player 1 has: 27
-3D versus QC
-Player 0 has: 24 Player 1 has: 28
-QS versus AS
-Player 0 has: 23 Player 1 has: 29
-5D versus 5S
-WAR!
-QH versus 4H
-Player 0 has: 27 Player 1 has: 25
-3H versus 2H (Notched!)
 Player 0 has: 26 Player 1 has: 26
-6H versus KC
+9H versus KD
 Player 0 has: 25 Player 1 has: 27
-KD versus TH
-Player 0 has: 26 Player 1 has: 26
-3C versus 2C (Notched!)
-Player 0 has: 25 Player 1 has: 27
-4D versus JH
-Player 0 has: 24 Player 1 has: 28
-2D versus AC
-Player 0 has: 23 Player 1 has: 29
-5H versus TC
-Player 0 has: 22 Player 1 has: 30
-QD versus 8C
-Player 0 has: 23 Player 1 has: 29
-9H versus 9D
-WAR!
-7H versus 3S
-Player 0 has: 27 Player 1 has: 25
-KS versus 2S
-Player 0 has: 28 Player 1 has: 24
-9C versus 9S
-WAR!
-4C versus 4S
-WAR!
-5S versus 7D
-Player 0 has: 21 Player 1 has: 31
-5D versus 5C
-WAR!
-4H versus AS
-Player 0 has: 17 Player 1 has: 35
-JS versus QS (Notched!)
-Player 0 has: 18 Player 1 has: 34
-7S versus 3H
-Player 0 has: 19 Player 1 has: 33
-7C versus 2H
-Player 0 has: 20 Player 1 has: 32
-TH versus 6H
-Player 0 has: 21 Player 1 has: 31
-KD versus KC
-WAR!
-TD versus JH
-Player 0 has: 17 Player 1 has: 35
-3S versus 4D (Notched!)
-Player 0 has: 18 Player 1 has: 34
-JD versus AC
-Player 0 has: 17 Player 1 has: 35
-9H versus 2D
-Player 0 has: 18 Player 1 has: 34
-9D versus 5H
-Player 0 has: 19 Player 1 has: 33
-6C versus TC
-Player 0 has: 18 Player 1 has: 34
-7H versus 6D (Notched!)
-Player 0 has: 17 Player 1 has: 35
-AD versus 8S
-Player 0 has: 18 Player 1 has: 34
-2S versus 8D
-Player 0 has: 17 Player 1 has: 35
-KS versus 5S
-Player 0 has: 18 Player 1 has: 34
-JS versus 9C
-Player 0 has: 19 Player 1 has: 33
-QS versus 8H
-Player 0 has: 20 Player 1 has: 32
-7S versus 7D
-WAR!
-7C versus 9S
-Player 0 has: 16 Player 1 has: 36
-6H versus 4S
-Player 0 has: 17 Player 1 has: 35
-TH versus TS
-WAR!
-2D versus 4H
-Player 0 has: 13 Player 1 has: 39
-9H versus 3D
-Player 0 has: 14 Player 1 has: 38
-5H versus 5C
-WAR!
-8S versus JC
-Player 0 has: 10 Player 1 has: 42
-5S versus QC
-Player 0 has: 9 Player 1 has: 43
-KS versus AS (Notched!)
-Player 0 has: 10 Player 1 has: 42
-9C versus KD
-Player 0 has: 9 Player 1 has: 43
-JS versus 8C
-Player 0 has: 10 Player 1 has: 42
-8H versus 2C
-Player 0 has: 11 Player 1 has: 41
-QS versus QD
-WAR!
-9H versus TD
-Player 0 has: 7 Player 1 has: 45
-3D versus 3C
-WAR!
-JS versus TC
-Player 0 has: 11 Player 1 has: 41
-8C versus 6C
-Player 0 has: 12 Player 1 has: 40
-2C versus 6D
-Player 0 has: 11 Player 1 has: 41
-8H versus 7H (Notched!)
-Player 0 has: 10 Player 1 has: 42
-3D versus 2S (Notched!)
-Player 0 has: 9 Player 1 has: 43
-TC versus 8D
-Player 0 has: 10 Player 1 has: 42
-AS versus 3H
-Player 0 has: 11 Player 1 has: 41
-JS versus 4C
-Player 0 has: 12 Player 1 has: 40
-KS versus 7C
-Player 0 has: 13 Player 1 has: 39
-AC versus 9S
-Player 0 has: 14 Player 1 has: 38
-JD versus 7S
-Player 0 has: 15 Player 1 has: 37
-3C versus 7D
-Player 0 has: 14 Player 1 has: 38
-8C versus AH
-Player 0 has: 13 Player 1 has: 39
-6C versus 2H
-Player 0 has: 14 Player 1 has: 38
-TC versus 3S
-Player 0 has: 15 Player 1 has: 37
-8D versus KH
-Player 0 has: 14 Player 1 has: 38
-3H versus 2D (Notched!)
-Player 0 has: 13 Player 1 has: 39
-AS versus 6S
-Player 0 has: 14 Player 1 has: 38
-4C versus 4H
-WAR!
-KS versus 4D
-Player 0 has: 18 Player 1 has: 34
-9S versus AD
-Player 0 has: 17 Player 1 has: 35
-AC versus JC
-Player 0 has: 18 Player 1 has: 34
-7S versus 9D
-Player 0 has: 17 Player 1 has: 35
-JD versus 5D
-Player 0 has: 18 Player 1 has: 34
-2H versus 8S
-Player 0 has: 17 Player 1 has: 35
-6C versus 5C (Notched!)
-Player 0 has: 16 Player 1 has: 36
-TC versus QH
-Player 0 has: 15 Player 1 has: 37
-3S versus 5H
-Player 0 has: 14 Player 1 has: 38
-AS versus QC
-Player 0 has: 15 Player 1 has: 37
-6S versus 5S (Notched!)
-Player 0 has: 14 Player 1 has: 38
-4H versus 9C
-Player 0 has: 13 Player 1 has: 39
-JS versus KD
-Player 0 has: 12 Player 1 has: 40
-4D versus TD
-Player 0 has: 11 Player 1 has: 41
-TH versus QD
-Player 0 has: 10 Player 1 has: 42
-4C versus 4S
-WAR!
-TS versus JH
-Player 0 has: 6 Player 1 has: 46
-JC versus 6H
-Player 0 has: 7 Player 1 has: 45
-AC versus QS
-Player 0 has: 8 Player 1 has: 44
-5D versus 2C
-Player 0 has: 9 Player 1 has: 43
-JD versus 6D
-Player 0 has: 10 Player 1 has: 42
-QC versus 8H
-Player 0 has: 11 Player 1 has: 41
-AS versus 7H
-Player 0 has: 12 Player 1 has: 40
-6H versus 3D
-Player 0 has: 13 Player 1 has: 39
-JC versus 2S
-Player 0 has: 14 Player 1 has: 38
-QS versus 7D
-Player 0 has: 15 Player 1 has: 37
-AC versus 3C
-Player 0 has: 16 Player 1 has: 36
-2C versus AH
-Player 0 has: 15 Player 1 has: 37
-5D versus 8C
-Player 0 has: 14 Player 1 has: 38
-6D versus KH
-Player 0 has: 13 Player 1 has: 39
-JD versus 8D
-Player 0 has: 14 Player 1 has: 38
-8H versus 2D
-Player 0 has: 15 Player 1 has: 37
-QC versus 3H
-Player 0 has: 16 Player 1 has: 36
-AS versus 9S
-Player 0 has: 17 Player 1 has: 35
-7H versus AD
-Player 0 has: 16 Player 1 has: 36
-6H versus 9D
-Player 0 has: 15 Player 1 has: 37
-3D versus 7S
-Player 0 has: 14 Player 1 has: 38
-JC versus 2H
-Player 0 has: 15 Player 1 has: 37
-2S versus 8S
-Player 0 has: 14 Player 1 has: 38
-7D versus 6C (Notched!)
-Player 0 has: 13 Player 1 has: 39
-QS versus 5C
-Player 0 has: 14 Player 1 has: 38
-AC versus TC
-Player 0 has: 15 Player 1 has: 37
-3C versus QH
-Player 0 has: 14 Player 1 has: 38
-JD versus 3S
-Player 0 has: 15 Player 1 has: 37
-8D versus 5H
-Player 0 has: 16 Player 1 has: 36
-2D versus 5S
-Player 0 has: 15 Player 1 has: 37
-8H versus 6S
-Player 0 has: 16 Player 1 has: 36
-3H versus 4H (Notched!)
-Player 0 has: 17 Player 1 has: 35
-QC versus 9C
-Player 0 has: 18 Player 1 has: 34
-9S versus KD
-Player 0 has: 17 Player 1 has: 35
-AS versus JS
-Player 0 has: 18 Player 1 has: 34
-JC versus 4D
-Player 0 has: 19 Player 1 has: 33
-2H versus TD
-Player 0 has: 18 Player 1 has: 34
-QS versus QD
-WAR!
-AC versus JH
-Player 0 has: 22 Player 1 has: 30
-3S versus 4S (Notched!)
-Player 0 has: 23 Player 1 has: 29
-JD versus 9H
-Player 0 has: 24 Player 1 has: 28
-8D versus 4C
-Player 0 has: 25 Player 1 has: 27
-5H versus 7C
-Player 0 has: 24 Player 1 has: 28
-8H versus KS
-Player 0 has: 23 Player 1 has: 29
-6S versus TS
-Player 0 has: 22 Player 1 has: 30
-4H versus 2C
-Player 0 has: 23 Player 1 has: 29
-3H versus AH
-Player 0 has: 22 Player 1 has: 30
-QC versus 8C
-Player 0 has: 23 Player 1 has: 29
 9C versus 5D
-Player 0 has: 24 Player 1 has: 28
-JS versus KH
-Player 0 has: 23 Player 1 has: 29
-AS versus 6D
-Player 0 has: 24 Player 1 has: 28
-4D versus AD
-Player 0 has: 23 Player 1 has: 29
-JC versus 7H
-Player 0 has: 24 Player 1 has: 28
-TC versus 6H
-Player 0 has: 25 Player 1 has: 27
-5C versus 9D
-Player 0 has: 24 Player 1 has: 28
-JH versus 7S
-Player 0 has: 25 Player 1 has: 27
-TH versus 3D
 Player 0 has: 26 Player 1 has: 26
-QD versus 8S
-Player 0 has: 27 Player 1 has: 25
-KC versus 2S
-Player 0 has: 28 Player 1 has: 24
-AC versus 6C
-Player 0 has: 29 Player 1 has: 23
-QS versus 7D
-Player 0 has: 30 Player 1 has: 22
+8D versus 7D (Notched!)
+Player 0 has: 25 Player 1 has: 27
+QC versus 6D
+Player 0 has: 26 Player 1 has: 26
+3H versus KC
+Player 0 has: 25 Player 1 has: 27
+TD versus 8S
+Player 0 has: 26 Player 1 has: 26
 3S versus QH
-Player 0 has: 29 Player 1 has: 23
-4S versus 3C (Notched!)
+Player 0 has: 25 Player 1 has: 27
+8H versus TH
+Player 0 has: 24 Player 1 has: 28
+6C versus 6S
+WAR!
+QD versus AC
+Player 0 has: 20 Player 1 has: 32
+5H versus TS
+Player 0 has: 19 Player 1 has: 33
+8C versus 2D
+Player 0 has: 20 Player 1 has: 32
+9S versus 7H
+Player 0 has: 21 Player 1 has: 31
+KS versus 9D
+Player 0 has: 22 Player 1 has: 30
+3C versus 4C (Notched!)
+Player 0 has: 23 Player 1 has: 29
+JC versus JS
+WAR!
+7S versus 3D
+Player 0 has: 27 Player 1 has: 25
+TC versus JD (Notched!)
 Player 0 has: 28 Player 1 has: 24
-9H versus 2D
-Player 0 has: 29 Player 1 has: 23
-JD versus 5S
-Player 0 has: 30 Player 1 has: 22
-4C versus 9S
-Player 0 has: 29 Player 1 has: 23
-8D versus KD
-Player 0 has: 28 Player 1 has: 24
-4H versus TD
+7C versus 6H (Notched!)
 Player 0 has: 27 Player 1 has: 25
 2C versus 2H
 WAR!
-5D versus 8H
+9C versus KD
 Player 0 has: 23 Player 1 has: 29
-9C versus KS
+5D versus 9H
 Player 0 has: 22 Player 1 has: 30
-AS versus 6S
-Player 0 has: 23 Player 1 has: 29
-6D versus TS
-Player 0 has: 22 Player 1 has: 30
-JC versus AH
+6D versus 8D
 Player 0 has: 21 Player 1 has: 31
-7H versus 3H
+QC versus 7D
 Player 0 has: 22 Player 1 has: 30
-TC versus JS (Notched!)
-Player 0 has: 23 Player 1 has: 29
-6H versus KH
-Player 0 has: 22 Player 1 has: 30
-7S versus AD
+TD versus KC
 Player 0 has: 21 Player 1 has: 31
-JH versus 4D
+8S versus 3H
 Player 0 has: 22 Player 1 has: 30
-3D versus 5C
+8C versus QH
 Player 0 has: 21 Player 1 has: 31
-TH versus 9D (Notched!)
-Player 0 has: 20 Player 1 has: 32
-QD versus QH
-WAR!
-KC versus 3C
-Player 0 has: 24 Player 1 has: 28
-AC versus 4C
-Player 0 has: 25 Player 1 has: 27
-6C versus 9S
-Player 0 has: 24 Player 1 has: 28
-QS versus 8D
-Player 0 has: 25 Player 1 has: 27
-7D versus KD
-Player 0 has: 24 Player 1 has: 28
-2D versus TD
-Player 0 has: 23 Player 1 has: 29
-9H versus 4H
-Player 0 has: 24 Player 1 has: 28
-5S versus 2H
-Player 0 has: 25 Player 1 has: 27
-JD versus 8C
-Player 0 has: 26 Player 1 has: 26
-6S versus QC
-Player 0 has: 25 Player 1 has: 27
-AS versus 7C
-Player 0 has: 26 Player 1 has: 26
-7H versus 5D
-Player 0 has: 27 Player 1 has: 25
-3H versus 8H
-Player 0 has: 26 Player 1 has: 26
-JS versus 5H
-Player 0 has: 27 Player 1 has: 25
-TC versus 2C
-Player 0 has: 28 Player 1 has: 24
-4D versus 9C
-Player 0 has: 27 Player 1 has: 25
-JH versus KS
-Player 0 has: 26 Player 1 has: 26
-4S versus 6D
-Player 0 has: 25 Player 1 has: 27
-8S versus TS
-Player 0 has: 24 Player 1 has: 28
-QD versus JC (Notched!)
-Player 0 has: 23 Player 1 has: 29
-2S versus AH
-Player 0 has: 22 Player 1 has: 30
-KC versus 6H
-Player 0 has: 23 Player 1 has: 29
-QH versus KH (Notched!)
-Player 0 has: 24 Player 1 has: 28
-3C versus 7S
-Player 0 has: 23 Player 1 has: 29
-3S versus AD
-Player 0 has: 22 Player 1 has: 30
-AC versus 5C
-Player 0 has: 23 Player 1 has: 29
-4C versus 3D (Notched!)
-Player 0 has: 22 Player 1 has: 30
-8D versus TH
-Player 0 has: 21 Player 1 has: 31
-QS versus 9D
-Player 0 has: 22 Player 1 has: 30
-9H versus 6C
-Player 0 has: 23 Player 1 has: 29
-4H versus 9S
-Player 0 has: 22 Player 1 has: 30
-5S versus 7D
-Player 0 has: 21 Player 1 has: 31
-2H versus KD
-Player 0 has: 20 Player 1 has: 32
-8C versus TD
-Player 0 has: 19 Player 1 has: 33
-JD versus 2D
-Player 0 has: 20 Player 1 has: 32
-7C versus 6S (Notched!)
-Player 0 has: 19 Player 1 has: 33
-AS versus QC
-Player 0 has: 20 Player 1 has: 32
-7H versus 8H (Notched!)
-Player 0 has: 21 Player 1 has: 31
-5D versus 3H
-Player 0 has: 22 Player 1 has: 30
-5H versus 9C
-Player 0 has: 21 Player 1 has: 31
-JS versus 4D
-Player 0 has: 22 Player 1 has: 30
-TC versus KS
-Player 0 has: 21 Player 1 has: 31
-2C versus JH
-Player 0 has: 20 Player 1 has: 32
-6H versus 4S
-Player 0 has: 21 Player 1 has: 31
-KC versus 6D
-Player 0 has: 22 Player 1 has: 30
-QH versus 8S
-Player 0 has: 23 Player 1 has: 29
-KH versus TS
-Player 0 has: 24 Player 1 has: 28
-AC versus QD
-Player 0 has: 25 Player 1 has: 27
-5C versus JC
-Player 0 has: 24 Player 1 has: 28
-QS versus AH
-Player 0 has: 23 Player 1 has: 29
-9D versus 2S
-Player 0 has: 24 Player 1 has: 28
-6C versus 3C
-Player 0 has: 25 Player 1 has: 27
-9H versus 7S
-Player 0 has: 26 Player 1 has: 26
 2D versus 3S (Notched!)
-Player 0 has: 27 Player 1 has: 25
-JD versus AD
-Player 0 has: 26 Player 1 has: 26
-QC versus 4C
-Player 0 has: 27 Player 1 has: 25
-AS versus 3D
-Player 0 has: 28 Player 1 has: 24
-8H versus 8D
-WAR!
-3H versus 4H
-Player 0 has: 24 Player 1 has: 28
-4D versus 7D
-Player 0 has: 23 Player 1 has: 29
-JS versus 5S
-Player 0 has: 24 Player 1 has: 28
-6H versus KD
-Player 0 has: 23 Player 1 has: 29
-4S versus 2H
-Player 0 has: 24 Player 1 has: 28
-KC versus 8C
-Player 0 has: 25 Player 1 has: 27
-6D versus TD
-Player 0 has: 24 Player 1 has: 28
-8S versus 7C (Notched!)
-Player 0 has: 23 Player 1 has: 29
-QH versus 6S
-Player 0 has: 24 Player 1 has: 28
-TS versus 5H
-Player 0 has: 25 Player 1 has: 27
-KH versus 9C
-Player 0 has: 26 Player 1 has: 26
-AC versus KS (Notched!)
-Player 0 has: 25 Player 1 has: 27
-QD versus TC
-Player 0 has: 26 Player 1 has: 26
-2S versus JH
-Player 0 has: 25 Player 1 has: 27
-9D versus 2C
-Player 0 has: 26 Player 1 has: 26
-3C versus 5C
-Player 0 has: 25 Player 1 has: 27
-6C versus JC
-Player 0 has: 24 Player 1 has: 28
-7S versus QS
-Player 0 has: 23 Player 1 has: 29
-9H versus AH
 Player 0 has: 22 Player 1 has: 30
-3S versus JD
-Player 0 has: 21 Player 1 has: 31
-2D versus AD
-Player 0 has: 20 Player 1 has: 32
-4C versus 8D
-Player 0 has: 19 Player 1 has: 33
-QC versus 8H
-Player 0 has: 20 Player 1 has: 32
-AS versus 3H
-Player 0 has: 21 Player 1 has: 31
-3D versus TH
-Player 0 has: 20 Player 1 has: 32
-5S versus 7H
-Player 0 has: 19 Player 1 has: 33
-JS versus 5D
-Player 0 has: 20 Player 1 has: 32
-4S versus 9S
-Player 0 has: 19 Player 1 has: 33
-2H versus 4H
-Player 0 has: 18 Player 1 has: 34
-KC versus 7D
-Player 0 has: 19 Player 1 has: 33
-8C versus 4D
-Player 0 has: 20 Player 1 has: 32
-6S versus 6H
-WAR!
-5H versus 6D
-Player 0 has: 16 Player 1 has: 36
-KH versus 7C
-Player 0 has: 17 Player 1 has: 35
-9C versus 8S (Notched!)
-Player 0 has: 16 Player 1 has: 36
-QD versus AC
-Player 0 has: 15 Player 1 has: 37
-TC versus KS
-Player 0 has: 14 Player 1 has: 38
+7H versus 8H (Notched!)
+Player 0 has: 23 Player 1 has: 29
+9S versus TH (Notched!)
+Player 0 has: 24 Player 1 has: 28
 9D versus 2S
+Player 0 has: 25 Player 1 has: 27
+KS versus 6S
+Player 0 has: 26 Player 1 has: 26
+3C versus AH
+Player 0 has: 25 Player 1 has: 27
+4C versus QD
+Player 0 has: 24 Player 1 has: 28
+JC versus AC
+Player 0 has: 23 Player 1 has: 29
+QS versus 6C
+Player 0 has: 24 Player 1 has: 28
+4H versus AS
+Player 0 has: 23 Player 1 has: 29
+4S versus 4D
+WAR!
+5S versus 7C
+Player 0 has: 19 Player 1 has: 33
+JS versus 6H
+Player 0 has: 20 Player 1 has: 32
+JD versus 5C
+Player 0 has: 21 Player 1 has: 31
+TC versus AD
+Player 0 has: 20 Player 1 has: 32
+QC versus 2H
+Player 0 has: 21 Player 1 has: 31
+7D versus 2C
+Player 0 has: 22 Player 1 has: 30
+8S versus JH
+Player 0 has: 21 Player 1 has: 31
+3H versus 9C
+Player 0 has: 20 Player 1 has: 32
+3S versus KH
+Player 0 has: 19 Player 1 has: 33
+2D versus KD
+Player 0 has: 18 Player 1 has: 34
+7H versus 5D
+Player 0 has: 19 Player 1 has: 33
+8H versus 9H (Notched!)
+Player 0 has: 20 Player 1 has: 32
+9S versus 6D
+Player 0 has: 21 Player 1 has: 31
+TH versus 8D
+Player 0 has: 22 Player 1 has: 30
+9D versus TD (Notched!)
+Player 0 has: 23 Player 1 has: 29
+2S versus KC
+Player 0 has: 22 Player 1 has: 30
+6S versus 8C
+Player 0 has: 21 Player 1 has: 31
+KS versus QH (Notched!)
+Player 0 has: 20 Player 1 has: 32
+6C versus 3C
+Player 0 has: 21 Player 1 has: 31
+QS versus AH
+Player 0 has: 20 Player 1 has: 32
+6H versus 4C
+Player 0 has: 21 Player 1 has: 31
+JS versus QD (Notched!)
+Player 0 has: 22 Player 1 has: 30
+5C versus AC
+Player 0 has: 21 Player 1 has: 31
+JD versus JC
+WAR!
+2C versus 5H
+Player 0 has: 17 Player 1 has: 35
+7D versus 4S
+Player 0 has: 18 Player 1 has: 34
+5D versus 7S
+Player 0 has: 17 Player 1 has: 35
+7H versus 3D
+Player 0 has: 18 Player 1 has: 34
+9H versus TS (Notched!)
+Player 0 has: 19 Player 1 has: 33
+8H versus 5S
+Player 0 has: 20 Player 1 has: 32
+6D versus 4D
+Player 0 has: 21 Player 1 has: 31
+9S versus 7C
+Player 0 has: 22 Player 1 has: 30
+8D versus AD
+Player 0 has: 21 Player 1 has: 31
+TH versus TC
+WAR!
+6C versus 3H
+Player 0 has: 25 Player 1 has: 27
+3C versus 9C
+Player 0 has: 24 Player 1 has: 28
+4C versus KH
+Player 0 has: 23 Player 1 has: 29
+6H versus 3S
+Player 0 has: 24 Player 1 has: 28
+QD versus KD (Notched!)
+Player 0 has: 25 Player 1 has: 27
+JS versus 2D
+Player 0 has: 26 Player 1 has: 26
+7D versus 2S
+Player 0 has: 27 Player 1 has: 25
+4S versus KC
+Player 0 has: 26 Player 1 has: 26
+3D versus 6S
+Player 0 has: 25 Player 1 has: 27
+7H versus 8C (Notched!)
+Player 0 has: 26 Player 1 has: 26
+TS versus QH
+Player 0 has: 25 Player 1 has: 27
+9H versus KS
+Player 0 has: 24 Player 1 has: 28
+8H versus QS
+Player 0 has: 23 Player 1 has: 29
+5S versus AH
+Player 0 has: 22 Player 1 has: 30
+6D versus 5C (Notched!)
+Player 0 has: 21 Player 1 has: 31
+4D versus AC
+Player 0 has: 20 Player 1 has: 32
+9S versus 4H
+Player 0 has: 21 Player 1 has: 31
+7C versus JD
+Player 0 has: 20 Player 1 has: 32
+TH versus JC (Notched!)
+Player 0 has: 21 Player 1 has: 31
+3H versus 5H
+Player 0 has: 20 Player 1 has: 32
+JH versus AS
+Player 0 has: 19 Player 1 has: 33
+TD versus 2C
+Player 0 has: 20 Player 1 has: 32
+8S versus QC
+Player 0 has: 19 Player 1 has: 33
+TC versus 2H
+Player 0 has: 20 Player 1 has: 32
+6C versus 5D (Notched!)
+Player 0 has: 19 Player 1 has: 33
+9D versus 7S
+Player 0 has: 20 Player 1 has: 32
+6H versus 8D
+Player 0 has: 19 Player 1 has: 33
+3S versus AD
+Player 0 has: 18 Player 1 has: 34
+QD versus 3C
+Player 0 has: 19 Player 1 has: 33
+KD versus 9C
+Player 0 has: 20 Player 1 has: 32
+2D versus 4C
+Player 0 has: 19 Player 1 has: 33
+JS versus KH
+Player 0 has: 18 Player 1 has: 34
+7D versus 4S
+Player 0 has: 19 Player 1 has: 33
+2S versus KC
+Player 0 has: 18 Player 1 has: 34
+7H versus 6S (Notched!)
+Player 0 has: 17 Player 1 has: 35
+8C versus 3D
+Player 0 has: 18 Player 1 has: 34
+4H versus TS
+Player 0 has: 17 Player 1 has: 35
+9S versus QH
+Player 0 has: 16 Player 1 has: 36
+TH versus 9H (Notched!)
 Player 0 has: 15 Player 1 has: 37
-2C versus JH
+JC versus KS
 Player 0 has: 14 Player 1 has: 38
-QC versus 5C
+TD versus QS
+Player 0 has: 13 Player 1 has: 39
+2C versus 8H
+Player 0 has: 12 Player 1 has: 40
+2H versus AH
+Player 0 has: 11 Player 1 has: 41
+TC versus 5S
+Player 0 has: 12 Player 1 has: 40
+7S versus 5C
+Player 0 has: 13 Player 1 has: 39
+9D versus 6D
+Player 0 has: 14 Player 1 has: 38
+3C versus 4D (Notched!)
 Player 0 has: 15 Player 1 has: 37
-8H versus 3C
+QD versus AC
+Player 0 has: 14 Player 1 has: 38
+9C versus 7C
+Player 0 has: 15 Player 1 has: 37
+KD versus JD
 Player 0 has: 16 Player 1 has: 36
-AS versus 6C
+7D versus 3H
 Player 0 has: 17 Player 1 has: 35
-3H versus JC
+4S versus 5H (Notched!)
+Player 0 has: 18 Player 1 has: 34
+3D versus JH
+Player 0 has: 17 Player 1 has: 35
+8C versus AS
 Player 0 has: 16 Player 1 has: 36
-JS versus 7S
+TC versus 8S
 Player 0 has: 17 Player 1 has: 35
-5D versus QS
+5S versus QC
 Player 0 has: 16 Player 1 has: 36
-KC versus AH (Notched!)
+7S versus 5D
 Player 0 has: 17 Player 1 has: 35
-7D versus 9H
-Player 0 has: 16 Player 1 has: 36
-8C versus 3S
-Player 0 has: 17 Player 1 has: 35
-4D versus JD
-Player 0 has: 16 Player 1 has: 36
-7C versus 2D
-Player 0 has: 17 Player 1 has: 35
-KH versus AD (Notched!)
+5C versus 6C (Notched!)
 Player 0 has: 18 Player 1 has: 34
 9D versus 8D (Notched!)
 Player 0 has: 17 Player 1 has: 35
-2S versus 4C
-Player 0 has: 16 Player 1 has: 36
-QC versus 3D
-Player 0 has: 17 Player 1 has: 35
-5C versus TH
-Player 0 has: 16 Player 1 has: 36
-8H versus 7H (Notched!)
-Player 0 has: 15 Player 1 has: 37
-3C versus 5S
-Player 0 has: 14 Player 1 has: 38
-6C versus 4S
-Player 0 has: 15 Player 1 has: 37
-AS versus 9S
-Player 0 has: 16 Player 1 has: 36
-7S versus 2H
-Player 0 has: 17 Player 1 has: 35
-JS versus 4H
-Player 0 has: 18 Player 1 has: 34
-KC versus 6S
-Player 0 has: 19 Player 1 has: 33
-AH versus TD
-Player 0 has: 20 Player 1 has: 32
-3S versus 5H
-Player 0 has: 19 Player 1 has: 33
-8C versus QH
-Player 0 has: 18 Player 1 has: 34
-7C versus TS
-Player 0 has: 17 Player 1 has: 35
-2D versus 6H
-Player 0 has: 16 Player 1 has: 36
-KH versus 6D
-Player 0 has: 17 Player 1 has: 35
-AD versus KD (Notched!)
-Player 0 has: 16 Player 1 has: 36
-QC versus 9C
-Player 0 has: 17 Player 1 has: 35
-3D versus 8S
-Player 0 has: 16 Player 1 has: 36
-4S versus QD
-Player 0 has: 15 Player 1 has: 37
-6C versus AC
-Player 0 has: 14 Player 1 has: 38
-9S versus TC (Notched!)
-Player 0 has: 15 Player 1 has: 37
-AS versus KS (Notched!)
-Player 0 has: 14 Player 1 has: 38
-7S versus JH
-Player 0 has: 13 Player 1 has: 39
-2H versus 2C
+6D versus 6H
 WAR!
-6S versus QS
-Player 0 has: 9 Player 1 has: 43
-KC versus 5D
-Player 0 has: 10 Player 1 has: 42
-AH versus 7D
-Player 0 has: 11 Player 1 has: 41
-TD versus 9H (Notched!)
-Player 0 has: 10 Player 1 has: 42
-6D versus JD
-Player 0 has: 9 Player 1 has: 43
-KH versus 4D
-Player 0 has: 10 Player 1 has: 42
-QC versus 9D
-Player 0 has: 11 Player 1 has: 41
-9C versus 8D (Notched!)
-Player 0 has: 10 Player 1 has: 42
-TC versus 2S
-Player 0 has: 11 Player 1 has: 41
-9S versus 4C
-Player 0 has: 12 Player 1 has: 40
-5D versus TH
-Player 0 has: 11 Player 1 has: 41
-KC versus 5C
-Player 0 has: 12 Player 1 has: 40
-AH versus 8H
-Player 0 has: 13 Player 1 has: 39
-7D versus 7H
-WAR!
-QC versus 3S
-Player 0 has: 17 Player 1 has: 35
-9D versus 5H
-Player 0 has: 18 Player 1 has: 34
-TC versus 8C
-Player 0 has: 19 Player 1 has: 33
-2S versus QH
-Player 0 has: 18 Player 1 has: 34
-4C versus TS
-Player 0 has: 17 Player 1 has: 35
-9S versus 7C
-Player 0 has: 18 Player 1 has: 34
-KC versus 2D
-Player 0 has: 19 Player 1 has: 33
-5C versus 6H (Notched!)
-Player 0 has: 20 Player 1 has: 32
-AH versus KD (Notched!)
-Player 0 has: 19 Player 1 has: 33
-8H versus AD
-Player 0 has: 18 Player 1 has: 34
-4D versus 3D (Notched!)
-Player 0 has: 17 Player 1 has: 35
-3C versus 8S
-Player 0 has: 16 Player 1 has: 36
-7D versus 4S
-Player 0 has: 17 Player 1 has: 35
-3S versus QD
-Player 0 has: 16 Player 1 has: 36
-KH versus AC (Notched!)
-Player 0 has: 17 Player 1 has: 35
-QC versus 6C
-Player 0 has: 18 Player 1 has: 34
-7H versus AS
-Player 0 has: 17 Player 1 has: 35
-5S versus KS
-Player 0 has: 16 Player 1 has: 36
-5H versus 7S
-Player 0 has: 15 Player 1 has: 37
-9D versus JH
-Player 0 has: 14 Player 1 has: 38
-TC versus 2C
-Player 0 has: 15 Player 1 has: 37
-8C versus 6S
-Player 0 has: 16 Player 1 has: 36
-7C versus 3H
-Player 0 has: 17 Player 1 has: 35
-9S versus 4H
-Player 0 has: 18 Player 1 has: 34
-2D versus JC
-Player 0 has: 17 Player 1 has: 35
-KC versus 2H
-Player 0 has: 18 Player 1 has: 34
-6H versus QS
-Player 0 has: 17 Player 1 has: 35
-5C versus JS
-Player 0 has: 16 Player 1 has: 36
-7D versus TD
-Player 0 has: 15 Player 1 has: 37
-4S versus 9H
-Player 0 has: 14 Player 1 has: 38
-KH versus 6D
-Player 0 has: 15 Player 1 has: 37
-AC versus JD
-Player 0 has: 16 Player 1 has: 36
-6C versus 8D
-Player 0 has: 15 Player 1 has: 37
-QC versus 9C
-Player 0 has: 16 Player 1 has: 36
-TC versus TH
-WAR!
-8C versus QH
-Player 0 has: 12 Player 1 has: 40
-3H versus TS
-Player 0 has: 11 Player 1 has: 41
 7C versus 4C
-Player 0 has: 12 Player 1 has: 40
-4H versus KD
-Player 0 has: 11 Player 1 has: 41
-9S versus AH
-Player 0 has: 10 Player 1 has: 42
-KC versus 8H
-Player 0 has: 11 Player 1 has: 41
-2H versus AD
-Player 0 has: 10 Player 1 has: 42
-6D versus 4D
-Player 0 has: 11 Player 1 has: 41
-KH versus 3D
-Player 0 has: 12 Player 1 has: 40
-AC versus 8S
-Player 0 has: 13 Player 1 has: 39
-JD versus 3C
-Player 0 has: 14 Player 1 has: 38
-9C versus QD
-Player 0 has: 13 Player 1 has: 39
-QC versus 3S
-Player 0 has: 14 Player 1 has: 38
-7C versus AS
-Player 0 has: 13 Player 1 has: 39
-4C versus 7H
-Player 0 has: 12 Player 1 has: 40
-KC versus 5S
-Player 0 has: 13 Player 1 has: 39
-8H versus KS
-Player 0 has: 12 Player 1 has: 40
-4D versus 7S
-Player 0 has: 11 Player 1 has: 41
-6D versus 5H (Notched!)
-Player 0 has: 10 Player 1 has: 42
-3D versus 9D
-Player 0 has: 9 Player 1 has: 43
-KH versus JH
-Player 0 has: 10 Player 1 has: 42
-8S versus JC
-Player 0 has: 9 Player 1 has: 43
-AC versus 2D
-Player 0 has: 10 Player 1 has: 42
-3C versus 6H
-Player 0 has: 9 Player 1 has: 43
-JD versus QS (Notched!)
-Player 0 has: 10 Player 1 has: 42
-QC versus 5C
-Player 0 has: 11 Player 1 has: 41
-3S versus JS
-Player 0 has: 10 Player 1 has: 42
-5S versus TD
-Player 0 has: 9 Player 1 has: 43
-KC versus 7D
-Player 0 has: 10 Player 1 has: 42
-JH versus 9H
-Player 0 has: 11 Player 1 has: 41
-KH versus 4S
-Player 0 has: 12 Player 1 has: 40
-2D versus 8D
-Player 0 has: 11 Player 1 has: 41
-AC versus 6C
-Player 0 has: 12 Player 1 has: 40
-JD versus TH (Notched!)
-Player 0 has: 11 Player 1 has: 41
-QS versus QH
-WAR!
-KC versus 6S
-Player 0 has: 15 Player 1 has: 37
-7D versus 8C (Notched!)
-Player 0 has: 16 Player 1 has: 36
-JH versus TC (Notched!)
-Player 0 has: 15 Player 1 has: 37
-9H versus 2S
-Player 0 has: 16 Player 1 has: 36
-KH versus TS
+Player 0 has: 21 Player 1 has: 31
+9C versus 2D
+Player 0 has: 22 Player 1 has: 30
+JD versus KH
+Player 0 has: 21 Player 1 has: 31
+KD versus JS
+Player 0 has: 22 Player 1 has: 30
+7D versus 2S
+Player 0 has: 23 Player 1 has: 29
+3H versus KC
+Player 0 has: 22 Player 1 has: 30
+4S versus 6S
+Player 0 has: 21 Player 1 has: 31
+5H versus 7H
+Player 0 has: 20 Player 1 has: 32
+8S versus TS
+Player 0 has: 19 Player 1 has: 33
+TC versus 4H
+Player 0 has: 20 Player 1 has: 32
+5D versus QH
+Player 0 has: 19 Player 1 has: 33
+7S versus 9S
+Player 0 has: 18 Player 1 has: 34
+5C versus 9H
 Player 0 has: 17 Player 1 has: 35
-4S versus 3H (Notched!)
+6C versus TH
 Player 0 has: 16 Player 1 has: 36
-AC versus KD (Notched!)
+6H versus JC
 Player 0 has: 15 Player 1 has: 37
-6C versus 4H
-Player 0 has: 16 Player 1 has: 36
-5C versus AH
-Player 0 has: 15 Player 1 has: 37
-KC versus 9S
-Player 0 has: 16 Player 1 has: 36
-QH versus AD
-Player 0 has: 15 Player 1 has: 37
-QS versus 2H
-Player 0 has: 16 Player 1 has: 36
-QC versus QD
-WAR!
-2C versus 7C
+4C versus KS
+Player 0 has: 14 Player 1 has: 38
+6D versus TD
+Player 0 has: 13 Player 1 has: 39
+3C versus QS
 Player 0 has: 12 Player 1 has: 40
-7D versus 7H
-WAR!
-2S versus KS
-Player 0 has: 8 Player 1 has: 44
-KH versus 4D
-Player 0 has: 9 Player 1 has: 43
-TS versus 7S
-Player 0 has: 10 Player 1 has: 42
-6C versus 6D
-WAR!
-9S versus 9D
-WAR!
-KH versus 6H
-Player 0 has: 17 Player 1 has: 35
-4D versus 3C (Notched!)
-Player 0 has: 16 Player 1 has: 36
-7S versus JS
-Player 0 has: 15 Player 1 has: 37
-TS versus 3S
-Player 0 has: 16 Player 1 has: 36
-3D versus TD
-Player 0 has: 15 Player 1 has: 37
-5H versus 5S
-WAR!
-JC versus JD
-WAR!
-4H versus TC
-Player 0 has: 8 Player 1 has: 44
-2H versus 4S
-Player 0 has: 7 Player 1 has: 45
-6C versus 3H
-Player 0 has: 8 Player 1 has: 44
-KC versus AC (Notched!)
-Player 0 has: 9 Player 1 has: 43
-8S versus KD
-Player 0 has: 8 Player 1 has: 44
-QS versus 5C
-Player 0 has: 9 Player 1 has: 43
-9D versus AH
-Player 0 has: 8 Player 1 has: 44
-3S versus AD
-Player 0 has: 7 Player 1 has: 45
-TS versus QH
-Player 0 has: 6 Player 1 has: 46
-3H versus 6S
-Player 0 has: 5 Player 1 has: 47
-6C versus 5D (Notched!)
-Player 0 has: 4 Player 1 has: 48
-AC versus 7C
-Player 0 has: 5 Player 1 has: 47
-KC versus 2C
-Player 0 has: 6 Player 1 has: 46
-5C versus AS
-Player 0 has: 5 Player 1 has: 47
-QS versus 9C
-Player 0 has: 6 Player 1 has: 46
-7C versus QD
-Player 0 has: 5 Player 1 has: 47
-AC versus QC
-Player 0 has: 6 Player 1 has: 46
-2C versus 2S
-WAR!
-QS versus 7D
-Player 0 has: 10 Player 1 has: 42
-QC versus 7H
-Player 0 has: 11 Player 1 has: 41
-AC versus 9H
+AD versus 8H
+Player 0 has: 13 Player 1 has: 39
+7C versus 2C
+Player 0 has: 14 Player 1 has: 38
+3S versus AH
+Player 0 has: 13 Player 1 has: 39
+4D versus 2H
+Player 0 has: 14 Player 1 has: 38
+9C versus AC
+Player 0 has: 13 Player 1 has: 39
+2D versus QD
 Player 0 has: 12 Player 1 has: 40
-9C versus KS
-Player 0 has: 11 Player 1 has: 41
+KD versus JH
+Player 0 has: 13 Player 1 has: 39
+JS versus 3D
+Player 0 has: 14 Player 1 has: 38
 2S versus 8C
-Player 0 has: 10 Player 1 has: 42
-8H versus 4D
+Player 0 has: 13 Player 1 has: 39
+7D versus AS
+Player 0 has: 12 Player 1 has: 40
+4H versus 5S (Notched!)
+Player 0 has: 13 Player 1 has: 39
+TC versus QC
+Player 0 has: 12 Player 1 has: 40
+8H versus 9D (Notched!)
+Player 0 has: 13 Player 1 has: 39
+AD versus 8D
+Player 0 has: 14 Player 1 has: 38
+2C versus KH
+Player 0 has: 13 Player 1 has: 39
+7C versus JD
+Player 0 has: 12 Player 1 has: 40
+4D versus KC
 Player 0 has: 11 Player 1 has: 41
-7D versus 3C
+2H versus 3H (Notched!)
 Player 0 has: 12 Player 1 has: 40
-QS versus JS (Notched!)
+JH versus 6S
+Player 0 has: 13 Player 1 has: 39
+KD versus 4S
+Player 0 has: 14 Player 1 has: 38
+JS versus 7H
+Player 0 has: 15 Player 1 has: 37
+3D versus 5H
+Player 0 has: 14 Player 1 has: 38
+5S versus TS
+Player 0 has: 13 Player 1 has: 39
+4H versus 8S
+Player 0 has: 12 Player 1 has: 40
+9D versus QH
 Player 0 has: 11 Player 1 has: 41
-2C versus 7S
-Player 0 has: 10 Player 1 has: 42
-4C versus TD
-Player 0 has: 9 Player 1 has: 43
-KC versus 3D
-Player 0 has: 10 Player 1 has: 42
-QC versus TC
-Player 0 has: 11 Player 1 has: 41
-7H versus 8D (Notched!)
+8H versus 5D
 Player 0 has: 12 Player 1 has: 40
-AC versus JC
-Player 0 has: 13 Player 1 has: 39
-9H versus KH
-Player 0 has: 12 Player 1 has: 40
-8H versus 6D
-Player 0 has: 13 Player 1 has: 39
-4D versus 6H
-Player 0 has: 12 Player 1 has: 40
-7D versus 4H
-Player 0 has: 13 Player 1 has: 39
-3C versus 5H
-Player 0 has: 12 Player 1 has: 40
-KC versus JD
-Player 0 has: 13 Player 1 has: 39
-3D versus 9S
-Player 0 has: 12 Player 1 has: 40
-TC versus TH
-WAR!
-7H versus 5S
-Player 0 has: 16 Player 1 has: 36
-JC versus 2H
-Player 0 has: 17 Player 1 has: 35
-AC versus 4S
-Player 0 has: 18 Player 1 has: 34
-8H versus KD
-Player 0 has: 17 Player 1 has: 35
-6D versus 8S
-Player 0 has: 16 Player 1 has: 36
-4H versus 9D
-Player 0 has: 15 Player 1 has: 37
-7D versus AH
-Player 0 has: 14 Player 1 has: 38
-JD versus AD
-Player 0 has: 13 Player 1 has: 39
-KC versus 3S
-Player 0 has: 14 Player 1 has: 38
-TC versus QH
-Player 0 has: 13 Player 1 has: 39
-2D versus TS
-Player 0 has: 12 Player 1 has: 40
-7H versus 3H
-Player 0 has: 13 Player 1 has: 39
-TH versus 6S
-Player 0 has: 14 Player 1 has: 38
-8D versus 5D
-Player 0 has: 15 Player 1 has: 37
-QC versus 6C
-Player 0 has: 16 Player 1 has: 36
-5S versus AS
-Player 0 has: 15 Player 1 has: 37
-JH versus 5C
-Player 0 has: 16 Player 1 has: 36
-JC versus 7C
-Player 0 has: 17 Player 1 has: 35
-2H versus QD
-Player 0 has: 16 Player 1 has: 36
-AC versus KS (Notched!)
-Player 0 has: 15 Player 1 has: 37
-4S versus 9C
-Player 0 has: 14 Player 1 has: 38
-3S versus 2S (Notched!)
-Player 0 has: 13 Player 1 has: 39
-KC versus 8C
-Player 0 has: 14 Player 1 has: 38
-7H versus QS
-Player 0 has: 13 Player 1 has: 39
-3H versus JS
-Player 0 has: 12 Player 1 has: 40
-6S versus 2C
-Player 0 has: 13 Player 1 has: 39
-TH versus 7S
-Player 0 has: 14 Player 1 has: 38
-8D versus TD
-Player 0 has: 13 Player 1 has: 39
-5D versus 4C (Notched!)
-Player 0 has: 12 Player 1 has: 40
-6C versus 9H
-Player 0 has: 11 Player 1 has: 41
-QC versus KH (Notched!)
-Player 0 has: 12 Player 1 has: 40
-5C versus 6H (Notched!)
-Player 0 has: 13 Player 1 has: 39
-JH versus 4D
-Player 0 has: 14 Player 1 has: 38
-JC versus 5H
-Player 0 has: 15 Player 1 has: 37
-7C versus 3C
-Player 0 has: 16 Player 1 has: 36
-8C versus 9S (Notched!)
-Player 0 has: 17 Player 1 has: 35
-KC versus 3D
-Player 0 has: 18 Player 1 has: 34
-6S versus 8H
-Player 0 has: 17 Player 1 has: 35
-2C versus KD
-Player 0 has: 16 Player 1 has: 36
-TH versus 6D
-Player 0 has: 17 Player 1 has: 35
-7S versus 8S (Notched!)
-Player 0 has: 18 Player 1 has: 34
-QC versus 4H
-Player 0 has: 19 Player 1 has: 33
-KH versus 9D
-Player 0 has: 20 Player 1 has: 32
-6H versus 7D (Notched!)
-Player 0 has: 21 Player 1 has: 31
-5C versus AH
-Player 0 has: 20 Player 1 has: 32
-JH versus AD
-Player 0 has: 19 Player 1 has: 33
-4D versus JD
-Player 0 has: 18 Player 1 has: 34
-5H versus TC
-Player 0 has: 17 Player 1 has: 35
-JC versus QH (Notched!)
-Player 0 has: 18 Player 1 has: 34
-7C versus TS
-Player 0 has: 17 Player 1 has: 35
-3C versus 2D (Notched!)
-Player 0 has: 16 Player 1 has: 36
-9S versus AS
-Player 0 has: 15 Player 1 has: 37
-8C versus 5S
-Player 0 has: 16 Player 1 has: 36
-KC versus 2H
-Player 0 has: 17 Player 1 has: 35
-3D versus QD
-Player 0 has: 16 Player 1 has: 36
-TH versus AC
-Player 0 has: 15 Player 1 has: 37
-6D versus KS
-Player 0 has: 14 Player 1 has: 38
-7S versus 9C
-Player 0 has: 13 Player 1 has: 39
-8S versus 4S
-Player 0 has: 14 Player 1 has: 38
-QC versus 3S
-Player 0 has: 15 Player 1 has: 37
-4H versus 2S
-Player 0 has: 16 Player 1 has: 36
-9D versus 7H
-Player 0 has: 17 Player 1 has: 35
-KH versus QS (Notched!)
-Player 0 has: 16 Player 1 has: 36
-6H versus JS
-Player 0 has: 15 Player 1 has: 37
-7D versus 3H
-Player 0 has: 16 Player 1 has: 36
-JC versus 8D
-Player 0 has: 17 Player 1 has: 35
-QH versus TD
-Player 0 has: 18 Player 1 has: 34
-8C versus 5D
-Player 0 has: 19 Player 1 has: 33
-5S versus 4C (Notched!)
-Player 0 has: 18 Player 1 has: 34
-2H versus 6C
-Player 0 has: 17 Player 1 has: 35
-KC versus 9H
-Player 0 has: 18 Player 1 has: 34
-4S versus 8H
-Player 0 has: 17 Player 1 has: 35
-8S versus 6S
-Player 0 has: 18 Player 1 has: 34
-QC versus KD (Notched!)
-Player 0 has: 19 Player 1 has: 33
-3S versus 2C (Notched!)
-Player 0 has: 18 Player 1 has: 34
-4H versus AH
-Player 0 has: 17 Player 1 has: 35
-2S versus 5C
-Player 0 has: 16 Player 1 has: 36
-9D versus JH
-Player 0 has: 15 Player 1 has: 37
-7H versus AD
-Player 0 has: 14 Player 1 has: 38
-3H versus JD
-Player 0 has: 13 Player 1 has: 39
-7D versus 4D
-Player 0 has: 14 Player 1 has: 38
-JC versus TC (Notched!)
-Player 0 has: 13 Player 1 has: 39
-8D versus 5H
-Player 0 has: 14 Player 1 has: 38
-QH versus 7C
-Player 0 has: 15 Player 1 has: 37
-TD versus TS
-WAR!
-KC versus 9S
-Player 0 has: 19 Player 1 has: 33
-9H versus AS
-Player 0 has: 18 Player 1 has: 34
-6S versus QD
-Player 0 has: 17 Player 1 has: 35
-8S versus 3D
-Player 0 has: 18 Player 1 has: 34
-QC versus AC
-Player 0 has: 17 Player 1 has: 35
-KD versus TH
-Player 0 has: 18 Player 1 has: 34
-7D versus 6D (Notched!)
-Player 0 has: 17 Player 1 has: 35
-4D versus KS
-Player 0 has: 16 Player 1 has: 36
-5H versus 9C
-Player 0 has: 15 Player 1 has: 37
 8D versus 7S (Notched!)
+Player 0 has: 11 Player 1 has: 41
+AD versus 9S
+Player 0 has: 12 Player 1 has: 40
+3H versus 5C
+Player 0 has: 11 Player 1 has: 41
+2H versus 9H
+Player 0 has: 10 Player 1 has: 42
+6S versus 6C
+WAR!
+KD versus JC
 Player 0 has: 14 Player 1 has: 38
-7C versus QS
+JS versus 4C
+Player 0 has: 15 Player 1 has: 37
+7H versus KS
+Player 0 has: 14 Player 1 has: 38
+8H versus TD
 Player 0 has: 13 Player 1 has: 39
-QH versus KH (Notched!)
+5D versus 6D (Notched!)
 Player 0 has: 14 Player 1 has: 38
-TS versus 6H
+AD versus 3C
 Player 0 has: 15 Player 1 has: 37
-KC versus JS
-Player 0 has: 16 Player 1 has: 36
-5D versus 4C (Notched!)
-Player 0 has: 15 Player 1 has: 37
-9S versus 5S
-Player 0 has: 16 Player 1 has: 36
-TD versus 2H
-Player 0 has: 17 Player 1 has: 35
-3C versus 6C
-Player 0 has: 16 Player 1 has: 36
-8C versus 8H
-WAR!
-3D versus 2C
-Player 0 has: 20 Player 1 has: 32
-TH versus 4H
-Player 0 has: 21 Player 1 has: 31
-KD versus AH (Notched!)
-Player 0 has: 22 Player 1 has: 30
-KH versus 2S
-Player 0 has: 23 Player 1 has: 29
-QH versus 5C
-Player 0 has: 24 Player 1 has: 28
-TS versus 9D (Notched!)
-Player 0 has: 23 Player 1 has: 29
-6H versus JH
-Player 0 has: 22 Player 1 has: 30
-KC versus 7H
-Player 0 has: 23 Player 1 has: 29
-JS versus AD
-Player 0 has: 22 Player 1 has: 30
-5S versus 3H
-Player 0 has: 23 Player 1 has: 29
-9S versus JD
-Player 0 has: 22 Player 1 has: 30
-2H versus JC
-Player 0 has: 21 Player 1 has: 31
-TD versus TC
-WAR!
-8S versus QD
-Player 0 has: 17 Player 1 has: 35
-8H versus 6S
-Player 0 has: 18 Player 1 has: 34
-3S versus QC
-Player 0 has: 17 Player 1 has: 35
-2C versus AC
-Player 0 has: 16 Player 1 has: 36
-2D versus 6D
-Player 0 has: 15 Player 1 has: 37
-8C versus 7D (Notched!)
+9S versus QS
 Player 0 has: 14 Player 1 has: 38
-4H versus KS
+6H versus AH
 Player 0 has: 13 Player 1 has: 39
-TH versus 4D
+TH versus 3S
 Player 0 has: 14 Player 1 has: 38
-AH versus 9C
-Player 0 has: 15 Player 1 has: 37
-KD versus 5H
-Player 0 has: 16 Player 1 has: 36
-KH versus 7S
-Player 0 has: 17 Player 1 has: 35
-2S versus 8D
-Player 0 has: 16 Player 1 has: 36
-QH versus QS
-WAR!
-KC versus 5D
-Player 0 has: 20 Player 1 has: 32
-3H versus 6C
-Player 0 has: 19 Player 1 has: 33
-5S versus 3C
-Player 0 has: 20 Player 1 has: 32
-8H versus TS
-Player 0 has: 19 Player 1 has: 33
-6S versus 9D
-Player 0 has: 18 Player 1 has: 34
-TH versus JH (Notched!)
-Player 0 has: 19 Player 1 has: 33
-4D versus 6H
-Player 0 has: 18 Player 1 has: 34
-AH versus AD
-WAR!
-5H versus 9S
-Player 0 has: 14 Player 1 has: 38
-7S versus 2H
-Player 0 has: 15 Player 1 has: 37
-KH versus JC
-Player 0 has: 16 Player 1 has: 36
-QH versus 9H
-Player 0 has: 17 Player 1 has: 35
-7H versus 8S (Notched!)
-Player 0 has: 18 Player 1 has: 34
-4C versus TD
-Player 0 has: 17 Player 1 has: 35
-QS versus 3D
-Player 0 has: 18 Player 1 has: 34
-7C versus 4S
-Player 0 has: 19 Player 1 has: 33
-5C versus AS
-Player 0 has: 18 Player 1 has: 34
-KC versus QD (Notched!)
-Player 0 has: 17 Player 1 has: 35
-5D versus TC
-Player 0 has: 16 Player 1 has: 36
-5S versus 3S
-Player 0 has: 17 Player 1 has: 35
-3C versus QC
-Player 0 has: 16 Player 1 has: 36
-TH versus 2C
-Player 0 has: 17 Player 1 has: 35
 JH versus AC
-Player 0 has: 16 Player 1 has: 36
-2H versus 2D
+Player 0 has: 13 Player 1 has: 39
+6S versus 9C
+Player 0 has: 12 Player 1 has: 40
+4S versus QD
+Player 0 has: 11 Player 1 has: 41
+JC versus 2D
+Player 0 has: 12 Player 1 has: 40
+KD versus 8C
+Player 0 has: 13 Player 1 has: 39
+6C versus 2S
+Player 0 has: 14 Player 1 has: 38
+JS versus AS
+Player 0 has: 13 Player 1 has: 39
+4C versus 7D
+Player 0 has: 12 Player 1 has: 40
+6D versus QC
+Player 0 has: 11 Player 1 has: 41
+5D versus TC
+Player 0 has: 10 Player 1 has: 42
+AD versus 2C
+Player 0 has: 11 Player 1 has: 41
+3C versus KH
+Player 0 has: 10 Player 1 has: 42
+3S versus 7C
+Player 0 has: 9 Player 1 has: 43
+TH versus JD (Notched!)
+Player 0 has: 10 Player 1 has: 42
+JC versus KC
+Player 0 has: 9 Player 1 has: 43
+2D versus 4D
+Player 0 has: 8 Player 1 has: 44
+KD versus 3D
+Player 0 has: 9 Player 1 has: 43
+8C versus 5H
+Player 0 has: 10 Player 1 has: 42
+2S versus 5S
+Player 0 has: 9 Player 1 has: 43
+6C versus TS
+Player 0 has: 8 Player 1 has: 44
+AD versus 8S
+Player 0 has: 9 Player 1 has: 43
+2C versus 4H
+Player 0 has: 8 Player 1 has: 44
+TH versus 9D (Notched!)
+Player 0 has: 7 Player 1 has: 45
+JD versus QH (Notched!)
+Player 0 has: 8 Player 1 has: 44
+3D versus 8D
+Player 0 has: 7 Player 1 has: 45
+KD versus 7S
+Player 0 has: 8 Player 1 has: 44
+8C versus 5C
+Player 0 has: 9 Player 1 has: 43
+5H versus 3H
+Player 0 has: 10 Player 1 has: 42
+AD versus 9H
+Player 0 has: 11 Player 1 has: 41
+8S versus 2H
+Player 0 has: 12 Player 1 has: 40
+JD versus KS
+Player 0 has: 11 Player 1 has: 41
+QH versus 7H
+Player 0 has: 12 Player 1 has: 40
+7S versus TD
+Player 0 has: 11 Player 1 has: 41
+KD versus 8H
+Player 0 has: 12 Player 1 has: 40
+8C versus 9S (Notched!)
+Player 0 has: 13 Player 1 has: 39
+5C versus QS
+Player 0 has: 12 Player 1 has: 40
+3H versus 6H
+Player 0 has: 11 Player 1 has: 41
+5H versus AH
+Player 0 has: 10 Player 1 has: 42
+AD versus AC
 WAR!
-KH versus 8C
+8S versus 6S
+Player 0 has: 14 Player 1 has: 38
+7H versus 4S
+Player 0 has: 15 Player 1 has: 37
+QH versus QD
+WAR!
+9S versus 7D
+Player 0 has: 19 Player 1 has: 33
+8C versus 4C
 Player 0 has: 20 Player 1 has: 32
-9H versus 4H
+2H versus 6D
+Player 0 has: 19 Player 1 has: 33
+9H versus QC
+Player 0 has: 18 Player 1 has: 34
+6S versus 5D (Notched!)
+Player 0 has: 17 Player 1 has: 35
+9C versus TC (Notched!)
+Player 0 has: 18 Player 1 has: 34
+AC versus KH (Notched!)
+Player 0 has: 17 Player 1 has: 35
+JH versus 3C
+Player 0 has: 18 Player 1 has: 34
+AD versus 3S
+Player 0 has: 19 Player 1 has: 33
+8S versus 7C (Notched!)
+Player 0 has: 18 Player 1 has: 34
+4S versus KC
+Player 0 has: 17 Player 1 has: 35
+7H versus JC
+Player 0 has: 16 Player 1 has: 36
+KD versus 2D
+Player 0 has: 17 Player 1 has: 35
+QD versus 4D
+Player 0 has: 18 Player 1 has: 34
+QH versus 2S
+Player 0 has: 19 Player 1 has: 33
+7D versus 5S
+Player 0 has: 20 Player 1 has: 32
+AS versus TS
 Player 0 has: 21 Player 1 has: 31
-QH versus KS (Notched!)
+9S versus 6C
 Player 0 has: 22 Player 1 has: 30
-8S versus 8D
+JS versus 2C
+Player 0 has: 23 Player 1 has: 29
+8H versus 4H
+Player 0 has: 24 Player 1 has: 28
+8C versus TH
+Player 0 has: 23 Player 1 has: 29
+4C versus 9D
+Player 0 has: 22 Player 1 has: 30
+9C versus 8D (Notched!)
+Player 0 has: 21 Player 1 has: 31
+TC versus 3D
+Player 0 has: 22 Player 1 has: 30
+JH versus KS
+Player 0 has: 21 Player 1 has: 31
+3C versus JD
+Player 0 has: 20 Player 1 has: 32
+3S versus 7S
+Player 0 has: 19 Player 1 has: 33
+AD versus TD
+Player 0 has: 20 Player 1 has: 32
+2D versus QS
+Player 0 has: 19 Player 1 has: 33
+KD versus 5C
+Player 0 has: 20 Player 1 has: 32
+4D versus 3H (Notched!)
+Player 0 has: 19 Player 1 has: 33
+QD versus 6H
+Player 0 has: 20 Player 1 has: 32
+2S versus 5H
+Player 0 has: 19 Player 1 has: 33
+QH versus AH
+Player 0 has: 18 Player 1 has: 34
+7D versus 2H
+Player 0 has: 19 Player 1 has: 33
+5S versus 6D (Notched!)
+Player 0 has: 20 Player 1 has: 32
+TS versus 9H (Notched!)
+Player 0 has: 19 Player 1 has: 33
+AS versus QC
+Player 0 has: 20 Player 1 has: 32
+6C versus 6S
 WAR!
-QS versus 3H
+2C versus KH
+Player 0 has: 16 Player 1 has: 36
+4H versus 7C
+Player 0 has: 15 Player 1 has: 37
+8H versus 8S
+WAR!
+TD versus 7H
+Player 0 has: 19 Player 1 has: 33
+AD versus JC
+Player 0 has: 20 Player 1 has: 32
+5C versus 8C
+Player 0 has: 19 Player 1 has: 33
+KD versus TH
+Player 0 has: 20 Player 1 has: 32
+6H versus 4C
+Player 0 has: 21 Player 1 has: 31
+QD versus 9D
+Player 0 has: 22 Player 1 has: 30
+7D versus 8D (Notched!)
+Player 0 has: 23 Player 1 has: 29
+2H versus 9C
+Player 0 has: 22 Player 1 has: 30
+5S versus JH
+Player 0 has: 21 Player 1 has: 31
+6D versus KS
+Player 0 has: 20 Player 1 has: 32
+QC versus JD (Notched!)
+Player 0 has: 19 Player 1 has: 33
+AS versus 3C
+Player 0 has: 20 Player 1 has: 32
+KC versus 7S
+Player 0 has: 21 Player 1 has: 31
+3D versus 3S
+WAR!
+8H versus 4D
+Player 0 has: 25 Player 1 has: 27
+4S versus 3H (Notched!)
+Player 0 has: 24 Player 1 has: 28
+TD versus 5H
+Player 0 has: 25 Player 1 has: 27
+7H versus 2S
 Player 0 has: 26 Player 1 has: 26
-4S versus 8H
-Player 0 has: 25 Player 1 has: 27
-7C versus TS
-Player 0 has: 24 Player 1 has: 28
-5S versus 6S (Notched!)
-Player 0 has: 25 Player 1 has: 27
-3S versus 9D
-Player 0 has: 24 Player 1 has: 28
-2C versus 4D
-Player 0 has: 23 Player 1 has: 29
-TH versus 6H
-Player 0 has: 24 Player 1 has: 28
-KH versus 9C
-Player 0 has: 25 Player 1 has: 27
-7D versus AH
-Player 0 has: 24 Player 1 has: 28
-2H versus 9S
-Player 0 has: 23 Player 1 has: 29
-JC versus AD
-Player 0 has: 22 Player 1 has: 30
-7S versus KD
-Player 0 has: 21 Player 1 has: 31
-8C versus JS
-Player 0 has: 20 Player 1 has: 32
-6D versus JD
-Player 0 has: 19 Player 1 has: 33
-2D versus 5H
-Player 0 has: 18 Player 1 has: 34
-9H versus 4C
-Player 0 has: 19 Player 1 has: 33
-4H versus TD
-Player 0 has: 18 Player 1 has: 34
-KS versus 5C
-Player 0 has: 19 Player 1 has: 33
-QH versus AS
-Player 0 has: 18 Player 1 has: 34
-8S versus KC
-Player 0 has: 17 Player 1 has: 35
-QS versus QD
-WAR!
-8D versus 3C
-Player 0 has: 21 Player 1 has: 31
-6C versus QC
-Player 0 has: 20 Player 1 has: 32
-7H versus AC
-Player 0 has: 19 Player 1 has: 33
-3H versus JH
-Player 0 has: 18 Player 1 has: 34
-6S versus 8H
-Player 0 has: 17 Player 1 has: 35
-5S versus 4S (Notched!)
-Player 0 has: 16 Player 1 has: 36
+AD versus QH
+Player 0 has: 27 Player 1 has: 25
+JC versus AH
+Player 0 has: 26 Player 1 has: 26
 TH versus TS
 WAR!
-KH versus 9D
-Player 0 has: 20 Player 1 has: 32
-4C versus 4D
-WAR!
-KS versus 7D
+6H versus AC
+Player 0 has: 22 Player 1 has: 30
+QD versus KH (Notched!)
+Player 0 has: 23 Player 1 has: 29
+9D versus JS
+Player 0 has: 22 Player 1 has: 30
+8D versus 6S
+Player 0 has: 23 Player 1 has: 29
+7D versus 2C
 Player 0 has: 24 Player 1 has: 28
 3C versus 9S
 Player 0 has: 23 Player 1 has: 29
-8D versus 2H
+AS versus 5D
 Player 0 has: 24 Player 1 has: 28
-3D versus JC
-Player 0 has: 23 Player 1 has: 29
-QD versus AD
-Player 0 has: 22 Player 1 has: 30
-TC versus KD
-Player 0 has: 21 Player 1 has: 31
-2S versus 7S
-Player 0 has: 20 Player 1 has: 32
-QS versus JS (Notched!)
-Player 0 has: 19 Player 1 has: 33
-5D versus 8C
-Player 0 has: 18 Player 1 has: 34
-9C versus JD
-Player 0 has: 17 Player 1 has: 35
-TS versus 6D
-Player 0 has: 18 Player 1 has: 34
-KH versus 2D
-Player 0 has: 19 Player 1 has: 33
-9D versus 5H
-Player 0 has: 20 Player 1 has: 32
-7C versus 4H
-Player 0 has: 21 Player 1 has: 31
-6H versus TD
-Player 0 has: 20 Player 1 has: 32
-3S versus QH
-Player 0 has: 19 Player 1 has: 33
-TH versus AS
-Player 0 has: 18 Player 1 has: 34
-AH versus 8S
-Player 0 has: 19 Player 1 has: 33
-9H versus KC
-Player 0 has: 18 Player 1 has: 34
-4C versus QC
-Player 0 has: 17 Player 1 has: 35
-KS versus 6C
-Player 0 has: 18 Player 1 has: 34
-2C versus 7H
-Player 0 has: 17 Player 1 has: 35
-4D versus AC
-Player 0 has: 16 Player 1 has: 36
-5C versus JH
-Player 0 has: 15 Player 1 has: 37
-7D versus 3H
-Player 0 has: 16 Player 1 has: 36
-8D versus 6S
-Player 0 has: 17 Player 1 has: 35
-2H versus 8H
-Player 0 has: 16 Player 1 has: 36
-6D versus 4S
-Player 0 has: 17 Player 1 has: 35
-TS versus 5S
-Player 0 has: 18 Player 1 has: 34
-KH versus 3C
-Player 0 has: 19 Player 1 has: 33
-2D versus 9S
-Player 0 has: 18 Player 1 has: 34
-5H versus 3D
-Player 0 has: 19 Player 1 has: 33
-9D versus JC
-Player 0 has: 18 Player 1 has: 34
-4H versus AD
-Player 0 has: 17 Player 1 has: 35
-7C versus QD
-Player 0 has: 16 Player 1 has: 36
-AH versus TC
-Player 0 has: 17 Player 1 has: 35
-8S versus KD
-Player 0 has: 16 Player 1 has: 36
-6C versus 7S (Notched!)
-Player 0 has: 17 Player 1 has: 35
-KS versus 2S
-Player 0 has: 18 Player 1 has: 34
-7D versus JS
-Player 0 has: 17 Player 1 has: 35
-3H versus QS
-Player 0 has: 16 Player 1 has: 36
-6S versus 8C
-Player 0 has: 15 Player 1 has: 37
-8D versus 5D
-Player 0 has: 16 Player 1 has: 36
-4S versus 9C
-Player 0 has: 15 Player 1 has: 37
-6D versus JD
-Player 0 has: 14 Player 1 has: 38
-5S versus 6H (Notched!)
-Player 0 has: 15 Player 1 has: 37
-TS versus TD
+7S versus 7C
 WAR!
+QS versus 5C
+Player 0 has: 28 Player 1 has: 24
+8H versus 9C (Notched!)
+Player 0 has: 29 Player 1 has: 23
+3D versus 2H (Notched!)
+Player 0 has: 28 Player 1 has: 24
+8S versus 5S
+Player 0 has: 29 Player 1 has: 23
+TC versus JH (Notched!)
+Player 0 has: 30 Player 1 has: 22
+2D versus 6D
+Player 0 has: 29 Player 1 has: 23
+4D versus KS
+Player 0 has: 28 Player 1 has: 24
+5H versus QC
+Player 0 has: 27 Player 1 has: 25
+TD versus JD (Notched!)
+Player 0 has: 28 Player 1 has: 24
+7H versus 4S
+Player 0 has: 29 Player 1 has: 23
+2S versus 3H (Notched!)
+Player 0 has: 30 Player 1 has: 22
+QH versus JC (Notched!)
+Player 0 has: 29 Player 1 has: 23
+AD versus AH
+WAR!
+8D versus AC
+Player 0 has: 25 Player 1 has: 27
+6S versus 6C
+WAR!
+5D versus KD
+Player 0 has: 21 Player 1 has: 31
+AS versus TH
+Player 0 has: 22 Player 1 has: 30
+7S versus JS
+Player 0 has: 21 Player 1 has: 31
+4H versus 9D
+Player 0 has: 20 Player 1 has: 32
+3S versus 9S
+Player 0 has: 19 Player 1 has: 33
+KC versus 3C
+Player 0 has: 20 Player 1 has: 32
+QS versus 2H
+Player 0 has: 21 Player 1 has: 31
+5C versus 3D
+Player 0 has: 22 Player 1 has: 30
+8C versus 2D
+Player 0 has: 23 Player 1 has: 29
+7C versus 6D (Notched!)
+Player 0 has: 22 Player 1 has: 30
+8H versus 4D
+Player 0 has: 23 Player 1 has: 29
+9C versus KS
+Player 0 has: 22 Player 1 has: 30
+5S versus 5H
+WAR!
+JH versus QH
+Player 0 has: 18 Player 1 has: 34
+JD versus KH
+Player 0 has: 17 Player 1 has: 35
+TD versus TS
+WAR!
+3H versus AC
+Player 0 has: 13 Player 1 has: 39
+2S versus 4C
+Player 0 has: 12 Player 1 has: 40
+AS versus AD
+WAR!
+KC versus 6H
+Player 0 has: 16 Player 1 has: 36
+QS versus 7D
+Player 0 has: 17 Player 1 has: 35
+2H versus 6C
+Player 0 has: 16 Player 1 has: 36
+5C versus 9H
+Player 0 has: 15 Player 1 has: 37
+3D versus 2C (Notched!)
+Player 0 has: 14 Player 1 has: 38
+2D versus KD
+Player 0 has: 13 Player 1 has: 39
+8C versus 5D
+Player 0 has: 14 Player 1 has: 38
+4D versus 7S
+Player 0 has: 13 Player 1 has: 39
+8H versus JS
+Player 0 has: 12 Player 1 has: 40
+6H versus 9D
+Player 0 has: 11 Player 1 has: 41
+TH versus 4H
+Player 0 has: 12 Player 1 has: 40
+AS versus 3S
+Player 0 has: 13 Player 1 has: 39
+AD versus 9S
+Player 0 has: 14 Player 1 has: 38
+3C versus 6D
+Player 0 has: 13 Player 1 has: 39
+KC versus 7C
+Player 0 has: 14 Player 1 has: 38
+6S versus 9C
+Player 0 has: 13 Player 1 has: 39
+QD versus KS (Notched!)
+Player 0 has: 14 Player 1 has: 38
+QS versus QH
+WAR!
+5D versus TC
+Player 0 has: 10 Player 1 has: 42
+4H versus 8S
+Player 0 has: 9 Player 1 has: 43
+TH versus JC (Notched!)
+Player 0 has: 10 Player 1 has: 42
+3S versus 5S
+Player 0 has: 9 Player 1 has: 43
+AS versus QC
+Player 0 has: 10 Player 1 has: 42
+9S versus KH
+Player 0 has: 9 Player 1 has: 43
+AD versus JD
+Player 0 has: 10 Player 1 has: 42
+7C versus AC
+Player 0 has: 9 Player 1 has: 43
+KC versus TD
+Player 0 has: 10 Player 1 has: 42
+KS versus 7H
+Player 0 has: 11 Player 1 has: 41
+QD versus AH
+Player 0 has: 10 Player 1 has: 42
+TH versus 3H
+Player 0 has: 11 Player 1 has: 41
+JC versus 8D
+Player 0 has: 12 Player 1 has: 40
+AS versus TS
+Player 0 has: 13 Player 1 has: 39
+QC versus 4S
+Player 0 has: 14 Player 1 has: 38
+JD versus 4C
+Player 0 has: 15 Player 1 has: 37
+AD versus 2S
+Player 0 has: 16 Player 1 has: 36
+KC versus 2H
+Player 0 has: 17 Player 1 has: 35
+TD versus 6C
+Player 0 has: 18 Player 1 has: 34
+KS versus 5C
+Player 0 has: 19 Player 1 has: 33
+7H versus 9H
+Player 0 has: 18 Player 1 has: 34
+3H versus 3D
+WAR!
+JC versus KD
+Player 0 has: 14 Player 1 has: 38
+TS versus 7S
+Player 0 has: 15 Player 1 has: 37
+AS versus 4D
+Player 0 has: 16 Player 1 has: 36
+4S versus JS
+Player 0 has: 15 Player 1 has: 37
+QC versus 8H
+Player 0 has: 16 Player 1 has: 36
+JD versus 6H
+Player 0 has: 17 Player 1 has: 35
+4C versus 9D
+Player 0 has: 16 Player 1 has: 36
+AD versus 3C
+Player 0 has: 17 Player 1 has: 35
+2S versus 6D
+Player 0 has: 16 Player 1 has: 36
+KC versus 6S
+Player 0 has: 17 Player 1 has: 35
+2H versus 9C
+Player 0 has: 16 Player 1 has: 36
+TD versus TC
+WAR!
+KS versus 7D
+Player 0 has: 20 Player 1 has: 32
+7S versus 5D
+Player 0 has: 21 Player 1 has: 31
+TS versus QS
+Player 0 has: 20 Player 1 has: 32
+4D versus 5H (Notched!)
+Player 0 has: 21 Player 1 has: 31
+AS versus 8C
+Player 0 has: 22 Player 1 has: 30
+8H versus 8S
+WAR!
+6H versus 3S
+Player 0 has: 26 Player 1 has: 26
+AD versus 9S
+Player 0 has: 27 Player 1 has: 25
+3C versus KH
+Player 0 has: 26 Player 1 has: 26
+KC versus AC (Notched!)
+Player 0 has: 27 Player 1 has: 25
+6S versus 7C (Notched!)
+Player 0 has: 28 Player 1 has: 24
+7D versus QD
+Player 0 has: 27 Player 1 has: 25
+KS versus AH (Notched!)
+Player 0 has: 28 Player 1 has: 24
+6C versus 7H (Notched!)
+Player 0 has: 29 Player 1 has: 23
+TD versus 9H (Notched!)
+Player 0 has: 28 Player 1 has: 24
+TC versus KD
+Player 0 has: 27 Player 1 has: 25
+5C versus 8D
+Player 0 has: 26 Player 1 has: 26
+QH versus JC (Notched!)
+Player 0 has: 25 Player 1 has: 27
+JH versus 2C
+Player 0 has: 26 Player 1 has: 26
+5D versus 2D
+Player 0 has: 27 Player 1 has: 25
+7S versus 3H
+Player 0 has: 28 Player 1 has: 24
 5H versus TH
+Player 0 has: 27 Player 1 has: 25
+4D versus 3D (Notched!)
+Player 0 has: 26 Player 1 has: 26
+8C versus JS
+Player 0 has: 25 Player 1 has: 27
+AS versus 4S
+Player 0 has: 26 Player 1 has: 26
+4H versus 9D
+Player 0 has: 25 Player 1 has: 27
+JD versus 4C
+Player 0 has: 26 Player 1 has: 26
+8S versus 2S
+Player 0 has: 27 Player 1 has: 25
+QC versus 6D
+Player 0 has: 28 Player 1 has: 24
+5S versus 2H
+Player 0 has: 29 Player 1 has: 23
+8H versus 9C (Notched!)
+Player 0 has: 30 Player 1 has: 22
+3S versus QS
+Player 0 has: 29 Player 1 has: 23
+6H versus TS
+Player 0 has: 28 Player 1 has: 24
+9S versus 3C
+Player 0 has: 29 Player 1 has: 23
+AD versus KH (Notched!)
+Player 0 has: 28 Player 1 has: 24
+KC versus QD (Notched!)
+Player 0 has: 27 Player 1 has: 25
+AC versus 7D
+Player 0 has: 28 Player 1 has: 24
+7C versus 9H
+Player 0 has: 27 Player 1 has: 25
+6S versus TD
+Player 0 has: 26 Player 1 has: 26
+AH versus KD (Notched!)
+Player 0 has: 25 Player 1 has: 27
+KS versus TC
+Player 0 has: 26 Player 1 has: 26
+6C versus 5C (Notched!)
+Player 0 has: 25 Player 1 has: 27
+7H versus 8D (Notched!)
+Player 0 has: 26 Player 1 has: 26
+2C versus JC
+Player 0 has: 25 Player 1 has: 27
+JH versus QH (Notched!)
+Player 0 has: 26 Player 1 has: 26
+5D versus 5H
+WAR!
+7S versus 3D
+Player 0 has: 30 Player 1 has: 22
+AS versus 8C
+Player 0 has: 31 Player 1 has: 21
+4S versus JS
+Player 0 has: 30 Player 1 has: 22
+JD versus 4H
+Player 0 has: 31 Player 1 has: 21
+4C versus 9D
+Player 0 has: 30 Player 1 has: 22
+8S versus 3S
+Player 0 has: 31 Player 1 has: 21
+2S versus QS
+Player 0 has: 30 Player 1 has: 22
+6D versus 6H
+WAR!
+5S versus AD
+Player 0 has: 26 Player 1 has: 26
+8H versus QD
+Player 0 has: 25 Player 1 has: 27
+9C versus KC
+Player 0 has: 24 Player 1 has: 28
+9S versus 9H
+WAR!
+7D versus TD
+Player 0 has: 20 Player 1 has: 32
+TC versus KD
+Player 0 has: 19 Player 1 has: 33
+KS versus AH (Notched!)
+Player 0 has: 20 Player 1 has: 32
+8D versus 6C
+Player 0 has: 21 Player 1 has: 31
+7H versus 5C
+Player 0 has: 22 Player 1 has: 30
+JH versus 2C
+Player 0 has: 23 Player 1 has: 29
+QH versus JC (Notched!)
+Player 0 has: 22 Player 1 has: 30
+5D versus JS
+Player 0 has: 21 Player 1 has: 31
+TH versus 4S
+Player 0 has: 22 Player 1 has: 30
+7S versus 9D
+Player 0 has: 21 Player 1 has: 31
+5H versus 4C (Notched!)
+Player 0 has: 20 Player 1 has: 32
+4D versus 2S
+Player 0 has: 21 Player 1 has: 31
+3D versus QS
+Player 0 has: 20 Player 1 has: 32
+3H versus 5S
+Player 0 has: 19 Player 1 has: 33
+2D versus 6D
+Player 0 has: 18 Player 1 has: 34
+8C versus TS
+Player 0 has: 17 Player 1 has: 35
+AS versus AD
+WAR!
+3S versus 6H
+Player 0 has: 13 Player 1 has: 39
+8S versus 2H
+Player 0 has: 14 Player 1 has: 38
+KS versus QD (Notched!)
+Player 0 has: 13 Player 1 has: 39
+AH versus 8H
+Player 0 has: 14 Player 1 has: 38
+8D versus KC
+Player 0 has: 13 Player 1 has: 39
+6C versus 9C
+Player 0 has: 12 Player 1 has: 40
+7H versus 6S (Notched!)
+Player 0 has: 11 Player 1 has: 41
+5C versus 9S
+Player 0 has: 10 Player 1 has: 42
+JH versus TD (Notched!)
+Player 0 has: 9 Player 1 has: 43
+2C versus 9H
+Player 0 has: 8 Player 1 has: 44
+4S versus 3C (Notched!)
+Player 0 has: 7 Player 1 has: 45
+TH versus 7C
+Player 0 has: 8 Player 1 has: 44
+2S versus AC
+Player 0 has: 7 Player 1 has: 45
+4D versus 7D
+Player 0 has: 6 Player 1 has: 46
+2H versus KD
+Player 0 has: 5 Player 1 has: 47
+8S versus TC
+Player 0 has: 4 Player 1 has: 48
+8H versus QH
+Player 0 has: 3 Player 1 has: 49
+AH versus JC
+Player 0 has: 4 Player 1 has: 48
+TH versus JS (Notched!)
+Player 0 has: 5 Player 1 has: 47
+7C versus 5D
+Player 0 has: 6 Player 1 has: 46
+AH versus 9D
+Player 0 has: 7 Player 1 has: 45
+JC versus 7S
+Player 0 has: 8 Player 1 has: 44
+JS versus 5H
+Player 0 has: 9 Player 1 has: 43
+TH versus 4C
+Player 0 has: 10 Player 1 has: 42
+5D versus 3D
+Player 0 has: 11 Player 1 has: 41
+7C versus QS
+Player 0 has: 10 Player 1 has: 42
+9D versus 3H
+Player 0 has: 11 Player 1 has: 41
+AH versus 5S
+Player 0 has: 12 Player 1 has: 40
+JC versus 2D
+Player 0 has: 13 Player 1 has: 39
+7S versus 6D (Notched!)
+Player 0 has: 12 Player 1 has: 40
+5H versus TS
+Player 0 has: 11 Player 1 has: 41
+JS versus 8C
+Player 0 has: 12 Player 1 has: 40
+TH versus 4H
+Player 0 has: 13 Player 1 has: 39
+4C versus QC
+Player 0 has: 12 Player 1 has: 40
+5D versus AD
 Player 0 has: 11 Player 1 has: 41
 3D versus AS
 Player 0 has: 10 Player 1 has: 42
-TC versus 9H (Notched!)
+9D versus 6H
+Player 0 has: 11 Player 1 has: 41
+3H versus JD
+Player 0 has: 10 Player 1 has: 42
+AH versus 3S
+Player 0 has: 11 Player 1 has: 41
+5S versus KH
+Player 0 has: 10 Player 1 has: 42
+2D versus KS
 Player 0 has: 9 Player 1 has: 43
-AH versus KC (Notched!)
-Player 0 has: 8 Player 1 has: 44
-6C versus 4C
+JC versus QD (Notched!)
+Player 0 has: 10 Player 1 has: 42
+JS versus 8D
+Player 0 has: 11 Player 1 has: 41
+8C versus KC
+Player 0 has: 10 Player 1 has: 42
+4H versus 9C
 Player 0 has: 9 Player 1 has: 43
-7S versus QC
-Player 0 has: 8 Player 1 has: 44
-2S versus 7H
-Player 0 has: 7 Player 1 has: 45
-KS versus 2C
-Player 0 has: 8 Player 1 has: 44
-5D versus AC
-Player 0 has: 7 Player 1 has: 45
-8D versus 4D
-Player 0 has: 8 Player 1 has: 44
-5S versus JH
-Player 0 has: 7 Player 1 has: 45
-6H versus 5C (Notched!)
-Player 0 has: 6 Player 1 has: 46
-6C versus 2H
-Player 0 has: 7 Player 1 has: 45
-4C versus 8H
-Player 0 has: 6 Player 1 has: 46
-2C versus 2D
+TH versus 6C
+Player 0 has: 10 Player 1 has: 42
+6H versus 7H (Notched!)
+Player 0 has: 11 Player 1 has: 41
+9D versus 6S
+Player 0 has: 12 Player 1 has: 40
+3S versus 5C
+Player 0 has: 11 Player 1 has: 41
+AH versus 9S
+Player 0 has: 12 Player 1 has: 40
+JC versus JH
 WAR!
+8D versus 9H
+Player 0 has: 8 Player 1 has: 44
+TH versus 3C
+Player 0 has: 9 Player 1 has: 43
+6C versus 4S
+Player 0 has: 10 Player 1 has: 42
+6H versus AC
+Player 0 has: 9 Player 1 has: 43
+7H versus 2S
+Player 0 has: 10 Player 1 has: 42
+6S versus 4D
+Player 0 has: 11 Player 1 has: 41
+9D versus 7D
+Player 0 has: 12 Player 1 has: 40
+9S versus KD
+Player 0 has: 11 Player 1 has: 41
+AH versus 2H
+Player 0 has: 12 Player 1 has: 40
+3C versus 8S
+Player 0 has: 11 Player 1 has: 41
+TH versus TC
+WAR!
+2S versus 7C
+Player 0 has: 7 Player 1 has: 45
+7H versus QS
+Player 0 has: 6 Player 1 has: 46
+6S versus 7S (Notched!)
+Player 0 has: 7 Player 1 has: 45
+4D versus 6D
+Player 0 has: 6 Player 1 has: 46
+9D versus 5H
+Player 0 has: 7 Player 1 has: 45
+7D versus TS
+Player 0 has: 6 Player 1 has: 46
+2H versus QC
+Player 0 has: 5 Player 1 has: 47
+AH versus 4C
+Player 0 has: 6 Player 1 has: 46
+7S versus 5D
+Player 0 has: 7 Player 1 has: 45
+6S versus AD
+Player 0 has: 6 Player 1 has: 46
+9D versus 3D
+Player 0 has: 7 Player 1 has: 45
+5H versus AS
+Player 0 has: 6 Player 1 has: 46
+4C versus 3H (Notched!)
+Player 0 has: 5 Player 1 has: 47
+AH versus JD
+Player 0 has: 6 Player 1 has: 46
+7S versus 5S
+Player 0 has: 7 Player 1 has: 45
+5D versus KH
+Player 0 has: 6 Player 1 has: 46
+3D versus 2D (Notched!)
+Player 0 has: 5 Player 1 has: 47
+9D versus KS
+Player 0 has: 4 Player 1 has: 48
+AH versus 8C
+Player 0 has: 5 Player 1 has: 47
+JD versus KC
+Player 0 has: 4 Player 1 has: 48
+7S versus 4H
+Player 0 has: 5 Player 1 has: 47
+5S versus 9C
+Player 0 has: 4 Player 1 has: 48
+8C versus 5C
+Player 0 has: 5 Player 1 has: 47
+AH versus 3S
+Player 0 has: 6 Player 1 has: 46
+4H versus 2C
+Player 0 has: 7 Player 1 has: 45
+7S versus 8D (Notched!)
+Player 0 has: 8 Player 1 has: 44
+8C versus TD
+Player 0 has: 7 Player 1 has: 45
+5C versus JS
+Player 0 has: 6 Player 1 has: 46
+3S versus QD
+Player 0 has: 5 Player 1 has: 47
+AH versus JC
+Player 0 has: 6 Player 1 has: 46
+2C versus JH
+Player 0 has: 5 Player 1 has: 47
+4H versus 9H
+Player 0 has: 4 Player 1 has: 48
+7S versus AC
+Player 0 has: 3 Player 1 has: 49
+8D versus 6H
+Player 0 has: 4 Player 1 has: 48
+AH versus 9S
+Player 0 has: 5 Player 1 has: 47
+JC versus KD
+Player 0 has: 4 Player 1 has: 48
+8D versus 3C
+Player 0 has: 5 Player 1 has: 47
+6H versus 8S
+Player 0 has: 4 Player 1 has: 48
+9S versus TH (Notched!)
+Player 0 has: 5 Player 1 has: 47
+AH versus QH
+Player 0 has: 6 Player 1 has: 46
+8D versus 8H
+WAR!
+9S versus 4S
+Player 0 has: 10 Player 1 has: 42
+AH versus TC
+Player 0 has: 11 Player 1 has: 41
+QH versus 6C
+Player 0 has: 12 Player 1 has: 40
+3C versus 7H
+Player 0 has: 11 Player 1 has: 41
+TH versus QS
+Player 0 has: 10 Player 1 has: 42
+8H versus 4D
+Player 0 has: 11 Player 1 has: 41
+8D versus 6D
+Player 0 has: 12 Player 1 has: 40
+4S versus 7D
+Player 0 has: 11 Player 1 has: 41
+2S versus TS
+Player 0 has: 10 Player 1 has: 42
+7C versus QC
+Player 0 has: 9 Player 1 has: 43
+9S versus 2H
+Player 0 has: 10 Player 1 has: 42
+TC versus 6S
+Player 0 has: 11 Player 1 has: 41
+AH versus AD
+WAR!
+4D versus 4C
+WAR!
+8D versus 5D
+Player 0 has: 18 Player 1 has: 34
+2H versus 2D
+WAR!
+TC versus KS
+Player 0 has: 14 Player 1 has: 38
+KH versus KC
+WAR!
+8H versus 9C
+Player 0 has: 10 Player 1 has: 42
+AH versus TD
+Player 0 has: 11 Player 1 has: 41
+3H versus 8C
+Player 0 has: 10 Player 1 has: 42
+5D versus JS
+Player 0 has: 9 Player 1 has: 43
+8D versus 5C
+Player 0 has: 10 Player 1 has: 42
+AD versus QD
+Player 0 has: 11 Player 1 has: 41
+AS versus 3S
+Player 0 has: 12 Player 1 has: 40
+6D versus JH
+Player 0 has: 11 Player 1 has: 41
+4D versus 2C
+Player 0 has: 12 Player 1 has: 40
+QH versus 4H
+Player 0 has: 13 Player 1 has: 39
+5H versus 9H
+Player 0 has: 12 Player 1 has: 40
+AH versus AC
+WAR!
+5C versus JC
+Player 0 has: 8 Player 1 has: 44
+QD versus 6H
+Player 0 has: 9 Player 1 has: 43
+AD versus 8S
+Player 0 has: 10 Player 1 has: 42
+3S versus 7H
+Player 0 has: 9 Player 1 has: 43
+AS versus 3C
+Player 0 has: 10 Player 1 has: 42
+4D versus TH
+Player 0 has: 9 Player 1 has: 43
+2C versus QS
+Player 0 has: 8 Player 1 has: 44
+QH versus 4S
+Player 0 has: 9 Player 1 has: 43
+4H versus 7D
+Player 0 has: 8 Player 1 has: 44
+QD versus 2S
+Player 0 has: 9 Player 1 has: 43
+6H versus TS
+Player 0 has: 8 Player 1 has: 44
+8S versus QC
+Player 0 has: 7 Player 1 has: 45
+AD versus 7C
+Player 0 has: 8 Player 1 has: 44
+3C versus 6S
+Player 0 has: 7 Player 1 has: 45
+AS versus KS (Notched!)
+Player 0 has: 6 Player 1 has: 46
+4S versus 2H
+Player 0 has: 7 Player 1 has: 45
+QH versus 3D
+Player 0 has: 8 Player 1 has: 44
+QD versus TC
+Player 0 has: 9 Player 1 has: 43
+2S versus 9D
+Player 0 has: 8 Player 1 has: 44
+AD versus 9S
+Player 0 has: 9 Player 1 has: 43
+7C versus 2D
+Player 0 has: 10 Player 1 has: 42
+4S versus 6C
+Player 0 has: 9 Player 1 has: 43
+2H versus 5S
+Player 0 has: 8 Player 1 has: 44
+3D versus KH
+Player 0 has: 7 Player 1 has: 45
+QH versus 4C
+Player 0 has: 8 Player 1 has: 44
+TC versus KC
+Player 0 has: 7 Player 1 has: 45
+QD versus 8H
+Player 0 has: 8 Player 1 has: 44
+AD versus JD
+Player 0 has: 9 Player 1 has: 43
+9S versus 9C
+WAR!
+4C versus JS
+Player 0 has: 5 Player 1 has: 47
+QH versus 5D
+Player 0 has: 6 Player 1 has: 46
+QD versus JH (Notched!)
+Player 0 has: 5 Player 1 has: 47
+8H versus 6D
+Player 0 has: 6 Player 1 has: 46
+AD versus 5H
+Player 0 has: 7 Player 1 has: 45
+JD versus 9H
+Player 0 has: 8 Player 1 has: 44
+QH versus 7S
+Player 0 has: 9 Player 1 has: 43
+5D versus TD
+Player 0 has: 8 Player 1 has: 44
+8H versus 8D
+WAR!
+5H versus 5C
+WAR!
+QH versus 7H
+Player 0 has: 15 Player 1 has: 37
+7S versus 3S
+Player 0 has: 16 Player 1 has: 36
+8H versus 4D
+Player 0 has: 17 Player 1 has: 35
+7H versus TH
+Player 0 has: 16 Player 1 has: 36
+AC versus QS
+Player 0 has: 17 Player 1 has: 35
+8D versus 2C
+Player 0 has: 18 Player 1 has: 34
+AD versus 7D
+Player 0 has: 19 Player 1 has: 33
+AH versus 4H
+Player 0 has: 20 Player 1 has: 32
+JC versus 6H
+Player 0 has: 21 Player 1 has: 31
+5C versus TS
+Player 0 has: 20 Player 1 has: 32
+9H versus 8S (Notched!)
+Player 0 has: 19 Player 1 has: 33
+JD versus QC (Notched!)
+Player 0 has: 20 Player 1 has: 32
+6D versus 3C
+Player 0 has: 21 Player 1 has: 31
+5H versus 6S (Notched!)
+Player 0 has: 22 Player 1 has: 30
+KD versus KS
+WAR!
+3S versus 2S
+Player 0 has: 26 Player 1 has: 26
+8H versus 6C
+Player 0 has: 27 Player 1 has: 25
+4D versus 4S
+WAR!
+8D versus 3D
+Player 0 has: 31 Player 1 has: 21
+2C versus KH
+Player 0 has: 30 Player 1 has: 22
+7D versus KC
+Player 0 has: 29 Player 1 has: 23
+AD versus TC
+Player 0 has: 30 Player 1 has: 22
+AH versus 9C
+Player 0 has: 31 Player 1 has: 21
+4H versus 4C
+WAR!
+JD versus 3H
+Player 0 has: 35 Player 1 has: 17
+QC versus 9S
+Player 0 has: 36 Player 1 has: 16
+3C versus 2D (Notched!)
+Player 0 has: 35 Player 1 has: 17
+6D versus 7C (Notched!)
+Player 0 has: 36 Player 1 has: 16
+5H versus QD
+Player 0 has: 35 Player 1 has: 17
+6S versus JH
+Player 0 has: 34 Player 1 has: 18
+7S versus 5D
+Player 0 has: 35 Player 1 has: 17
+3S versus TD
+Player 0 has: 34 Player 1 has: 18
+KS versus TH
+Player 0 has: 35 Player 1 has: 17
+KD versus 7H
+Player 0 has: 36 Player 1 has: 16
+QH versus TS
+Player 0 has: 37 Player 1 has: 15
+2S versus 5C
+Player 0 has: 36 Player 1 has: 16
+AS versus 9H
+Player 0 has: 37 Player 1 has: 15
+9D versus 8S (Notched!)
+Player 0 has: 36 Player 1 has: 16
+6C versus 2C
+Player 0 has: 37 Player 1 has: 15
+8H versus KH
+Player 0 has: 36 Player 1 has: 16
+2H versus KC
+Player 0 has: 35 Player 1 has: 17
+AC versus 7D
+Player 0 has: 36 Player 1 has: 16
+QS versus 2D
+Player 0 has: 37 Player 1 has: 15
+4S versus 3C (Notched!)
+Player 0 has: 36 Player 1 has: 16
+8D versus 5H
+Player 0 has: 37 Player 1 has: 15
+3D versus QD
+Player 0 has: 36 Player 1 has: 16
+5S versus 6S (Notched!)
+Player 0 has: 37 Player 1 has: 15
+4D versus JH
+Player 0 has: 36 Player 1 has: 16
+AD versus 3S
+Player 0 has: 37 Player 1 has: 15
+TC versus TD
+WAR!
+JS versus 8S
+Player 0 has: 41 Player 1 has: 11
+4H versus 9D
+Player 0 has: 40 Player 1 has: 12
+3H versus KH
+Player 0 has: 39 Player 1 has: 13
+6H versus 8H
+Player 0 has: 38 Player 1 has: 14
+8C versus KC
+Player 0 has: 37 Player 1 has: 15
+JD versus 2H
+Player 0 has: 38 Player 1 has: 14
+4C versus 4S
+WAR!
+9S versus 3D
+Player 0 has: 42 Player 1 has: 10
+7C versus 4D
+Player 0 has: 43 Player 1 has: 9
+6D versus JH
+Player 0 has: 42 Player 1 has: 10
+5D versus 9D
+Player 0 has: 41 Player 1 has: 11
+7S versus 4H
+Player 0 has: 42 Player 1 has: 10
+KS versus 3H
+Player 0 has: 43 Player 1 has: 9
+TH versus KH
+Player 0 has: 42 Player 1 has: 10
+7H versus 8H (Notched!)
+Player 0 has: 43 Player 1 has: 9
+KD versus 6H
+Player 0 has: 44 Player 1 has: 8
+TS versus KC
+Player 0 has: 43 Player 1 has: 9
+QH versus 8C
+Player 0 has: 44 Player 1 has: 8
+AS versus 6D
+Player 0 has: 45 Player 1 has: 7
+9H versus JH
+Player 0 has: 44 Player 1 has: 8
+2C versus 5D
+Player 0 has: 43 Player 1 has: 9
+6C versus 9D
+Player 0 has: 42 Player 1 has: 10
+7D versus TH
+Player 0 has: 41 Player 1 has: 11
+AC versus KH (Notched!)
+Player 0 has: 40 Player 1 has: 12
+2D versus TS
+Player 0 has: 39 Player 1 has: 13
+QS versus KC (Notched!)
+Player 0 has: 40 Player 1 has: 12
+5H versus JH
+Player 0 has: 39 Player 1 has: 13
+8D versus 9H (Notched!)
+Player 0 has: 40 Player 1 has: 12
+5S versus 5D
+WAR!
+3S versus 9D
+Player 0 has: 36 Player 1 has: 16
+8S versus 7D (Notched!)
+Player 0 has: 35 Player 1 has: 17
+AH versus TH
+Player 0 has: 36 Player 1 has: 16
+TD versus KH
+Player 0 has: 35 Player 1 has: 17
+9C versus AC
+Player 0 has: 34 Player 1 has: 18
+JS versus 2D
+Player 0 has: 35 Player 1 has: 17
+5C versus TS
+Player 0 has: 34 Player 1 has: 18
+2S versus JH
+Player 0 has: 33 Player 1 has: 19
+TC versus 5H
+Player 0 has: 34 Player 1 has: 18
+JD versus 9D
+Player 0 has: 35 Player 1 has: 17
+2H versus 5S
+Player 0 has: 34 Player 1 has: 18
+4C versus 3S (Notched!)
+Player 0 has: 33 Player 1 has: 19
+9S versus AD
+Player 0 has: 32 Player 1 has: 20
+QC versus 6C
+Player 0 has: 33 Player 1 has: 19
+JC versus 2C
+Player 0 has: 34 Player 1 has: 18
+3D versus 5D
+Player 0 has: 33 Player 1 has: 19
+QD versus 6S
+Player 0 has: 34 Player 1 has: 18
+3C versus 7D
+Player 0 has: 33 Player 1 has: 19
+4S versus 8S
+Player 0 has: 32 Player 1 has: 20
+7C versus TD
+Player 0 has: 31 Player 1 has: 21
+4D versus KH
+Player 0 has: 30 Player 1 has: 22
+7S versus AC
+Player 0 has: 29 Player 1 has: 23
+4H versus 9C
+Player 0 has: 28 Player 1 has: 24
+KS versus TS
+Player 0 has: 29 Player 1 has: 23
+3H versus 5C
+Player 0 has: 28 Player 1 has: 24
+8H versus 2S
+Player 0 has: 29 Player 1 has: 23
+7H versus JH
+Player 0 has: 28 Player 1 has: 24
+6H versus 2H
+Player 0 has: 29 Player 1 has: 23
+KD versus 5S
+Player 0 has: 30 Player 1 has: 22
+QH versus 4C
+Player 0 has: 31 Player 1 has: 21
+8C versus 3S
+Player 0 has: 32 Player 1 has: 20
+AS versus AD
+WAR!
+QS versus 5D
+Player 0 has: 36 Player 1 has: 16
+8D versus 3C
+Player 0 has: 37 Player 1 has: 15
+9H versus 7D
+Player 0 has: 38 Player 1 has: 14
+TH versus 4S
+Player 0 has: 39 Player 1 has: 13
+AH versus 8S
+Player 0 has: 40 Player 1 has: 12
+JS versus 7C
+Player 0 has: 41 Player 1 has: 11
+2D versus TD
+Player 0 has: 40 Player 1 has: 12
+5H versus 4D (Notched!)
+Player 0 has: 39 Player 1 has: 13
+TC versus KH
+Player 0 has: 38 Player 1 has: 14
+9D versus AC
+Player 0 has: 37 Player 1 has: 15
+JD versus 7S
+Player 0 has: 38 Player 1 has: 14
+QC versus 9C
+Player 0 has: 39 Player 1 has: 13
+6C versus 4H
+Player 0 has: 40 Player 1 has: 12
+JC versus 5C
+Player 0 has: 41 Player 1 has: 11
+2C versus 3H (Notched!)
+Player 0 has: 42 Player 1 has: 10
+6S versus JH
+Player 0 has: 41 Player 1 has: 11
+QD versus 7H
+Player 0 has: 42 Player 1 has: 10
+KS versus 2D
+Player 0 has: 43 Player 1 has: 9
+TS versus TD
+WAR!
+6H versus TC
+Player 0 has: 39 Player 1 has: 13
+2H versus KH
+Player 0 has: 38 Player 1 has: 14
+5S versus AC
+Player 0 has: 37 Player 1 has: 15
+KD versus 9D
+Player 0 has: 38 Player 1 has: 14
+4C versus JH
+Player 0 has: 37 Player 1 has: 15
+QH versus 6S
+Player 0 has: 38 Player 1 has: 14
+8C versus 5H
+Player 0 has: 39 Player 1 has: 13
+3S versus 4D (Notched!)
+Player 0 has: 40 Player 1 has: 12
+6D versus TD
+Player 0 has: 39 Player 1 has: 13
+AD versus TC
+Player 0 has: 40 Player 1 has: 12
+9S versus TS (Notched!)
+Player 0 has: 41 Player 1 has: 11
+KC versus 6H
+Player 0 has: 42 Player 1 has: 10
+3D versus 8H
+Player 0 has: 41 Player 1 has: 11
+AS versus 2S
+Player 0 has: 42 Player 1 has: 10
+5D versus KH
+Player 0 has: 41 Player 1 has: 11
+QS versus 2H
+Player 0 has: 42 Player 1 has: 10
+3C versus AC
+Player 0 has: 41 Player 1 has: 11
+8D versus 5S
+Player 0 has: 42 Player 1 has: 10
+9H versus 4C
+Player 0 has: 43 Player 1 has: 9
+7D versus JH
+Player 0 has: 42 Player 1 has: 10
+4S versus 6D
+Player 0 has: 41 Player 1 has: 11
+TH versus TD
+WAR!
+7C versus 5D
+Player 0 has: 45 Player 1 has: 7
+JS versus KH
+Player 0 has: 44 Player 1 has: 8
+JD versus 3C
+Player 0 has: 45 Player 1 has: 7
+7S versus AC
+Player 0 has: 44 Player 1 has: 8
+9C versus 7D
+Player 0 has: 45 Player 1 has: 7
+QC versus JH (Notched!)
+Player 0 has: 44 Player 1 has: 8
+6C versus 4S
+Player 0 has: 45 Player 1 has: 7
+4H versus 6D
+Player 0 has: 44 Player 1 has: 8
+5C versus KH
+Player 0 has: 43 Player 1 has: 9
+JC versus JS
+WAR!
+QD versus QC
+WAR!
+KS versus 4H
+Player 0 has: 50 Player 1 has: 2
+KD versus 5C
+Player 0 has: 51 Player 1 has: 1
+9D versus KH
+Player 0 has: 50 Player 1 has: 2
+QH versus 9D
+Player 0 has: 51 Player 1 has: 1
+6S versus KH
+Player 0 has: 50 Player 1 has: 2
+8C versus 6S
+Player 0 has: 51 Player 1 has: 1
+5H versus KH
+Player 0 has: 50 Player 1 has: 2
+4D versus 5H (Notched!)
+Player 0 has: 51 Player 1 has: 1
+3S versus KH
+Player 0 has: 50 Player 1 has: 2
+TC versus KH
+Player 0 has: 49 Player 1 has: 3
+AD versus 3S
+Player 0 has: 50 Player 1 has: 2
+9S versus TC (Notched!)
+Player 0 has: 51 Player 1 has: 1
+TS versus KH
+Player 0 has: 50 Player 1 has: 2
+6H versus KH
+Player 0 has: 49 Player 1 has: 3
+KC versus TS
+Player 0 has: 50 Player 1 has: 2
+2S versus KH
+Player 0 has: 49 Player 1 has: 3
+AS versus 6H
+Player 0 has: 50 Player 1 has: 2
+2H versus KH
+Player 0 has: 49 Player 1 has: 3
+QS versus 2S
+Player 0 has: 50 Player 1 has: 2
+8D versus 2H
+Player 0 has: 51 Player 1 has: 1
+5S versus KH
+Player 0 has: 50 Player 1 has: 2
+4C versus 5S (Notched!)
+Player 0 has: 51 Player 1 has: 1
+9H versus KH
+Player 0 has: 50 Player 1 has: 2
+8S versus 9H (Notched!)
+Player 0 has: 51 Player 1 has: 1
+AH versus KH (Notched!)
+Player 0 has: 50 Player 1 has: 2
+7C versus KH
+Player 0 has: 49 Player 1 has: 3
+3D versus AH
+Player 0 has: 48 Player 1 has: 4
+8H versus KH
+Player 0 has: 47 Player 1 has: 5
+TH versus 7C
+Player 0 has: 48 Player 1 has: 4
+5D versus 3D
+Player 0 has: 49 Player 1 has: 3
+TD versus AH
+Player 0 has: 48 Player 1 has: 4
+3C versus KH
+Player 0 has: 47 Player 1 has: 5
+JD versus 8H
+Player 0 has: 48 Player 1 has: 4
+9C versus AH
+Player 0 has: 47 Player 1 has: 5
+7D versus TD
+Player 0 has: 46 Player 1 has: 6
+4S versus 3C (Notched!)
+Player 0 has: 45 Player 1 has: 7
+6C versus KH
+Player 0 has: 44 Player 1 has: 8
+JS versus 9C
+Player 0 has: 45 Player 1 has: 7
+QC versus AH
+Player 0 has: 44 Player 1 has: 8
+QD versus 7D
+Player 0 has: 45 Player 1 has: 7
+JC versus TD (Notched!)
+Player 0 has: 44 Player 1 has: 8
+6D versus 3C
+Player 0 has: 45 Player 1 has: 7
+4H versus 4S
+WAR!
+JH versus AH
+Player 0 has: 41 Player 1 has: 11
+2C versus QC
+Player 0 has: 40 Player 1 has: 12
+2D versus TD
+Player 0 has: 39 Player 1 has: 13
+KS versus JC
+Player 0 has: 40 Player 1 has: 12
+7S versus JH
+Player 0 has: 39 Player 1 has: 13
+AC versus 4H
+Player 0 has: 40 Player 1 has: 12
+KD versus 7H
+Player 0 has: 41 Player 1 has: 11
+5C versus 6C (Notched!)
+Player 0 has: 42 Player 1 has: 10
+9D versus 3H
+Player 0 has: 43 Player 1 has: 9
+QH versus AH
+Player 0 has: 42 Player 1 has: 10
+8C versus KH
+Player 0 has: 41 Player 1 has: 11
+6S versus 4S
+Player 0 has: 42 Player 1 has: 10
+4D versus 2C
+Player 0 has: 43 Player 1 has: 9
+5H versus QC
+Player 0 has: 42 Player 1 has: 10
+3S versus 2D (Notched!)
+Player 0 has: 41 Player 1 has: 11
+AD versus TD
+Player 0 has: 42 Player 1 has: 10
+9S versus 7S
+Player 0 has: 43 Player 1 has: 9
+TC versus JH (Notched!)
+Player 0 has: 44 Player 1 has: 8
+KC versus QH (Notched!)
+Player 0 has: 43 Player 1 has: 9
+TS versus AH
+Player 0 has: 42 Player 1 has: 10
+6H versus KH
+Player 0 has: 41 Player 1 has: 11
+AS versus 8C
+Player 0 has: 42 Player 1 has: 10
+QS versus QC
+WAR!
+8D versus 3S
+Player 0 has: 46 Player 1 has: 6
+5S versus KC
+Player 0 has: 45 Player 1 has: 7
+4C versus QH
+Player 0 has: 44 Player 1 has: 8
+8S versus AH
+Player 0 has: 43 Player 1 has: 9
+9H versus TS (Notched!)
+Player 0 has: 44 Player 1 has: 8
+7C versus KH
+Player 0 has: 43 Player 1 has: 9
+TH versus 6H
+Player 0 has: 44 Player 1 has: 8
+3D versus KC
+Player 0 has: 43 Player 1 has: 9
+5D versus 5S
+WAR!
+JS versus 8S
+Player 0 has: 47 Player 1 has: 5
+9C versus AH
+Player 0 has: 46 Player 1 has: 6
+QD versus KH (Notched!)
+Player 0 has: 47 Player 1 has: 5
+7D versus 7C
+WAR!
+KS versus 9C
+Player 0 has: 51 Player 1 has: 1
+JC versus AH
+Player 0 has: 50 Player 1 has: 2
+AC versus JC
+Player 0 has: 51 Player 1 has: 1
+4H versus AH
+Player 0 has: 50 Player 1 has: 2
+7H versus AH
+Player 0 has: 49 Player 1 has: 3
+KD versus 4H
+Player 0 has: 50 Player 1 has: 2
+6C versus 7H (Notched!)
+Player 0 has: 51 Player 1 has: 1
+5C versus AH
+Player 0 has: 50 Player 1 has: 2
+3H versus AH
+Player 0 has: 49 Player 1 has: 3
+9D versus 5C
+Player 0 has: 50 Player 1 has: 2
+4S versus AH
+Player 0 has: 49 Player 1 has: 3
+6S versus 3H
+Player 0 has: 50 Player 1 has: 2
+4D versus 4S
+WAR!
+AD versus AH
+WAR!
+JH versus AH
+Player 0 has: 43 Player 1 has: 9
+TC versus 2C
+Player 0 has: 44 Player 1 has: 8
+8C versus 4S
+Player 0 has: 45 Player 1 has: 7
+AS versus TD
+Player 0 has: 46 Player 1 has: 6
+2D versus AD
+Player 0 has: 45 Player 1 has: 7
+2S versus 7S
+Player 0 has: 44 Player 1 has: 8
+3S versus 4D (Notched!)
+Player 0 has: 45 Player 1 has: 7
+8D versus JH
+Player 0 has: 44 Player 1 has: 8
+5H versus AH
+Player 0 has: 43 Player 1 has: 9
+QC versus 9S
+Player 0 has: 44 Player 1 has: 8
+2H versus 2D
+WAR!
+TS versus 2S
+Player 0 has: 48 Player 1 has: 4
+TH versus JH (Notched!)
+Player 0 has: 49 Player 1 has: 3
+6H versus 8D
+Player 0 has: 48 Player 1 has: 4
+4C versus 5H (Notched!)
+Player 0 has: 49 Player 1 has: 3
+5S versus AH
+Player 0 has: 48 Player 1 has: 4
+JD versus 6H
+Player 0 has: 49 Player 1 has: 3
+8H versus 8D
+WAR!
+8S versus AH
+Player 0 has: 45 Player 1 has: 7
+JS versus 5D
+Player 0 has: 46 Player 1 has: 6
+QD versus AH
+Player 0 has: 45 Player 1 has: 7
+KH versus 8S
+Player 0 has: 46 Player 1 has: 6
+7D versus 5S
+Player 0 has: 47 Player 1 has: 5
+3C versus QH
+Player 0 has: 46 Player 1 has: 6
+3D versus 8D
+Player 0 has: 45 Player 1 has: 7
+KC versus 8H
+Player 0 has: 46 Player 1 has: 6
+7C versus AH
+Player 0 has: 45 Player 1 has: 7
+6D versus QD
+Player 0 has: 44 Player 1 has: 8
+9C versus QH
+Player 0 has: 43 Player 1 has: 9
+KS versus 3C
+Player 0 has: 44 Player 1 has: 8
+JC versus 3D
+Player 0 has: 45 Player 1 has: 7
+AC versus 8D
+Player 0 has: 46 Player 1 has: 6
+4H versus AH
+Player 0 has: 45 Player 1 has: 7
+KD versus 7C
+Player 0 has: 46 Player 1 has: 6
+6C versus 6D
+WAR!
+5C versus QH
+Player 0 has: 42 Player 1 has: 10
+6S versus 4H
+Player 0 has: 43 Player 1 has: 9
+3H versus AH
+Player 0 has: 42 Player 1 has: 10
+TC versus 6D
+Player 0 has: 43 Player 1 has: 9
+2C versus 9C
+Player 0 has: 42 Player 1 has: 10
+4S versus QH
+Player 0 has: 41 Player 1 has: 11
+8C versus 7H (Notched!)
+Player 0 has: 40 Player 1 has: 12
+TD versus 6C
+Player 0 has: 41 Player 1 has: 11
+AS versus QD
+Player 0 has: 42 Player 1 has: 10
+3S versus 5C
+Player 0 has: 41 Player 1 has: 11
+4D versus 9D
+Player 0 has: 40 Player 1 has: 12
+QC versus AH
+Player 0 has: 39 Player 1 has: 13
+9S versus 3H
+Player 0 has: 40 Player 1 has: 12
+TS versus 9C (Notched!)
+Player 0 has: 39 Player 1 has: 13
+AD versus 2C
+Player 0 has: 40 Player 1 has: 12
+QS versus QH
+WAR!
+2H versus 8C
+Player 0 has: 36 Player 1 has: 16
+9H versus 5C
+Player 0 has: 37 Player 1 has: 15
+7S versus 3S
+Player 0 has: 38 Player 1 has: 14
+TH versus 9D (Notched!)
+Player 0 has: 37 Player 1 has: 15
+JH versus 4D
+Player 0 has: 38 Player 1 has: 14
+5H versus QC
+Player 0 has: 37 Player 1 has: 15
+4C versus AH
+Player 0 has: 36 Player 1 has: 16
+6H versus 9C
+Player 0 has: 35 Player 1 has: 17
+JD versus TS (Notched!)
+Player 0 has: 34 Player 1 has: 18
+JS versus 4S
+Player 0 has: 35 Player 1 has: 17
+5D versus 2S
+Player 0 has: 36 Player 1 has: 16
+8S versus 2H
+Player 0 has: 37 Player 1 has: 15
+KH versus 2D
+Player 0 has: 38 Player 1 has: 14
+5S versus 8C
+Player 0 has: 37 Player 1 has: 15
+7D versus QS
+Player 0 has: 36 Player 1 has: 16
+KC versus QH (Notched!)
+Player 0 has: 35 Player 1 has: 17
+8H versus 7H (Notched!)
+Player 0 has: 34 Player 1 has: 18
+3C versus 9D
+Player 0 has: 33 Player 1 has: 19
+KS versus TH
+Player 0 has: 34 Player 1 has: 18
+3D versus QC
+Player 0 has: 33 Player 1 has: 19
+JC versus 5H
+Player 0 has: 34 Player 1 has: 18
+8D versus AH
+Player 0 has: 33 Player 1 has: 19
+AC versus 4C
+Player 0 has: 34 Player 1 has: 18
+7C versus 9C
+Player 0 has: 33 Player 1 has: 19
+KD versus 6H
+Player 0 has: 34 Player 1 has: 18
+6S versus JD
+Player 0 has: 33 Player 1 has: 19
+4H versus TS
+Player 0 has: 32 Player 1 has: 20
+TC versus 8C
+Player 0 has: 33 Player 1 has: 19
+6D versus 5S (Notched!)
+Player 0 has: 32 Player 1 has: 20
+TD versus QS
+Player 0 has: 31 Player 1 has: 21
+6C versus 7D (Notched!)
+Player 0 has: 32 Player 1 has: 20
+QD versus KC (Notched!)
+Player 0 has: 33 Player 1 has: 19
+AS versus QH
+Player 0 has: 34 Player 1 has: 18
+3H versus 8H
+Player 0 has: 33 Player 1 has: 19
+9S versus 7H
+Player 0 has: 34 Player 1 has: 18
+2C versus 3C (Notched!)
+Player 0 has: 35 Player 1 has: 17
+AD versus 9D
+Player 0 has: 36 Player 1 has: 16
+5C versus 3D
+Player 0 has: 37 Player 1 has: 15
+9H versus QC
+Player 0 has: 36 Player 1 has: 16
+3S versus 8D
+Player 0 has: 35 Player 1 has: 17
+7S versus AH
+Player 0 has: 34 Player 1 has: 18
+JH versus 9C
+Player 0 has: 35 Player 1 has: 17
+4D versus 7C
+Player 0 has: 34 Player 1 has: 18
+JS versus JD
+WAR!
+2S versus TS
+Player 0 has: 30 Player 1 has: 22
+2H versus 6D
+Player 0 has: 29 Player 1 has: 23
+8S versus 5S
+Player 0 has: 30 Player 1 has: 22
+2D versus QS
+Player 0 has: 29 Player 1 has: 23
+KH versus TD
+Player 0 has: 30 Player 1 has: 22
+KS versus 3H
+Player 0 has: 31 Player 1 has: 21
+TH versus 8H
+Player 0 has: 32 Player 1 has: 20
+5H versus 9H
+Player 0 has: 31 Player 1 has: 21
+JC versus QC (Notched!)
+Player 0 has: 32 Player 1 has: 20
+AC versus 8D
+Player 0 has: 33 Player 1 has: 19
+4C versus 3S (Notched!)
+Player 0 has: 32 Player 1 has: 20
+6H versus AH
+Player 0 has: 31 Player 1 has: 21
+KD versus 7S
+Player 0 has: 32 Player 1 has: 20
+8C versus 4D
+Player 0 has: 33 Player 1 has: 19
+TC versus 7C
+Player 0 has: 34 Player 1 has: 18
+7D versus 4S
+Player 0 has: 35 Player 1 has: 17
+6C versus 4H
+Player 0 has: 36 Player 1 has: 16
+KC versus TS
+Player 0 has: 37 Player 1 has: 15
+QD versus JS (Notched!)
+Player 0 has: 36 Player 1 has: 16
+AS versus 6S
+Player 0 has: 37 Player 1 has: 15
+QH versus JD (Notched!)
+Player 0 has: 36 Player 1 has: 16
+7H versus 5D
+Player 0 has: 37 Player 1 has: 15
+9S versus 2S
+Player 0 has: 38 Player 1 has: 14
+3C versus 2H (Notched!)
+Player 0 has: 37 Player 1 has: 15
+2C versus 6D
+Player 0 has: 36 Player 1 has: 16
+9D versus 2D
+Player 0 has: 37 Player 1 has: 15
+AD versus QS
+Player 0 has: 38 Player 1 has: 14
+5C versus 9H
+Player 0 has: 37 Player 1 has: 15
+3D versus 5H
+Player 0 has: 36 Player 1 has: 16
+JH versus 4C
+Player 0 has: 37 Player 1 has: 15
+9C versus 3S
+Player 0 has: 38 Player 1 has: 14
+8S versus AH
+Player 0 has: 37 Player 1 has: 15
+5S versus 6H (Notched!)
+Player 0 has: 38 Player 1 has: 14
+TD versus JS (Notched!)
+Player 0 has: 39 Player 1 has: 13
+KH versus QD (Notched!)
+Player 0 has: 38 Player 1 has: 14
+KS versus QH (Notched!)
+Player 0 has: 37 Player 1 has: 15
+3H versus JD
+Player 0 has: 36 Player 1 has: 16
+TH versus 3C
+Player 0 has: 37 Player 1 has: 15
+8H versus 2H
+Player 0 has: 38 Player 1 has: 14
+QC versus 2C
+Player 0 has: 39 Player 1 has: 13
+JC versus 6D
+Player 0 has: 40 Player 1 has: 12
+8D versus 9H (Notched!)
+Player 0 has: 41 Player 1 has: 11
+AC versus 5C
+Player 0 has: 42 Player 1 has: 10
+KD versus 5H
+Player 0 has: 43 Player 1 has: 9
+7S versus 3D
+Player 0 has: 44 Player 1 has: 8
+4D versus 8S
+Player 0 has: 43 Player 1 has: 9
+8C versus AH
+Player 0 has: 42 Player 1 has: 10
+TC versus KH
+Player 0 has: 41 Player 1 has: 11
+7C versus QD
+Player 0 has: 40 Player 1 has: 12
+7D versus KS
+Player 0 has: 39 Player 1 has: 13
+4S versus QH
+Player 0 has: 38 Player 1 has: 14
+4H versus JD
+Player 0 has: 37 Player 1 has: 15
+6C versus 3H
+Player 0 has: 38 Player 1 has: 14
+TS versus 4D
+Player 0 has: 39 Player 1 has: 13
+KC versus 8S
+Player 0 has: 40 Player 1 has: 12
+AS versus AH
+WAR!
+7H versus KH
+Player 0 has: 36 Player 1 has: 16
+9S versus 7C
+Player 0 has: 37 Player 1 has: 15
+2S versus QD
+Player 0 has: 36 Player 1 has: 16
+9D versus KS
+Player 0 has: 35 Player 1 has: 17
+2D versus 7D
+Player 0 has: 34 Player 1 has: 18
+QS versus 4S
+Player 0 has: 35 Player 1 has: 17
+AD versus QH
+Player 0 has: 36 Player 1 has: 16
+JH versus 4H
+Player 0 has: 37 Player 1 has: 15
+4C versus JD
+Player 0 has: 36 Player 1 has: 16
+9C versus AS
+Player 0 has: 35 Player 1 has: 17
+3S versus 6S
+Player 0 has: 34 Player 1 has: 18
+5S versus AH
+Player 0 has: 33 Player 1 has: 19
+6H versus TC
+Player 0 has: 32 Player 1 has: 20
+TD versus KH
+Player 0 has: 31 Player 1 has: 21
+JS versus 8C
+Player 0 has: 32 Player 1 has: 20
+3C versus 7H
+Player 0 has: 31 Player 1 has: 21
+TH versus 5D
+Player 0 has: 32 Player 1 has: 20
+2H versus QD
+Player 0 has: 31 Player 1 has: 21
+8H versus 2S
+Player 0 has: 32 Player 1 has: 20
+QC versus KS (Notched!)
+Player 0 has: 33 Player 1 has: 19
+2C versus 9D
+Player 0 has: 32 Player 1 has: 20
+6D versus 7D (Notched!)
+Player 0 has: 33 Player 1 has: 19
+JC versus 2D
+Player 0 has: 34 Player 1 has: 18
+9H versus JD
+Player 0 has: 33 Player 1 has: 19
+8D versus 4C
+Player 0 has: 34 Player 1 has: 18
+5C versus 9C
+Player 0 has: 33 Player 1 has: 19
+AC versus AS
+WAR!
+3D versus AH
+Player 0 has: 29 Player 1 has: 23
+7S versus 5S
+Player 0 has: 30 Player 1 has: 22
+3H versus 6H
+Player 0 has: 29 Player 1 has: 23
+6C versus TC
+Player 0 has: 28 Player 1 has: 24
+TS versus KH
+Player 0 has: 27 Player 1 has: 25
+4D versus TD
+Player 0 has: 26 Player 1 has: 26
+KC versus 7H
+Player 0 has: 27 Player 1 has: 25
+8S versus 3C
+Player 0 has: 28 Player 1 has: 24
+9S versus 2H
+Player 0 has: 29 Player 1 has: 23
+7C versus QD
+Player 0 has: 28 Player 1 has: 24
+4S versus 2C
+Player 0 has: 29 Player 1 has: 23
+QS versus 9D
+Player 0 has: 30 Player 1 has: 22
+QH versus 9H
+Player 0 has: 31 Player 1 has: 21
+AD versus JD
+Player 0 has: 32 Player 1 has: 20
+JH versus 5C
+Player 0 has: 33 Player 1 has: 19
+4H versus 9C
+Player 0 has: 32 Player 1 has: 20
+JS versus 5H
+Player 0 has: 33 Player 1 has: 19
+8C versus 3D
+Player 0 has: 34 Player 1 has: 18
+TH versus 3S
+Player 0 has: 35 Player 1 has: 17
+5D versus AC
+Player 0 has: 34 Player 1 has: 18
+8H versus AS
+Player 0 has: 33 Player 1 has: 19
+2S versus AH
+Player 0 has: 32 Player 1 has: 20
+QC versus KD (Notched!)
+Player 0 has: 33 Player 1 has: 19
+KS versus 6S
+Player 0 has: 34 Player 1 has: 18
+6D versus 6H
+WAR!
+JC versus TC
+Player 0 has: 38 Player 1 has: 14
+8D versus KH
+Player 0 has: 37 Player 1 has: 15
+4C versus TS
+Player 0 has: 36 Player 1 has: 16
+7S versus 4D
+Player 0 has: 37 Player 1 has: 15
+5S versus TD
+Player 0 has: 36 Player 1 has: 16
+KC versus 7C
+Player 0 has: 37 Player 1 has: 15
+7H versus QD
+Player 0 has: 36 Player 1 has: 16
+3C versus 9C
+Player 0 has: 35 Player 1 has: 17
+8S versus 4H
+Player 0 has: 36 Player 1 has: 16
+2H versus AC
+Player 0 has: 35 Player 1 has: 17
+9S versus 5D
+Player 0 has: 36 Player 1 has: 16
+4S versus AS
+Player 0 has: 35 Player 1 has: 17
+2C versus 8H
+Player 0 has: 34 Player 1 has: 18
+9D versus AH
+Player 0 has: 33 Player 1 has: 19
+QS versus 2S
+Player 0 has: 34 Player 1 has: 18
+QH versus 8D
+Player 0 has: 35 Player 1 has: 17
+9H versus KH
+Player 0 has: 34 Player 1 has: 18
+AD versus TS
+Player 0 has: 35 Player 1 has: 17
+JD versus 4C
+Player 0 has: 36 Player 1 has: 16
+5C versus 5S
+WAR!
+5H versus 7H
+Player 0 has: 32 Player 1 has: 20
+8C versus 9C (Notched!)
+Player 0 has: 33 Player 1 has: 19
+3D versus 3C
+WAR!
+KD versus 4S
+Player 0 has: 37 Player 1 has: 15
+QC versus AS
+Player 0 has: 36 Player 1 has: 16
+KS versus 2C
+Player 0 has: 37 Player 1 has: 15
+6S versus 8H
+Player 0 has: 36 Player 1 has: 16
+6D versus 9D
+Player 0 has: 35 Player 1 has: 17
+6C versus AH
+Player 0 has: 34 Player 1 has: 18
+7D versus 9H
+Player 0 has: 33 Player 1 has: 19
+2D versus KH
+Player 0 has: 32 Player 1 has: 20
+JC versus QD (Notched!)
+Player 0 has: 33 Player 1 has: 19
+TC versus 7H
+Player 0 has: 34 Player 1 has: 18
+6H versus JH
+Player 0 has: 33 Player 1 has: 19
+3H versus 5S
+Player 0 has: 32 Player 1 has: 20
+7S versus TD
+Player 0 has: 31 Player 1 has: 21
+4D versus JS
+Player 0 has: 30 Player 1 has: 22
+KC versus 5H
+Player 0 has: 31 Player 1 has: 21
+7C versus 5C
+Player 0 has: 32 Player 1 has: 20
+4H versus QC
+Player 0 has: 31 Player 1 has: 21
+8S versus AS
+Player 0 has: 30 Player 1 has: 22
+5D versus 8H
+Player 0 has: 29 Player 1 has: 23
+9S versus 6S
+Player 0 has: 30 Player 1 has: 22
+2S versus 6D
+Player 0 has: 29 Player 1 has: 23
+QS versus 9D
+Player 0 has: 30 Player 1 has: 22
+QH versus 6C
+Player 0 has: 31 Player 1 has: 21
+8D versus AH
+Player 0 has: 30 Player 1 has: 22
+AD versus 7D
+Player 0 has: 31 Player 1 has: 21
+TS versus 9H (Notched!)
+Player 0 has: 30 Player 1 has: 22
+JD versus KH
+Player 0 has: 29 Player 1 has: 23
+4C versus 2D
+Player 0 has: 30 Player 1 has: 22
+8C versus JH
+Player 0 has: 29 Player 1 has: 23
+9C versus 6H
+Player 0 has: 30 Player 1 has: 22
+AC versus 3H
+Player 0 has: 31 Player 1 has: 21
+2H versus 5S
+Player 0 has: 30 Player 1 has: 22
+TH versus 7S
+Player 0 has: 31 Player 1 has: 21
+3S versus TD
+Player 0 has: 30 Player 1 has: 22
+KD versus 4D
+Player 0 has: 31 Player 1 has: 21
+4S versus JS
+Player 0 has: 30 Player 1 has: 22
+3D versus QC
+Player 0 has: 29 Player 1 has: 23
+3C versus 4H (Notched!)
+Player 0 has: 30 Player 1 has: 22
+KS versus 8S
+Player 0 has: 31 Player 1 has: 21
+2C versus AS
+Player 0 has: 30 Player 1 has: 22
+QD versus 5D
+Player 0 has: 31 Player 1 has: 21
+JC versus 8H
+Player 0 has: 32 Player 1 has: 20
+7H versus 2S
+Player 0 has: 33 Player 1 has: 19
+TC versus 6D
+Player 0 has: 34 Player 1 has: 18
+5H versus 8D
+Player 0 has: 33 Player 1 has: 19
+KC versus AH (Notched!)
+Player 0 has: 34 Player 1 has: 18
+7C versus TS
+Player 0 has: 33 Player 1 has: 19
+5C versus 9H
+Player 0 has: 32 Player 1 has: 20
+9S versus KH
+Player 0 has: 31 Player 1 has: 21
+6S versus JD
+Player 0 has: 30 Player 1 has: 22
+QS versus 8C
+Player 0 has: 31 Player 1 has: 21
+9D versus JH
+Player 0 has: 30 Player 1 has: 22
+6C versus 5S (Notched!)
+Player 0 has: 29 Player 1 has: 23
+QH versus 2H
+Player 0 has: 30 Player 1 has: 22
+7D versus 3S
+Player 0 has: 31 Player 1 has: 21
+AD versus TD
+Player 0 has: 32 Player 1 has: 20
+2D versus 4S
+Player 0 has: 31 Player 1 has: 21
+4C versus JS
+Player 0 has: 30 Player 1 has: 22
+6H versus 3D
+Player 0 has: 31 Player 1 has: 21
+9C versus QC
+Player 0 has: 30 Player 1 has: 22
+3H versus 2C (Notched!)
+Player 0 has: 29 Player 1 has: 23
+AC versus AS
+WAR!
+4D versus 7C
+Player 0 has: 25 Player 1 has: 27
+KD versus TS
+Player 0 has: 26 Player 1 has: 26
+4H versus 5C (Notched!)
+Player 0 has: 27 Player 1 has: 25
+3C versus 9H
+Player 0 has: 26 Player 1 has: 26
+KS versus 9S
+Player 0 has: 27 Player 1 has: 25
+8S versus KH
+Player 0 has: 26 Player 1 has: 26
+QD versus JD (Notched!)
+Player 0 has: 25 Player 1 has: 27
+5D versus 6S (Notched!)
+Player 0 has: 26 Player 1 has: 26
+8H versus 9D (Notched!)
+Player 0 has: 27 Player 1 has: 25
+JC versus JH
+WAR!
+TC versus 2D
+Player 0 has: 31 Player 1 has: 21
+6D versus 4S
+Player 0 has: 32 Player 1 has: 20
+KC versus 4C
+Player 0 has: 33 Player 1 has: 19
+AH versus JS
+Player 0 has: 34 Player 1 has: 18
+8C versus 9C (Notched!)
+Player 0 has: 35 Player 1 has: 17
+QS versus QC
+WAR!
+3S versus TH
+Player 0 has: 31 Player 1 has: 21
+7D versus 4D
+Player 0 has: 32 Player 1 has: 20
+TD versus 8D
+Player 0 has: 33 Player 1 has: 19
+AD versus 7C
+Player 0 has: 34 Player 1 has: 18
+3D versus 7S
+Player 0 has: 33 Player 1 has: 19
+6H versus AS
+Player 0 has: 32 Player 1 has: 20
+TS versus 5H
+Player 0 has: 33 Player 1 has: 19
+KD versus AC (Notched!)
+Player 0 has: 34 Player 1 has: 18
+4H versus 3C (Notched!)
+Player 0 has: 33 Player 1 has: 19
+5C versus 9H
+Player 0 has: 32 Player 1 has: 20
+KS versus KH
+WAR!
+6S versus JD
+Player 0 has: 28 Player 1 has: 24
+9D versus 2C
+Player 0 has: 29 Player 1 has: 23
+8H versus QS
+Player 0 has: 28 Player 1 has: 24
+TC versus 3H
+Player 0 has: 29 Player 1 has: 23
+JC versus QH (Notched!)
+Player 0 has: 30 Player 1 has: 22
+7H versus QC
+Player 0 has: 29 Player 1 has: 23
+2D versus TH
+Player 0 has: 28 Player 1 has: 24
+2S versus 2H
+WAR!
+6C versus 3D
+Player 0 has: 32 Player 1 has: 20
+6D versus AS
+Player 0 has: 31 Player 1 has: 21
+4S versus 6H
+Player 0 has: 30 Player 1 has: 22
+KC versus 4H
+Player 0 has: 31 Player 1 has: 21
+4C versus 3C (Notched!)
+Player 0 has: 30 Player 1 has: 22
+JS versus 5C
+Player 0 has: 31 Player 1 has: 21
+AH versus 9H
+Player 0 has: 32 Player 1 has: 20
+9C versus 8S (Notched!)
+Player 0 has: 31 Player 1 has: 21
+8C versus KS
+Player 0 has: 30 Player 1 has: 22
+4D versus QD
+Player 0 has: 29 Player 1 has: 23
+7D versus JD
+Player 0 has: 28 Player 1 has: 24
+TD versus 5D
+Player 0 has: 29 Player 1 has: 23
+8D versus 9S (Notched!)
+Player 0 has: 30 Player 1 has: 22
+AD versus KH (Notched!)
+Player 0 has: 29 Player 1 has: 23
+7C versus 6S (Notched!)
+Player 0 has: 28 Player 1 has: 24
+TS versus QS
+Player 0 has: 27 Player 1 has: 25
+5H versus 8H
+Player 0 has: 26 Player 1 has: 26
+KD versus 7H
+Player 0 has: 27 Player 1 has: 25
+AC versus QC
+Player 0 has: 28 Player 1 has: 24
+2C versus TH
+Player 0 has: 27 Player 1 has: 25
+9D versus 2D
+Player 0 has: 28 Player 1 has: 24
+3H versus 6D
+Player 0 has: 27 Player 1 has: 25
+TC versus AS
+Player 0 has: 26 Player 1 has: 26
+QH versus 6H
+Player 0 has: 27 Player 1 has: 25
+JC versus 4S
+Player 0 has: 28 Player 1 has: 24
+3S versus 3C
+WAR!
+3D versus 9C
+Player 0 has: 24 Player 1 has: 28
+6C versus KS
+Player 0 has: 23 Player 1 has: 29
+2S versus 8C
+Player 0 has: 22 Player 1 has: 30
+JH versus 4D
+Player 0 has: 23 Player 1 has: 29
+2H versus QD
+Player 0 has: 22 Player 1 has: 30
+KC versus JD
+Player 0 has: 23 Player 1 has: 29
+4H versus 7D
+Player 0 has: 22 Player 1 has: 30
+5C versus KH
+Player 0 has: 21 Player 1 has: 31
+JS versus AD
+Player 0 has: 20 Player 1 has: 32
+9H versus 7C
+Player 0 has: 21 Player 1 has: 31
+AH versus 6S
+Player 0 has: 22 Player 1 has: 30
+TD versus TS
+WAR!
+8D versus 8H
+WAR!
+QC versus 6D
+Player 0 has: 29 Player 1 has: 23
+AC versus 3H
+Player 0 has: 30 Player 1 has: 22
+9D versus AS
+Player 0 has: 29 Player 1 has: 23
+2D versus TC
+Player 0 has: 28 Player 1 has: 24
+QH versus 9C
+Player 0 has: 29 Player 1 has: 23
+6H versus 5S (Notched!)
+Player 0 has: 28 Player 1 has: 24
+JC versus 3C
+Player 0 has: 29 Player 1 has: 23
+4S versus 7S
+Player 0 has: 28 Player 1 has: 24
+JH versus 4C
+Player 0 has: 29 Player 1 has: 23
+4D versus 3S (Notched!)
+Player 0 has: 28 Player 1 has: 24
+KC versus 3D
+Player 0 has: 29 Player 1 has: 23
+JD versus 8S
+Player 0 has: 30 Player 1 has: 22
+7C versus KS
+Player 0 has: 29 Player 1 has: 23
+9H versus 6C
+Player 0 has: 30 Player 1 has: 22
+AH versus 2S
+Player 0 has: 31 Player 1 has: 21
+6S versus 8C
+Player 0 has: 30 Player 1 has: 22
+QS versus 2H
+Player 0 has: 31 Player 1 has: 21
+7H versus QD
+Player 0 has: 30 Player 1 has: 22
+QC versus 7D
+Player 0 has: 31 Player 1 has: 21
+8D versus 4H
+Player 0 has: 32 Player 1 has: 20
+9S versus KH
+Player 0 has: 31 Player 1 has: 21
+TD versus 5C
+Player 0 has: 32 Player 1 has: 20
+2C versus JS
+Player 0 has: 31 Player 1 has: 21
+8H versus AD
+Player 0 has: 30 Player 1 has: 22
+6D versus AS
+Player 0 has: 29 Player 1 has: 23
+KD versus 9D
+Player 0 has: 30 Player 1 has: 22
+TS versus 2D
+Player 0 has: 31 Player 1 has: 21
+TH versus TC
+WAR!
+AC versus 4S
+Player 0 has: 35 Player 1 has: 17
+3H versus 7S
+Player 0 has: 34 Player 1 has: 18
+9C versus 3S
+Player 0 has: 35 Player 1 has: 17
+QH versus 4D
+Player 0 has: 36 Player 1 has: 16
+3C versus 7C
+Player 0 has: 35 Player 1 has: 17
+JC versus KS
+Player 0 has: 34 Player 1 has: 18
+4C versus 6S
+Player 0 has: 33 Player 1 has: 19
+JH versus 8C
+Player 0 has: 34 Player 1 has: 18
+3D versus QD
+Player 0 has: 33 Player 1 has: 19
+KC versus 7H
+Player 0 has: 34 Player 1 has: 18
+JD versus KH
+Player 0 has: 33 Player 1 has: 19
+8S versus 9S (Notched!)
+Player 0 has: 34 Player 1 has: 18
+6C versus 2C
+Player 0 has: 35 Player 1 has: 17
+9H versus JS
+Player 0 has: 34 Player 1 has: 18
+AH versus AD
+WAR!
+2H versus AS
+Player 0 has: 30 Player 1 has: 22
+7D versus 3H
+Player 0 has: 31 Player 1 has: 21
+QC versus 7S
+Player 0 has: 32 Player 1 has: 20
+8D versus 7C (Notched!)
+Player 0 has: 31 Player 1 has: 21
+4H versus 3C (Notched!)
+Player 0 has: 30 Player 1 has: 22
+TD versus JC (Notched!)
+Player 0 has: 31 Player 1 has: 21
+5C versus KS
+Player 0 has: 30 Player 1 has: 22
+9D versus 4C
+Player 0 has: 31 Player 1 has: 21
+KD versus 6S
+Player 0 has: 32 Player 1 has: 20
+2D versus QD
+Player 0 has: 31 Player 1 has: 21
+TS versus 3D
+Player 0 has: 32 Player 1 has: 20
+4S versus JD
+Player 0 has: 31 Player 1 has: 21
+AC versus KH (Notched!)
+Player 0 has: 30 Player 1 has: 22
+5D versus 9H
+Player 0 has: 29 Player 1 has: 23
+TC versus JS (Notched!)
+Player 0 has: 30 Player 1 has: 22
+5H versus 2S
+Player 0 has: 31 Player 1 has: 21
+5S versus AD
+Player 0 has: 30 Player 1 has: 22
+TH versus 8H
+Player 0 has: 31 Player 1 has: 21
+6H versus AH
+Player 0 has: 30 Player 1 has: 22
+3S versus AS
+Player 0 has: 29 Player 1 has: 23
+9C versus QS
+Player 0 has: 28 Player 1 has: 24
+4D versus 2H
+Player 0 has: 29 Player 1 has: 23
+QH versus 6D
+Player 0 has: 30 Player 1 has: 22
+8C versus 8D
+WAR!
+KC versus 3C
+Player 0 has: 34 Player 1 has: 18
+9S versus KS
+Player 0 has: 33 Player 1 has: 19
+8S versus 5C
+Player 0 has: 34 Player 1 has: 18
+6C versus 2D
+Player 0 has: 35 Player 1 has: 17
+2C versus QD
+Player 0 has: 34 Player 1 has: 18
+7D versus JD
+Player 0 has: 33 Player 1 has: 19
+3H versus 4S (Notched!)
+Player 0 has: 34 Player 1 has: 18
+7S versus AC
+Player 0 has: 33 Player 1 has: 19
+QC versus KH (Notched!)
+Player 0 has: 34 Player 1 has: 18
+JC versus 5D
+Player 0 has: 35 Player 1 has: 17
+TD versus 9H (Notched!)
+Player 0 has: 34 Player 1 has: 18
+9D versus AD
+Player 0 has: 33 Player 1 has: 19
+4C versus 5S (Notched!)
+Player 0 has: 34 Player 1 has: 18
+KD versus AH (Notched!)
+Player 0 has: 35 Player 1 has: 17
+6S versus 6H
+WAR!
+JS versus 9C
+Player 0 has: 39 Player 1 has: 13
+TC versus QS
+Player 0 has: 38 Player 1 has: 14
+5H versus 9S
+Player 0 has: 37 Player 1 has: 15
+2S versus KS
+Player 0 has: 36 Player 1 has: 16
+TH versus QD
+Player 0 has: 35 Player 1 has: 17
+8H versus 2C
+Player 0 has: 36 Player 1 has: 16
+4D versus JD
+Player 0 has: 35 Player 1 has: 17
+2H versus 7D
+Player 0 has: 34 Player 1 has: 18
+QH versus AC
+Player 0 has: 33 Player 1 has: 19
+6D versus 7S (Notched!)
+Player 0 has: 34 Player 1 has: 18
+JH versus TD (Notched!)
+Player 0 has: 33 Player 1 has: 19
+8C versus 9H (Notched!)
+Player 0 has: 34 Player 1 has: 18
+3C versus 9D
+Player 0 has: 33 Player 1 has: 19
+7C versus AD
+Player 0 has: 32 Player 1 has: 20
+KC versus QS (Notched!)
+Player 0 has: 31 Player 1 has: 21
+7H versus TC
+Player 0 has: 30 Player 1 has: 22
+4H versus 5H (Notched!)
+Player 0 has: 31 Player 1 has: 21
+8D versus 9S (Notched!)
+Player 0 has: 32 Player 1 has: 20
+8S versus KS
+Player 0 has: 31 Player 1 has: 21
+5C versus 2S
+Player 0 has: 32 Player 1 has: 20
+2D versus QD
+Player 0 has: 31 Player 1 has: 21
+6C versus TH
+Player 0 has: 30 Player 1 has: 22
+3H versus 4D (Notched!)
+Player 0 has: 31 Player 1 has: 21
+4S versus JD
+Player 0 has: 30 Player 1 has: 22
+KH versus 7D
+Player 0 has: 31 Player 1 has: 21
+QC versus 2H
+Player 0 has: 32 Player 1 has: 20
+JC versus QH (Notched!)
+Player 0 has: 33 Player 1 has: 19
+5D versus AC
+Player 0 has: 32 Player 1 has: 20
+5S versus TD
+Player 0 has: 31 Player 1 has: 21
+4C versus JH
+Player 0 has: 30 Player 1 has: 22
+AH versus 3C
+Player 0 has: 31 Player 1 has: 21
+KD versus 9D
+Player 0 has: 32 Player 1 has: 20
+JS versus AD
+Player 0 has: 31 Player 1 has: 21
+AS versus 7C
+Player 0 has: 32 Player 1 has: 20
+TS versus KC
+Player 0 has: 31 Player 1 has: 21
+3S versus QS
+Player 0 has: 30 Player 1 has: 22
+9C versus TC (Notched!)
+Player 0 has: 31 Player 1 has: 21
+6H versus 7H (Notched!)
+Player 0 has: 32 Player 1 has: 20
+3D versus KS
+Player 0 has: 31 Player 1 has: 21
+6S versus 8S
+Player 0 has: 30 Player 1 has: 22
+8H versus 2D
+Player 0 has: 31 Player 1 has: 21
+2C versus QD
+Player 0 has: 30 Player 1 has: 22
+7S versus TH
+Player 0 has: 29 Player 1 has: 23
+6D versus 6C
+WAR!
+5H versus 5D
+WAR!
+9S versus 5S
+Player 0 has: 36 Player 1 has: 16
+2S versus JH
+Player 0 has: 35 Player 1 has: 17
+5C versus 4C (Notched!)
+Player 0 has: 34 Player 1 has: 18
+4D versus JS
+Player 0 has: 33 Player 1 has: 19
+3H versus AD
+Player 0 has: 32 Player 1 has: 20
+KH versus TS
+Player 0 has: 33 Player 1 has: 19
+7D versus KC
+Player 0 has: 32 Player 1 has: 20
+2H versus QS
+Player 0 has: 31 Player 1 has: 21
+QC versus 3S
+Player 0 has: 32 Player 1 has: 20
+QH versus 3D
+Player 0 has: 33 Player 1 has: 19
+JC versus KS
+Player 0 has: 32 Player 1 has: 20
+3C versus 6S
+Player 0 has: 31 Player 1 has: 21
+AH versus 8S
+Player 0 has: 32 Player 1 has: 20
+9D versus 2C
+Player 0 has: 33 Player 1 has: 19
+KD versus QD (Notched!)
+Player 0 has: 32 Player 1 has: 20
+7C versus 7S
+WAR!
+9C versus 2S
+Player 0 has: 36 Player 1 has: 16
+7H versus 4C
+Player 0 has: 37 Player 1 has: 15
+6H versus 5C (Notched!)
+Player 0 has: 36 Player 1 has: 16
+2D versus 4D
+Player 0 has: 35 Player 1 has: 17
+8H versus JS
+Player 0 has: 34 Player 1 has: 18
+6D versus 3H
+Player 0 has: 35 Player 1 has: 17
+4S versus AD
+Player 0 has: 34 Player 1 has: 18
+5D versus 7D
+Player 0 has: 33 Player 1 has: 19
+8C versus KC
+Player 0 has: 32 Player 1 has: 20
+6C versus 2H
+Player 0 has: 33 Player 1 has: 19
+AC versus QS
+Player 0 has: 34 Player 1 has: 18
 8D versus JC
+Player 0 has: 33 Player 1 has: 19
+4H versus KS
+Player 0 has: 32 Player 1 has: 20
+5H versus 3C
+Player 0 has: 33 Player 1 has: 19
+JD versus 6S
+Player 0 has: 34 Player 1 has: 18
+9S versus QD
+Player 0 has: 33 Player 1 has: 19
+TD versus KD
+Player 0 has: 32 Player 1 has: 20
+9H versus 5C
+Player 0 has: 33 Player 1 has: 19
+5S versus 6H (Notched!)
+Player 0 has: 34 Player 1 has: 18
+KH versus 4D
+Player 0 has: 35 Player 1 has: 17
+TS versus 2D
+Player 0 has: 36 Player 1 has: 16
+QC versus JS (Notched!)
+Player 0 has: 35 Player 1 has: 17
+3S versus 8H
+Player 0 has: 34 Player 1 has: 18
+QH versus 4S
+Player 0 has: 35 Player 1 has: 17
+3D versus AD
+Player 0 has: 34 Player 1 has: 18
+AH versus 5D
+Player 0 has: 35 Player 1 has: 17
+8S versus 7D (Notched!)
+Player 0 has: 34 Player 1 has: 18
+2C versus 8C
+Player 0 has: 33 Player 1 has: 19
+9D versus KC
+Player 0 has: 32 Player 1 has: 20
+9C versus 8D (Notched!)
+Player 0 has: 31 Player 1 has: 21
+AS versus JC
+Player 0 has: 32 Player 1 has: 20
+TH versus KS
+Player 0 has: 31 Player 1 has: 21
+JH versus 4H
+Player 0 has: 32 Player 1 has: 20
+TC versus 9S (Notched!)
+Player 0 has: 31 Player 1 has: 21
+7C versus QD
+Player 0 has: 30 Player 1 has: 22
+7S versus TD
+Player 0 has: 29 Player 1 has: 23
+2S versus KD
+Player 0 has: 28 Player 1 has: 24
+7H versus QC
+Player 0 has: 27 Player 1 has: 25
+4C versus JS
+Player 0 has: 26 Player 1 has: 26
+3H versus 8H
+Player 0 has: 25 Player 1 has: 27
+6D versus 3S
+Player 0 has: 26 Player 1 has: 26
+2H versus AD
+Player 0 has: 25 Player 1 has: 27
+6C versus 3D
+Player 0 has: 26 Player 1 has: 26
+QS versus 7D
+Player 0 has: 27 Player 1 has: 25
+AC versus 8S
+Player 0 has: 28 Player 1 has: 24
+3C versus 8C
+Player 0 has: 27 Player 1 has: 25
+5H versus 2C
+Player 0 has: 28 Player 1 has: 24
+JD versus 9D
+Player 0 has: 29 Player 1 has: 23
+6S versus KC
+Player 0 has: 28 Player 1 has: 24
+9H versus 8D (Notched!)
+Player 0 has: 27 Player 1 has: 25
+5C versus 9C
+Player 0 has: 26 Player 1 has: 26
+5S versus KS
+Player 0 has: 25 Player 1 has: 27
+6H versus TH
+Player 0 has: 24 Player 1 has: 28
+4D versus 9S
+Player 0 has: 23 Player 1 has: 29
+KH versus TC
+Player 0 has: 24 Player 1 has: 28
+2D versus QD
+Player 0 has: 23 Player 1 has: 29
+TS versus 7C
+Player 0 has: 24 Player 1 has: 28
+4S versus TD
+Player 0 has: 23 Player 1 has: 29
+QH versus 7S
+Player 0 has: 24 Player 1 has: 28
+AH versus 2S
+Player 0 has: 25 Player 1 has: 27
+5D versus KD
+Player 0 has: 24 Player 1 has: 28
+JC versus QC (Notched!)
+Player 0 has: 25 Player 1 has: 27
+AS versus 7H
+Player 0 has: 26 Player 1 has: 26
+4H versus JS
+Player 0 has: 25 Player 1 has: 27
+JH versus 4C
+Player 0 has: 26 Player 1 has: 26
+6D versus 3H
+Player 0 has: 27 Player 1 has: 25
+3S versus 8H
+Player 0 has: 26 Player 1 has: 26
+6C versus 2H
+Player 0 has: 27 Player 1 has: 25
+3D versus AD
+Player 0 has: 26 Player 1 has: 26
+QS versus 8C
+Player 0 has: 27 Player 1 has: 25
+7D versus 3C
+Player 0 has: 28 Player 1 has: 24
+AC versus 6S
+Player 0 has: 29 Player 1 has: 23
+8S versus KC
+Player 0 has: 28 Player 1 has: 24
+5H versus 9H
+Player 0 has: 27 Player 1 has: 25
+2C versus 8D
+Player 0 has: 26 Player 1 has: 26
+9D versus 9C
+WAR!
+KH versus 5S
+Player 0 has: 30 Player 1 has: 22
+TS versus TH
+WAR!
+QH versus 4D
+Player 0 has: 34 Player 1 has: 18
+2S versus 2D
+WAR!
+JC versus 4S
+Player 0 has: 38 Player 1 has: 14
+AS versus 5D
+Player 0 has: 39 Player 1 has: 13
+7H versus KD
+Player 0 has: 38 Player 1 has: 14
+4C versus JS
+Player 0 has: 37 Player 1 has: 15
+JH versus 4H
+Player 0 has: 38 Player 1 has: 14
+6D versus 8H
+Player 0 has: 37 Player 1 has: 15
+3H versus 3S
+WAR!
+QS versus 8S
+Player 0 has: 41 Player 1 has: 11
+8C versus KC
+Player 0 has: 40 Player 1 has: 12
+3C versus 5H
+Player 0 has: 39 Player 1 has: 13
+7D versus 9H
+Player 0 has: 38 Player 1 has: 14
+6S versus 2C
+Player 0 has: 39 Player 1 has: 13
+AC versus 8D
+Player 0 has: 40 Player 1 has: 12
+5S versus KD
+Player 0 has: 39 Player 1 has: 13
+JD versus 7H
+Player 0 has: 40 Player 1 has: 12
+5C versus JS
+Player 0 has: 39 Player 1 has: 13
+KH versus 4C
+Player 0 has: 40 Player 1 has: 12
+9C versus 8H (Notched!)
+Player 0 has: 39 Player 1 has: 13
+TC versus 6D
+Player 0 has: 40 Player 1 has: 12
+9D versus 8C (Notched!)
+Player 0 has: 39 Player 1 has: 13
+KS versus KC
+WAR!
+6H versus 7D
+Player 0 has: 35 Player 1 has: 17
+QH versus 9H
+Player 0 has: 36 Player 1 has: 16
+9S versus KD
+Player 0 has: 35 Player 1 has: 17
+TS versus 5S
+Player 0 has: 36 Player 1 has: 16
+TH versus JS (Notched!)
+Player 0 has: 37 Player 1 has: 15
+7S versus 5C
+Player 0 has: 38 Player 1 has: 14
+2D versus 9C
+Player 0 has: 37 Player 1 has: 15
+JC versus 8H
+Player 0 has: 38 Player 1 has: 14
+QC versus 9D
+Player 0 has: 39 Player 1 has: 13
+TD versus 8C
+Player 0 has: 40 Player 1 has: 12
+AH versus 7C
+Player 0 has: 41 Player 1 has: 11
+QD versus 3C
+Player 0 has: 42 Player 1 has: 10
+4S versus KC
+Player 0 has: 41 Player 1 has: 11
+2S versus KS
+Player 0 has: 40 Player 1 has: 12
+AS versus 4D
+Player 0 has: 41 Player 1 has: 11
+5D versus 6H (Notched!)
+Player 0 has: 42 Player 1 has: 10
+JH versus 5H
+Player 0 has: 43 Player 1 has: 9
+4H versus 7D
+Player 0 has: 42 Player 1 has: 10
+3D versus 9S
+Player 0 has: 41 Player 1 has: 11
+AD versus KD (Notched!)
+Player 0 has: 40 Player 1 has: 12
+3H versus 9C
+Player 0 has: 39 Player 1 has: 13
+3S versus 2D (Notched!)
+Player 0 has: 38 Player 1 has: 14
+2H versus KC
+Player 0 has: 37 Player 1 has: 15
+QS versus 4S
+Player 0 has: 38 Player 1 has: 14
+6C versus 2S
+Player 0 has: 39 Player 1 has: 13
+8S versus KS
+Player 0 has: 38 Player 1 has: 14
+2C versus 4H
+Player 0 has: 37 Player 1 has: 15
+6S versus 7D (Notched!)
+Player 0 has: 38 Player 1 has: 14
+AC versus 9S
+Player 0 has: 39 Player 1 has: 13
+8D versus 3D
+Player 0 has: 40 Player 1 has: 12
+JD versus KD
+Player 0 has: 39 Player 1 has: 13
+7H versus AD
+Player 0 has: 38 Player 1 has: 14
+KH versus 3H
+Player 0 has: 39 Player 1 has: 13
+4C versus 9C
+Player 0 has: 38 Player 1 has: 14
+TC versus 3S
+Player 0 has: 39 Player 1 has: 13
+6D versus 2D
+Player 0 has: 40 Player 1 has: 12
+9H versus KC
+Player 0 has: 39 Player 1 has: 13
+QH versus 2H
+Player 0 has: 40 Player 1 has: 12
+TS versus 8S
+Player 0 has: 41 Player 1 has: 11
+5S versus KS
+Player 0 has: 40 Player 1 has: 12
+TH versus 4H
+Player 0 has: 41 Player 1 has: 11
+JS versus 2C
+Player 0 has: 42 Player 1 has: 10
+7S versus JD
+Player 0 has: 41 Player 1 has: 11
+5C versus KD
+Player 0 has: 40 Player 1 has: 12
+8H versus AD
+Player 0 has: 39 Player 1 has: 13
+JC versus 7H
+Player 0 has: 40 Player 1 has: 12
+9D versus 9C
+WAR!
+TD versus KC
+Player 0 has: 36 Player 1 has: 16
+7C versus KS
+Player 0 has: 35 Player 1 has: 17
+AH versus 5S
+Player 0 has: 36 Player 1 has: 16
+QD versus 7S
+Player 0 has: 37 Player 1 has: 15
+3C versus JD
+Player 0 has: 36 Player 1 has: 16
+4D versus 5C (Notched!)
+Player 0 has: 37 Player 1 has: 15
+AS versus KD (Notched!)
+Player 0 has: 36 Player 1 has: 16
+5D versus 8H
+Player 0 has: 35 Player 1 has: 17
+6H versus AD
+Player 0 has: 34 Player 1 has: 18
+JH versus QC (Notched!)
+Player 0 has: 35 Player 1 has: 17
+5H versus TD
+Player 0 has: 34 Player 1 has: 18
+4S versus 4C
+WAR!
+2S versus 9D
+Player 0 has: 30 Player 1 has: 22
+6S versus 8C
+Player 0 has: 29 Player 1 has: 23
+7D versus 9H
+Player 0 has: 28 Player 1 has: 24
+AC versus 7C
+Player 0 has: 29 Player 1 has: 23
+9S versus KS
+Player 0 has: 28 Player 1 has: 24
+3D versus JD
+Player 0 has: 27 Player 1 has: 25
+8D versus 3C
+Player 0 has: 28 Player 1 has: 24
+3H versus AS
+Player 0 has: 27 Player 1 has: 25
+KH versus KD
+WAR!
+2D versus AD
+Player 0 has: 23 Player 1 has: 29
+6D versus 6H
+WAR!
+8S versus 4S
+Player 0 has: 27 Player 1 has: 25
+TS versus 4C
+Player 0 has: 28 Player 1 has: 24
+4H versus QS
+Player 0 has: 27 Player 1 has: 25
+TH versus 6C
+Player 0 has: 28 Player 1 has: 24
+2C versus 2S
+WAR!
+JC versus 9D
+Player 0 has: 32 Player 1 has: 20
+AH versus 8C
+Player 0 has: 33 Player 1 has: 19
+5S versus 6S (Notched!)
+Player 0 has: 34 Player 1 has: 18
+QD versus 7D
+Player 0 has: 35 Player 1 has: 17
+7S versus 9H
+Player 0 has: 34 Player 1 has: 18
+5C versus KS
+Player 0 has: 33 Player 1 has: 19
+4D versus 9S
+Player 0 has: 32 Player 1 has: 20
+QC versus 3D
+Player 0 has: 33 Player 1 has: 19
+JH versus JD
+WAR!
+8D versus AD
+Player 0 has: 29 Player 1 has: 23
+3C versus 2D (Notched!)
+Player 0 has: 28 Player 1 has: 24
+6H versus 3S
+Player 0 has: 29 Player 1 has: 23
+5H versus 8H
+Player 0 has: 28 Player 1 has: 24
+2H versus KD
+Player 0 has: 27 Player 1 has: 25
+8S versus TC
+Player 0 has: 26 Player 1 has: 26
+QH versus KH (Notched!)
+Player 0 has: 27 Player 1 has: 25
+6D versus 5D (Notched!)
+Player 0 has: 26 Player 1 has: 26
+4S versus QS
+Player 0 has: 25 Player 1 has: 27
+TD versus 4H
+Player 0 has: 26 Player 1 has: 26
+TS versus 7S
+Player 0 has: 27 Player 1 has: 25
+4C versus 9H
+Player 0 has: 26 Player 1 has: 26
+TH versus KS
+Player 0 has: 25 Player 1 has: 27
+6C versus 5C (Notched!)
+Player 0 has: 24 Player 1 has: 28
+2S versus 9S
+Player 0 has: 23 Player 1 has: 29
+2C versus 4D
+Player 0 has: 22 Player 1 has: 30
+9C versus 3H
+Player 0 has: 23 Player 1 has: 29
+KC versus AS (Notched!)
+Player 0 has: 24 Player 1 has: 28
+JS versus AD
+Player 0 has: 23 Player 1 has: 29
+7H versus 8D (Notched!)
+Player 0 has: 24 Player 1 has: 28
+9D versus JH
+Player 0 has: 23 Player 1 has: 29
+JC versus AC
+Player 0 has: 22 Player 1 has: 30
+8C versus JD
+Player 0 has: 21 Player 1 has: 31
+AH versus 7C
+Player 0 has: 22 Player 1 has: 30
+5S versus 2D
+Player 0 has: 23 Player 1 has: 29
+6S versus 3C
+Player 0 has: 24 Player 1 has: 28
+7D versus 5H
+Player 0 has: 25 Player 1 has: 27
+QD versus 8H
+Player 0 has: 26 Player 1 has: 26
+QC versus 2H
+Player 0 has: 27 Player 1 has: 25
+3D versus KD
+Player 0 has: 26 Player 1 has: 26
+3S versus 8S
+Player 0 has: 25 Player 1 has: 27
+6H versus TC
+Player 0 has: 24 Player 1 has: 28
+QH versus 5D
+Player 0 has: 25 Player 1 has: 27
+KH versus 6D
+Player 0 has: 26 Player 1 has: 26
+4H versus 4S
+WAR!
+7S versus 9H
+Player 0 has: 22 Player 1 has: 30
+9C versus KS
+Player 0 has: 21 Player 1 has: 31
+3H versus TH
+Player 0 has: 20 Player 1 has: 32
+KC versus 6C
+Player 0 has: 21 Player 1 has: 31
+AS versus 5C
+Player 0 has: 22 Player 1 has: 30
+8D versus 9S (Notched!)
+Player 0 has: 23 Player 1 has: 29
+7H versus 2S
+Player 0 has: 24 Player 1 has: 28
+AH versus 2C
+Player 0 has: 25 Player 1 has: 27
+7C versus 4D
+Player 0 has: 26 Player 1 has: 26
+5S versus AD
+Player 0 has: 25 Player 1 has: 27
+2D versus JS
+Player 0 has: 24 Player 1 has: 28
+3C versus JH
+Player 0 has: 23 Player 1 has: 29
+6S versus 9D
+Player 0 has: 22 Player 1 has: 30
+5H versus JC
+Player 0 has: 21 Player 1 has: 31
+7D versus AC
+Player 0 has: 20 Player 1 has: 32
+8H versus 8C
+WAR!
+QC versus 3D
+Player 0 has: 24 Player 1 has: 28
+QH versus 3S
+Player 0 has: 25 Player 1 has: 27
+5D versus 8S
+Player 0 has: 24 Player 1 has: 28
+6D versus TC
+Player 0 has: 23 Player 1 has: 29
+KH versus 6H
+Player 0 has: 24 Player 1 has: 28
+KC versus 4H
+Player 0 has: 25 Player 1 has: 27
+6C versus 4C
+Player 0 has: 26 Player 1 has: 26
+AS versus 7S
+Player 0 has: 27 Player 1 has: 25
+5C versus 4S (Notched!)
+Player 0 has: 26 Player 1 has: 26
+9S versus TS (Notched!)
+Player 0 has: 27 Player 1 has: 25
+8D versus TD
+Player 0 has: 26 Player 1 has: 26
+2S versus 9H
+Player 0 has: 25 Player 1 has: 27
+7H versus QS
+Player 0 has: 24 Player 1 has: 28
+AH versus KS (Notched!)
+Player 0 has: 23 Player 1 has: 29
+2C versus 9C
+Player 0 has: 22 Player 1 has: 30
+4D versus TH
+Player 0 has: 21 Player 1 has: 31
+7C versus 3H
+Player 0 has: 22 Player 1 has: 30
+2H versus AD
+Player 0 has: 21 Player 1 has: 31
+3D versus 5S
+Player 0 has: 20 Player 1 has: 32
+JD versus 2D
+Player 0 has: 21 Player 1 has: 31
+8C versus JS
+Player 0 has: 20 Player 1 has: 32
+QD versus JH (Notched!)
+Player 0 has: 19 Player 1 has: 33
+8H versus 3C
+Player 0 has: 20 Player 1 has: 32
+QC versus 6S
+Player 0 has: 21 Player 1 has: 31
+KD versus 9D
+Player 0 has: 22 Player 1 has: 30
+QH versus 5H
+Player 0 has: 23 Player 1 has: 29
+3S versus JC
+Player 0 has: 22 Player 1 has: 30
+KH versus 7D
+Player 0 has: 23 Player 1 has: 29
+6H versus AC
+Player 0 has: 22 Player 1 has: 30
+KC versus 5D
+Player 0 has: 23 Player 1 has: 29
+4H versus 8S
+Player 0 has: 22 Player 1 has: 30
+6C versus TC
+Player 0 has: 21 Player 1 has: 31
+4C versus 6D
+Player 0 has: 20 Player 1 has: 32
+AS versus 5C
+Player 0 has: 21 Player 1 has: 31
+7S versus 4S
+Player 0 has: 22 Player 1 has: 30
+TS versus TD
+WAR!
+7C versus 9H
+Player 0 has: 18 Player 1 has: 34
+JD versus 7H
+Player 0 has: 19 Player 1 has: 33
+2D versus QS
+Player 0 has: 18 Player 1 has: 34
+3C versus AH
+Player 0 has: 17 Player 1 has: 35
+8H versus KS
+Player 0 has: 16 Player 1 has: 36
+QC versus 9C
+Player 0 has: 17 Player 1 has: 35
+6S versus 2C
+Player 0 has: 18 Player 1 has: 34
+KD versus 4D
+Player 0 has: 19 Player 1 has: 33
+9D versus TH (Notched!)
+Player 0 has: 20 Player 1 has: 32
+5H versus 2H
+Player 0 has: 21 Player 1 has: 31
+QH versus AD
+Player 0 has: 20 Player 1 has: 32
+KH versus 5S
+Player 0 has: 21 Player 1 has: 31
+7D versus 3D
+Player 0 has: 22 Player 1 has: 30
+KC versus 8C
+Player 0 has: 23 Player 1 has: 29
+5D versus JS
+Player 0 has: 22 Player 1 has: 30
+AS versus QD
+Player 0 has: 23 Player 1 has: 29
+5C versus JH
+Player 0 has: 22 Player 1 has: 30
+7S versus JC
+Player 0 has: 21 Player 1 has: 31
+4S versus 3S (Notched!)
+Player 0 has: 20 Player 1 has: 32
+JD versus AC
+Player 0 has: 19 Player 1 has: 33
+7H versus 6H (Notched!)
+Player 0 has: 18 Player 1 has: 34
+9C versus 8S (Notched!)
+Player 0 has: 17 Player 1 has: 35
+QC versus 4H
+Player 0 has: 18 Player 1 has: 34
+6S versus TC
+Player 0 has: 17 Player 1 has: 35
+2C versus 6C
+Player 0 has: 16 Player 1 has: 36
+4D versus 6D
+Player 0 has: 15 Player 1 has: 37
+KD versus 4C
+Player 0 has: 16 Player 1 has: 36
+TH versus 9H (Notched!)
+Player 0 has: 15 Player 1 has: 37
+9D versus 2S
+Player 0 has: 16 Player 1 has: 36
+5H versus 9S
+Player 0 has: 15 Player 1 has: 37
+2H versus 7C
+Player 0 has: 14 Player 1 has: 38
+5S versus TD
+Player 0 has: 13 Player 1 has: 39
+KH versus 8D
+Player 0 has: 14 Player 1 has: 38
+7D versus TS
+Player 0 has: 13 Player 1 has: 39
+3D versus 3H
+WAR!
+AS versus AH
+WAR!
+4H versus KS
+Player 0 has: 6 Player 1 has: 46
+4C versus QH
+Player 0 has: 5 Player 1 has: 47
+KD versus AD (Notched!)
+Player 0 has: 6 Player 1 has: 46
+9D versus JS
+Player 0 has: 5 Player 1 has: 47
+2S versus 5D
+Player 0 has: 4 Player 1 has: 48
+8D versus JH
+Player 0 has: 3 Player 1 has: 49
+KH versus 5C
+Player 0 has: 4 Player 1 has: 48
+AD versus JC
+Player 0 has: 5 Player 1 has: 47
+KD versus 7S
+Player 0 has: 6 Player 1 has: 46
+KH versus 4S
+Player 0 has: 7 Player 1 has: 45
+5C versus 3S
+Player 0 has: 8 Player 1 has: 44
+JC versus AC
+Player 0 has: 7 Player 1 has: 45
+AD versus JD
+Player 0 has: 8 Player 1 has: 44
+KD versus 7H
+Player 0 has: 9 Player 1 has: 43
+7S versus 6H (Notched!)
+Player 0 has: 8 Player 1 has: 44
+4S versus 9C
+Player 0 has: 7 Player 1 has: 45
+KH versus 8S
+Player 0 has: 8 Player 1 has: 44
+5C versus 6S (Notched!)
+Player 0 has: 9 Player 1 has: 43
+3S versus TC
+Player 0 has: 8 Player 1 has: 44
+AD versus 2C
+Player 0 has: 9 Player 1 has: 43
+JD versus 6C
+Player 0 has: 10 Player 1 has: 42
+KD versus 4D
+Player 0 has: 11 Player 1 has: 41
+7H versus 6D (Notched!)
+Player 0 has: 10 Player 1 has: 42
+8S versus 9H (Notched!)
+Player 0 has: 11 Player 1 has: 41
+KH versus TH
+Player 0 has: 12 Player 1 has: 40
+5C versus 5H
+WAR!
+2C versus 2H
+WAR!
+4D versus TS
+Player 0 has: 5 Player 1 has: 47
+KD versus 7D
+Player 0 has: 6 Player 1 has: 46
+8S versus KS
+Player 0 has: 5 Player 1 has: 47
+9H versus 2D
+Player 0 has: 6 Player 1 has: 46
+TH versus 8C
+Player 0 has: 7 Player 1 has: 45
+KH versus 3C
+Player 0 has: 8 Player 1 has: 44
+7D versus 3D
+Player 0 has: 9 Player 1 has: 43
+KD versus AS (Notched!)
+Player 0 has: 10 Player 1 has: 42
+9H versus 4H
+Player 0 has: 11 Player 1 has: 41
+2D versus AH
+Player 0 has: 10 Player 1 has: 42
+8C versus QS
+Player 0 has: 9 Player 1 has: 43
+TH versus 3H
+Player 0 has: 10 Player 1 has: 42
+KH versus QC (Notched!)
+Player 0 has: 9 Player 1 has: 43
+3C versus 8H
+Player 0 has: 8 Player 1 has: 44
+3D versus QD
+Player 0 has: 7 Player 1 has: 45
+7D versus KC
+Player 0 has: 6 Player 1 has: 46
+AS versus QH
+Player 0 has: 7 Player 1 has: 45
+KD versus 4C
+Player 0 has: 8 Player 1 has: 44
+4H versus 9D
+Player 0 has: 7 Player 1 has: 45
+9H versus JS
+Player 0 has: 6 Player 1 has: 46
+3H versus 5D
+Player 0 has: 5 Player 1 has: 47
+TH versus 2S
+Player 0 has: 6 Player 1 has: 46
+AS versus 8D
+Player 0 has: 7 Player 1 has: 45
+QH versus JH (Notched!)
+Player 0 has: 6 Player 1 has: 46
+KD versus JC
+Player 0 has: 7 Player 1 has: 45
+4C versus AC
+Player 0 has: 6 Player 1 has: 46
+TH versus 7S
+Player 0 has: 7 Player 1 has: 45
+2S versus 6H
+Player 0 has: 6 Player 1 has: 46
+8D versus 4S
+Player 0 has: 7 Player 1 has: 45
+AS versus 9C
+Player 0 has: 8 Player 1 has: 44
+KD versus TC
+Player 0 has: 9 Player 1 has: 43
+JC versus 3S
+Player 0 has: 10 Player 1 has: 42
+7S versus 7H
+WAR!
+4S versus TS
+Player 0 has: 6 Player 1 has: 46
+9C versus 2C
+Player 0 has: 7 Player 1 has: 45
+AS versus 9S
+Player 0 has: 8 Player 1 has: 44
+TC versus 6S
+Player 0 has: 9 Player 1 has: 43
+KD versus 2H
+Player 0 has: 10 Player 1 has: 42
+3S versus 7C
+Player 0 has: 9 Player 1 has: 43
+JC versus 4D
+Player 0 has: 10 Player 1 has: 42
+2C versus 5H
+Player 0 has: 9 Player 1 has: 43
+9C versus 6C
+Player 0 has: 10 Player 1 has: 42
+9S versus JD
+Player 0 has: 9 Player 1 has: 43
+AS versus 5C
+Player 0 has: 10 Player 1 has: 42
+6S versus 5S (Notched!)
+Player 0 has: 9 Player 1 has: 43
+TC versus AD
+Player 0 has: 8 Player 1 has: 44
+KD versus KS
+WAR!
+JC versus AH
+Player 0 has: 4 Player 1 has: 48
+6C versus 8C
+Player 0 has: 3 Player 1 has: 49
+9C versus QS
 Player 0 has: 2 Player 1 has: 50
-2H versus 4H
+5C versus QC
 Player 0 has: 1 Player 1 has: 51
-6C versus AD
+AS versus KH (Notched!)
 Player 0 has: 0 Player 1 has: 52
 The winner is... Player 1 !
